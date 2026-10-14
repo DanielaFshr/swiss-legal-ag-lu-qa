@@ -1,0 +1,179 @@
+{
+  "judgments": [
+    {
+      "response_id": "dat_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "dat_004",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Dieses Recht ist zwingend und kann vertraglich oder im Voraus nicht wirksam ausgeschlossen werden.",
+          "reason": "Der Ausschluss eines Vorausverzichts wird ausdrücklich und zutreffend erklärt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Die Auskunft wird in der Regel innert 30 Tagen erteilt",
+          "reason": "Die reguläre Frist von 30 Tagen wird vollständig und richtig angegeben."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "(Art. 25 Abs. 2 DSG)",
+          "source_id": "CH_DSG_25",
+          "basis_quote": "7 Die Auskunft wird in der Regel innerhalb von 30 Tagen erteilt.",
+          "severity": "minor",
+          "reason": "Die Auskunftsfrist steht in Absatz 7 und nicht in Absatz 2. Die falsche Absatzangabe verändert die zutreffende materielle Aussage nicht."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide erfragten Inhalte sind vollständig erfüllt. Lediglich die Absatzangabe zur Auskunftsfrist ist falsch."
+    },
+    {
+      "response_id": "hos_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "hos_001",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "auf der Grundlage von Leistungs- und Tarifverträgen zwischen den Leistungserbringern (Spitälern) und den Kostenträgern (Krankenversicherern) abgegolten",
+          "reason": "Die Vertragsparteien werden zutreffend genannt. Die ausdrücklich verlangten Fallpauschalen als Abgeltungsgrundlage fehlen."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "die Patientenakte und das Leistungsjournal",
+          "reason": "Die Antwort nennt zwei andere Dokumentationsinstrumente anstelle der gesetzlich vorgeschriebenen Kostenrechnung und Leistungsstatistik."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Vertragsparteien sind richtig bezeichnet. Die Fallpauschalen fehlen und beide verlangten Dokumentationsinstrumente werden falsch angegeben."
+    },
+    {
+      "response_id": "hos_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "hos_002",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "erteilt der Kanton Luzern dem Listenspital den Leistungsauftrag",
+          "reason": "Die kantonale Zuständigkeit wird erkannt. Der konkret zuständige Regierungsrat wird jedoch nicht ausdrücklich benannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "Die Übertragung des Auftrags auf einen anderen Leistungserbringer ist ohne zusätzliche Zustimmung des Kantons nicht zulässig",
+          "reason": "Die notwendige Zustimmung wird richtig erkannt. Die Antwort bezeichnet aber nur den Kanton und nicht ausdrücklich den zuständigen Regierungsrat."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erkennt die kantonale Zuständigkeit und das Zustimmungserfordernis. Die ausdrücklich erfragte Behörde wird in beiden Teilen nicht präzise bezeichnet."
+    },
+    {
+      "response_id": "hos_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "hos_003",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Im Kanton Luzern setzt der Regierungsrat den kantonalen Anteil an der Abgeltung stationärer Spitalleistungen fest.",
+          "reason": "Die zuständige Behörde wird ausdrücklich und korrekt bezeichnet."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "spätestens bis zum 31. Oktober des Vorjahres",
+          "reason": "Der 31. Oktober des Vorjahres entspricht nicht der gesetzlichen Frist von spätestens neun Monaten vor Beginn des betreffenden Kalenderjahres."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Die Grundlage bildet das Gesundheitsgesetz des Kantons Luzern sowie die bundesrechtlichen Vorgaben zur Spitalfinanzierung (insbesondere Art. 49 KVG).",
+          "label_impact": "minor",
+          "reason": "Die zusätzliche Angabe zu den Rechtsgrundlagen lässt sich anhand des gelieferten Auszugs nicht abschliessend überprüfen. Sie betrifft jedoch nicht die entscheidenden Fragen nach Zuständigkeit und Festsetzungsfrist."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Der Regierungsrat ist korrekt genannt. Die angegebene Frist widerspricht der gesetzlichen Neunmonatsfrist. Die zusätzliche Rechtsgrundlagenangabe ist für die Kernbewertung nicht entscheidend."
+    },
+    {
+      "response_id": "com_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "com_001",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "der Regierungsrat des Kantons, in dem die betreffende Gemeinde liegt, entscheidet über den Beitritt oder Austritt",
+          "reason": "Im Zusammenhang mit der ausdrücklich genannten Luzerner Gemeinde bezeichnet diese Aussage eindeutig den Luzerner Regierungsrat. Beide Vorgänge sind erfasst."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "genehmigt der Regierungsrat des jeweiligen Kantons den Beitritt oder Austritt einer Gemeinde",
+          "label_impact": "minor",
+          "reason": "Die Aussage verallgemeinert die Zuständigkeitsregel auf beide Kantone. Der gelieferte Quellenausschnitt belegt ausdrücklich nur die Zuständigkeit des Luzerner Regierungsrats für Luzerner Gemeinden. Die weitergehende Aussage ist damit nicht abschliessend überprüfbar. Für den konkret erfragten Luzerner Fall ist die Zuständigkeit jedoch richtig bestimmt."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort benennt die zuständige Behörde durch eine im Sachverhalt eindeutig auf Luzern anwendbare Umschreibung. Die weitergehende Verallgemeinerung ist für die Fallentscheidung nicht wesentlich."
+    },
+    {
+      "response_id": "com_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "com_002",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "**Mitwirkungsrecht**: Recht auf Mitsprache bei Entscheidungen, die ihre Interessen berühren",
+          "reason": "Das gesetzlich verlangte Mitspracherecht wird sinngemäss genannt. Das ebenfalls erforderliche Anhörungsrecht wird nicht ausdrücklich oder eindeutig gleichwertig beschrieben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Ein interkantonaler Vertrag kann den Gemeinden **keinen direkten Abgeltungsanspruch** geben.",
+          "reason": "Diese Aussage widerspricht Art. 30 Abs. 2 IRV ausdrücklich. Ein interkantonaler Vertrag kann Gemeinden oder von ihnen getragenen Organisationen einen direkten Abgeltungsanspruch einräumen."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Recht auf umfassende Information über die Planung, Durchführung und Ergebnisse der Zusammenarbeit.",
+          "label_impact": "minor",
+          "reason": "Ein eigenständiges umfassendes Informationsrecht ist aus dem gelieferten Art. 30 nicht ersichtlich. Ob es aus anderen Bestimmungen folgt, ist nicht überprüfbar. Die Aussage verändert die Bewertung der ausdrücklich verlangten Anhörungs- und Mitspracherechte nicht."
+        },
+        {
+          "response_quote": "**Kontrollrecht**: Recht auf Einsicht in die relevanten Unterlagen und auf Überprüfung der Umsetzung der Vereinbarung.",
+          "label_impact": "minor",
+          "reason": "Ein solches eigenständiges Kontrollrecht wird im gelieferten Quellenausschnitt nicht geregelt. Eine anderweitige Rechtsgrundlage ist nicht belegt. Die mögliche Unrichtigkeit betrifft eine zusätzliche Nebenbehauptung und nicht die entscheidenden Kernanforderungen."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Das Mitspracherecht ist teilweise richtig wiedergegeben. Das Anhörungsrecht fehlt und die Möglichkeit eines direkten Abgeltungsanspruchs wird ausdrücklich und rechtswidrig verneint. Weitere genannte Beteiligungsrechte sind anhand der gelieferten Quelle nicht gesichert."
+    }
+  ]
+}

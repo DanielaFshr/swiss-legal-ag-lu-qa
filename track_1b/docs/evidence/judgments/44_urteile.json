@@ -1,0 +1,150 @@
+{
+  "judgments": [
+    {
+      "response_id": "con_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "con_010",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Da in der Frage keine abweichende Zuständigkeit vorliegt, ist die Beseitigung bewilligungspflichtig.",
+          "reason": "Die Bewilligungspflicht für die Beseitigung des Gebäudes wird ausdrücklich und korrekt bejaht."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Zuständig für die Erteilung der Bewilligung ist die Gemeindebehörde",
+          "reason": "Die Gemeindebehörde bezeichnet im gegebenen Zusammenhang sinngemäss den zuständigen Gemeinderat. Die Antwort nennt damit die kommunale Bewilligungsbehörde zutreffend."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "§ 59 Abs. 1 BauG i.V.m. § 5 Abs. 1 BauG",
+          "label_impact": "minor",
+          "reason": "Die zusätzliche Verweisung auf § 5 Abs. 1 BauG ist durch die gelieferte Quelle nicht überprüfbar. Die Zuständigkeit ergibt sich bereits ausdrücklich aus § 59 Abs. 1 BauG. Eine allenfalls unzutreffende Zusatzfundstelle verändert die zutreffende Fallbeurteilung nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide verlangten Inhalte sind sinngemäss erfüllt. Die Bewilligungspflicht und die kommunale Zuständigkeit werden korrekt dargestellt."
+    },
+    {
+      "response_id": "wel_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "wel_005",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Das Vorhandensein eigener Mittel schliesst Bedürftigkeit nicht zwingend aus, wenn diese nicht rechtzeitig verfügbar sind oder nicht ausreichen, um den aktuellen Lebensunterhalt zu decken.",
+          "reason": "Die Antwort erkennt ausdrücklich, dass fehlende rechtzeitige Verfügbarkeit eigener Mittel trotz deren Vorhandensein Bedürftigkeit begründen kann."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Verneinung entspricht Art. 2 Abs. 1 ZUG. Die entscheidende zeitliche Voraussetzung wird vollständig und zutreffend erläutert."
+    },
+    {
+      "response_id": "wel_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "wel_006",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Gesetzliche Ergänzungsleistungen zur AHV oder IV gehören nicht zu den Unterstützungen im Sinne des Zuständigkeitsgesetzes (ZUG).",
+          "reason": "Die gesetzlich vorgesehene Ausnahme für Ergänzungsleistungen wird ausdrücklich und korrekt wiedergegeben."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "die nicht auf vertraglicher oder gesetzlicher Grundlage (z. B. Sozialversicherungsleistungen) beruhen",
+          "source_id": "CH_ZUG_3",
+          "basis_quote": "Unterstützungen im Sinne dieses Gesetzes sind Geld- und Naturalleistungen eines Gemeinwesens, die nach kantonalem Recht an Bedürftige ausgerichtet und nach den Bedürfnissen bemessen werden.",
+          "severity": "material",
+          "reason": "Die Antwort stellt das Fehlen einer gesetzlichen Grundlage als allgemeines Merkmal von Unterstützungen dar. Art. 3 Abs. 1 ZUG setzt dagegen gerade Leistungen nach kantonalem Recht voraus. Dadurch wird die gesetzliche Abgrenzung des Unterstützungsbegriffs wesentlich verfälscht."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die konkrete Frage zu Ergänzungsleistungen wird richtig beantwortet. Die zusätzliche allgemeine Definition des Unterstützungsbegriffs enthält jedoch einen wesentlichen Widerspruch zur gelieferten Gesetzesbestimmung."
+    },
+    {
+      "response_id": "wel_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "wel_007",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "wenn die Person sich mit der Absicht dauernden Verbleibens in einem Kanton aufhält.",
+          "reason": "Der tatsächliche Aufenthalt mit der Absicht dauernden Verbleibens wird als massgebliche Voraussetzung korrekt genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Die polizeiliche Anmeldung ist nicht Voraussetzung; entscheidend ist der tatsächliche Aufenthalt und die Absicht dauernden Verbleibens. Der Unterstützungswohnsitz kann somit bereits vor der Anmeldung entstanden sein, wenn die materiellen Voraussetzungen erfüllt waren.",
+          "reason": "Die Antwort stellt eindeutig klar, dass die Anmeldung keine zwingende zeitliche Grenze bildet und ein früherer Wohnsitzbeginn anhand der materiellen Voraussetzungen möglich ist. Dies erfüllt die erfragte Widerlegbarkeit sinngemäss."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide Kriterien sind erfüllt. Die Antwort berücksichtigt den tatsächlichen Aufenthalt, die Absicht dauernden Verbleibens und die Möglichkeit eines Wohnsitzbeginns vor der polizeilichen Anmeldung."
+    },
+    {
+      "response_id": "wel_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "wel_008",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nach Art. 5 ZUG begründet ein Spitalaufenthalt allein keinen Unterstützungswohnsitz.",
+          "reason": "Die ausdrücklich erfragte Rechtsfolge des Spitalaufenthalts wird korrekt verneint."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Der Unterstützungswohnsitz bleibt am bisherigen Wohnsitz, solange die Person nicht die Absicht dauernden Verbleibens am Aufenthaltsort begründet.",
+          "label_impact": "minor",
+          "reason": "Die Aussage über den Fortbestand des bisherigen Unterstützungswohnsitzes und die Voraussetzungen eines späteren Wohnsitzwechsels geht über die gelieferte Bestimmung hinaus. Art. 5 ZUG regelt unmittelbar nur die fehlende Wohnsitzbegründung durch den Einrichtungsaufenthalt. Die zusätzliche Aussage ist für die ausdrücklich erfragte Rechtsfolge nicht entscheidend."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die konkrete Frage wird zutreffend beantwortet. Die weitergehende Erläuterung zum bisherigen Wohnsitz ist anhand der gelieferten Quelle nicht vollständig überprüfbar, verändert aber die korrekte Antwort auf die Fallfrage nicht."
+    },
+    {
+      "response_id": "dat_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "dat_005",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "die nicht mehr benötigten Personendaten entweder löscht oder anonymisiert. Die Löschung bedeutet die vollständige Vernichtung der Daten",
+          "reason": "Beide gesetzlichen Alternativen werden genannt. Die Löschung wird ausdrücklich als vollständige Vernichtung erklärt und ist damit im gegebenen Zusammenhang sinngemäss mit der gesetzlichen Vernichtung gleichzusetzen. Auch der Wegfall der Erforderlichkeit für den Bearbeitungszweck wird berücksichtigt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erfüllt den Auftrag vollständig. Sie nennt sowohl die Vernichtung als auch die Anonymisierung und verknüpft diese mit der fehlenden weiteren Erforderlichkeit der Personendaten."
+    }
+  ]
+}

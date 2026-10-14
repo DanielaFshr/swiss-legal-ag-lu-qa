@@ -1,0 +1,160 @@
+{
+  "judgments": [
+    {
+      "response_id": "pol_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "pol_010",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "wenn dies zur Abklärung ihrer Identität oder zur Durchsetzung polizeilicher Massnahmen erforderlich ist.",
+          "reason": "Die Antwort ersetzt die gesetzliche Ausweispflicht vor jeder Amtshandlung, soweit die Umstände dies zulassen, durch eine Voraussetzung der Erforderlichkeit. Dadurch wird die Pflicht sachlich falsch eingeschränkt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Müssen sich **vor** einer Amtshandlung ausweisen, wenn dies zur Abklärung ihrer Identität oder zur Durchsetzung polizeilicher Massnahmen erforderlich ist.",
+          "reason": "Uniformierte Polizeiangehörige müssen sich auf Verlangen ausweisen. Die Antwort nennt stattdessen eine Pflicht vor der Amtshandlung bei Erforderlichkeit und widerspricht damit der gesetzlichen Regelung."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort unterscheidet zwar zwischen Zivil und Uniform, beschreibt aber für beide Gruppen dieselbe unzutreffende Voraussetzung. Beide gesetzlichen Ausweisregeln werden falsch wiedergegeben."
+    },
+    {
+      "response_id": "pol_011_20261014T072645Z_fb1d06_a1",
+      "item_id": "pol_011",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Die Luzerner Polizei muss die mildeste geeignete Massnahme wählen.",
+          "reason": "Die Antwort bezeichnet die am wenigsten beeinträchtigende geeignete Massnahme ausdrücklich als verpflichtende Wahl. Die Begründung berücksichtigt die betroffenen Personen und die Allgemeinheit."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die gesetzlich verlangte Auswahl der mildesten geeigneten Massnahme wird vollständig und sachlich richtig beschrieben."
+    },
+    {
+      "response_id": "pol_012_20261014T072645Z_fb1d06_a1",
+      "item_id": "pol_012",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "Es muss eine unmittelbare Gefahr für die öffentliche Sicherheit und Ordnung bestehen, die nicht anders abgewendet werden kann.",
+          "reason": "Eine unmittelbare Gefahr wird genannt. Die gesetzlich erforderliche Erheblichkeit fehlt. Zudem wird die alternative Voraussetzung einer schweren Störung nicht erwähnt. Die Antwort beschreibt damit nur einen Teil der gesetzlichen Möglichkeiten."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Antwort nennt nicht die Voraussetzung, dass Massnahmen gegen die nach dem Störerprinzip pflichtigen Personen nicht rechtzeitig möglich oder nicht erfolgversprechend sind. Die allgemeine Formulierung zur anderweitigen Gefahrenabwehr ersetzt diese spezifische Voraussetzung nicht."
+        },
+        {
+          "criterion_id": "3",
+          "status": "met",
+          "response_quote": "Der Eingriff muss zur Abwehr der Gefahr geeignet, erforderlich und zumutbar sein (Verhältnismässigkeit im engeren Sinne).",
+          "reason": "Die Zumutbarkeit wird ausdrücklich als Voraussetzung genannt. Im Zusammenhang mit dem Vorgehen gegen andere Personen ist damit die Zumutbarkeit des Eingriffs für die Betroffenen sinngemäss erfasst."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort nennt die Zumutbarkeit und teilweise die Gefahrenvoraussetzung. Sie ersetzt jedoch die spezifische Voraussetzung betreffend Massnahmen gegen die pflichtigen Personen durch die fehlende Störereigenschaft der betroffenen Person. Die drei gesetzlichen Voraussetzungen werden deshalb nicht vollständig wiedergegeben."
+    },
+    {
+      "response_id": "ins_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_009",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "Beschwerde beim zuständigen Bezirksgericht führen (Art. 17 SchKG).",
+          "reason": "Die Antwort nennt eine gerichtliche Beschwerdeinstanz statt der gesetzlich bezeichneten Aufsichtsbehörde. Ein Bezirksgericht kann je nach kantonaler Zuständigkeitsordnung als Aufsichtsbehörde handeln. Ohne Angabe des Kantons ist die konkrete Gleichwertigkeit nicht gesichert."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Die Beschwerdefrist beträgt 10 Tage ab Kenntnisnahme der Verfügung",
+          "reason": "Die gesetzliche Frist und ihr Beginn werden vollständig und korrekt genannt."
+        },
+        {
+          "criterion_id": "3",
+          "status": "met",
+          "response_quote": "Diese Frist gilt nicht bei Rechtsverzögerung; hier ist eine Beschwerde jederzeit möglich",
+          "reason": "Die Antwort nennt die jederzeitige Beschwerdemöglichkeit bei Rechtsverzögerung ausdrücklich. Die zusätzliche Erwähnung der Rechtsverweigerung ist für die konkrete Frage nicht erforderlich."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Beschwerde beim zuständigen Bezirksgericht führen (Art. 17 SchKG).",
+          "label_impact": "material",
+          "reason": "Die Zuständigkeit eines Bezirksgerichts als Aufsichtsbehörde hängt von der kantonalen Organisation ab. Ein Kanton ist nicht vorgegeben. Die gelieferte Quelle bezeichnet nur die Aufsichtsbehörde. Die mögliche Unrichtigkeit betrifft unmittelbar die erfragte Beschwerdeinstanz und ist deshalb wesentlich."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Frist und die Ausnahme bei Rechtsverzögerung sind richtig. Die Bezeichnung des Bezirksgerichts anstelle der Aufsichtsbehörde verlangt eine Prüfung der kantonalen Zuständigkeit."
+    },
+    {
+      "response_id": "ins_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_010",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "ist der Wohnsitz in Aarau massgeblich.",
+          "reason": "Die Antwort bestimmt den Wohnsitz des Schuldners als ordentlichen Betreibungsort und wendet die Regel korrekt auf Aarau an."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Der ordentliche Betreibungsort und die konkrete Anwendung auf Aarau sind richtig."
+    },
+    {
+      "response_id": "ins_011_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_011",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "innert 10 Tagen",
+          "reason": "Die Antwort nennt die zehntägige Frist ab Zustellung des Zahlungsbefehls korrekt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Dies muss **schriftlich** oder **mündlich zu Protokoll** beim Betreibungsamt erfolgen.",
+          "reason": "Die Antwort lässt sowohl die schriftliche als auch die mündliche Erklärung beim Betreibungsamt zu. Der Zusatz zum Protokoll ändert nichts daran, dass beide gesetzlich vorgesehenen Formen genannt werden."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort nennt die korrekte Frist und beide zulässigen Erklärungsformen. Der Rechtsvorschlag kann somit am Tag nach der Zustellung noch erhoben werden."
+    }
+  ]
+}

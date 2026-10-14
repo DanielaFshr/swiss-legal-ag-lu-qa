@@ -1,0 +1,166 @@
+{
+  "judgments": [
+    {
+      "response_id": "hom_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "hom_006",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "wird bei einem Gesuch um Entlassung aus dem Gemeindebürgerrecht einer weiteren aargauischen Gemeinde die Entlassung gewährt, sofern keine gesetzlichen Hinderungsgründe vorliegen.",
+          "reason": "Die Entlassung auf Gesuch wird richtig als Rechtsfolge genannt. Die Antwort bezeichnet jedoch das Fehlen gesetzlicher Hinderungsgründe als wesentliche Voraussetzung statt des vorhandenen Bürgerrechts einer anderen Aargauer Gemeinde. Die gesetzliche Voraussetzung wird nicht zutreffend erläutert."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "sofern keine gesetzlichen Hinderungsgründe vorliegen",
+          "label_impact": "material",
+          "reason": "Die Antwort stellt die Entlassung unter einen zusätzlichen allgemeinen Vorbehalt. Ob solche Hinderungsgründe ausserhalb des gelieferten Gesetzesausschnitts bestehen und die Entlassung verhindern können, lässt sich nicht abschliessend beurteilen. Dies könnte die wesentliche gesetzliche Voraussetzung und die Rechtsfolge verändern."
+        },
+        {
+          "response_quote": "z. B. bestehende öffentlich-rechtliche Verpflichtungen gegenüber der Gemeinde",
+          "label_impact": "material",
+          "reason": "Die Antwort nennt öffentlich-rechtliche Verpflichtungen als möglichen Hinderungsgrund. Die gelieferte Quelle belegt diesen Ausschlussgrund nicht. Seine rechtliche Gültigkeit ist ungeklärt und könnte die Entlassung trotz erfüllter Voraussetzung verhindern."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erkennt die Entlassung auf Gesuch, verfehlt aber die entscheidende gesetzliche Voraussetzung. Zusätzlich werden nicht belegte mögliche Hinderungsgründe genannt, die für die Rechtsfolge wesentlich sein könnten."
+    },
+    {
+      "response_id": "hom_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "hom_007",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "bedarf der Einbezug eines minderjährigen Kindes in die Einbürgerung der Zustimmung beider Elternteile, sofern sie die elterliche Sorge gemeinsam ausüben.",
+          "reason": "Die erforderliche Zustimmung beider Elternteile bei gemeinsamer elterlicher Sorge wird ausdrücklich und vollständig genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Nach Art. 307 Abs. 1 ZGB",
+          "label_impact": "minor",
+          "reason": "Die angegebene zivilrechtliche Fundstelle ist durch die gelieferte Quelle nicht bestätigt. Der mögliche Fehler betrifft die zusätzliche Rechtsgrundlagenangabe und nicht die zutreffende Antwort auf die Frage."
+        },
+        {
+          "response_quote": "§ 12 Abs. 2 BüG verweist auf diese zivilrechtliche Regelung.",
+          "label_impact": "minor",
+          "reason": "Der gelieferte Gesetzeswortlaut enthält keinen ausdrücklichen Verweis auf die genannte ZGB-Bestimmung. Ob ein solcher Verweis anderweitig besteht, ist nicht verifiziert. Die Aussage ist für die korrekt wiedergegebene Zustimmungspflicht nicht entscheidend."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verneint die Frage zutreffend und nennt die Zustimmung beider Elternteile. Die zusätzlichen Ausführungen zur zivilrechtlichen Grundlage sind nicht ausreichend verifiziert, ändern aber die entscheidende Aussage nicht."
+    },
+    {
+      "response_id": "hom_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "hom_008",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "kann ein minderjähriges Kind grundsätzlich nicht selbstständig eingebürgert werden. Es muss zwingend in die Einbürgerung mindestens eines Elternteils einbezogen werden",
+          "reason": "Die Antwort widerspricht § 13 Abs. 1 ausdrücklich. Minderjährige Kinder können nach dieser Bestimmung selbstständig eingebürgert werden."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Im Verfahren wird das minderjährige Kind durch seine gesetzlichen Vertreter vertreten",
+          "reason": "Die gesetzliche Vertretung im Einbürgerungsverfahren wird korrekt genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Bei Interessenkonflikten kann die Kindesschutzbehörde einen Beistand ernennen (Art. 306 ZGB).",
+          "label_impact": "minor",
+          "reason": "Die zusätzliche Aussage über die Ernennung eines Beistands ist durch die gelieferte Quelle nicht überprüfbar. Sie betrifft eine besondere Vertretungssituation und ändert die zutreffende Aussage über die gesetzliche Vertretung nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verneint die gesetzlich ausdrücklich zugelassene selbstständige Einbürgerung. Die gesetzliche Vertretung wird dagegen korrekt beschrieben. Der Kernfehler wird nicht nochmals als Zusatzfehler erfasst."
+    },
+    {
+      "response_id": "pro_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "pro_009",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "muss der Grundeigentümer die Aufsuchung und Wegschaffung der Sache gestatten",
+          "reason": "Die gesetzliche Pflicht zur Gestattung der Aufsuchung und Wegschaffung wird ausdrücklich genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Er kann jedoch Ersatz für einen dadurch entstehenden Schaden verlangen",
+          "reason": "Der Anspruch auf Ersatz eines durch die Aufsuchung und Wegschaffung entstehenden Schadens wird zutreffend wiedergegeben."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "da er nicht berechtigt ist, eine fremde Sache zurückzubehalten",
+          "source_id": "CH_ZGB_700",
+          "basis_quote": "Für den hieraus entstehenden Schaden kann er Ersatz verlangen und hat hiefür an diesen Sachen ein Retentionsrecht.",
+          "severity": "material",
+          "reason": "Die Antwort schliesst ein Zurückbehaltungsrecht allgemein aus. Art. 700 Abs. 2 ZGB gewährt dem Grundeigentümer jedoch ein Retentionsrecht zur Sicherung seines Schadenersatzanspruchs. Dies verändert eine wesentliche Rechtsposition des Grundeigentümers."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide ausdrücklich erfragten Rechtsfolgen werden richtig genannt. Die zusätzliche pauschale Verneinung eines Zurückbehaltungsrechts widerspricht jedoch dem gesetzlich vorgesehenen Retentionsrecht."
+    },
+    {
+      "response_id": "pro_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "pro_010",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "Die Übergabe ist das zentrale tatsächliche Element, das den Willen der Parteien zur Eigentumsübertragung manifestiert und den Übergang des Besitzes sowie des Eigentums bewirkt.",
+          "reason": "Die Antwort erkennt die erforderliche Besitzübertragung ausdrücklich. Sie stellt jedoch die körperliche Übergabe der Sache als notwendige Form dar. Art. 714 Abs. 1 ZGB verlangt den Besitzübergang und nicht zwingend eine körperliche Übergabe."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Der Besitzübergang wird richtig angesprochen. Die Antwort verengt die gesetzliche Voraussetzung jedoch auf die Übergabe der Sache und schliesst andere Formen des Besitzübergangs durch ihre Formulierung aus."
+    },
+    {
+      "response_id": "pro_011_20261014T072645Z_fb1d06_a1",
+      "item_id": "pro_011",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Durch den Besitz mit dem Willen, Eigentümerin zu werden, erwirbt die Person das Eigentum an der Sache.",
+          "reason": "Die Antwort nennt die Inbesitznahme mit Eigentümerwillen und die unmittelbare Rechtsfolge des Eigentumserwerbs. Die Herrenlosigkeit ist im übrigen Antwortkontext ausdrücklich vorausgesetzt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Rechtsfolge gemäss Art. 718 ZGB wird vollständig und sachlich zutreffend beschrieben. Die einleitende Gleichsetzung von Besitz und Eigentumserwerb ist durch die ausdrückliche Beschränkung auf herrenlose Sachen und die anschliessende korrekte Erklärung ausreichend eingegrenzt."
+    }
+  ]
+}

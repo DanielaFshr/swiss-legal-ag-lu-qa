@@ -1,0 +1,130 @@
+{
+  "judgments": [
+    {
+      "response_id": "hom_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "hom_002",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Das Gesuch ist bei der zuständigen Gemeindebehörde des Wohnsitzes einzureichen. Es sind beizufügen: die erforderlichen Unterlagen",
+          "reason": "Die Einreichung bei der Gemeinde mit den erforderlichen Unterlagen ist eindeutig genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erfüllt beide Bestandteile des Kriteriums. Die beispielhafte Aufzählung von Unterlagen ist für die Bewertung nicht erforderlich."
+    },
+    {
+      "response_id": "hom_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "hom_003",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Da die Person an einem der Orte mit Bürgerrecht zugleich ihren Wohnsitz hat, ist dieser Ort ihre Heimatangehörigkeit.",
+          "reason": "Für den gegebenen Fall wird der richtige Bürgerort bestimmt. Die Verbindung zwischen Bürgerrecht und Wohnsitz ist ausdrücklich hergestellt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die konkrete Fallbeurteilung stimmt mit Art. 22 Abs. 3 ZGB überein. Die einleitende Verkürzung auf den Wohnsitz ist ungenau, wird aber durch die anschliessende korrekte Anwendung auf einen Bürgerort präzisiert."
+    },
+    {
+      "response_id": "hom_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "hom_004",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Da beide Eltern einen gemeinsamen Wohnsitz in Aarau haben, befindet sich auch der Wohnsitz des Kindes in Aarau.",
+          "reason": "Der gemeinsame Wohnsitz der Eltern wird zutreffend als zivilrechtlicher Wohnsitz des Kindes bestimmt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort nennt Aarau und begründet dies mit dem gemeinsamen Wohnsitz der Eltern gemäss Art. 25 Abs. 1 ZGB."
+    },
+    {
+      "response_id": "hom_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "hom_005",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nein. Nach Art. 23 Abs. 2 ZGB hat eine Person nur einen zivilrechtlichen Wohnsitz.",
+          "reason": "Das Verbot mehrerer gleichzeitiger zivilrechtlicher Wohnsitze wird ausdrücklich genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "eine geschäftliche Niederlassung begründet keinen zivilrechtlichen Wohnsitz und ist daher vom Verbot nicht betroffen.",
+          "reason": "Die geschäftliche Niederlassung wird ausdrücklich vom Verbot ausgenommen."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide erfragten Rechtsfolgen werden zutreffend wiedergegeben. Die Antwort entspricht Art. 23 Abs. 2 und 3 ZGB."
+    },
+    {
+      "response_id": "cop_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "cop_001",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "hat die Urheberin das ausschliessliche Recht zu bestimmen, ob, wann und wie ihr Werk verwendet wird.",
+          "reason": "Die ausschliessliche Entscheidungsbefugnis über das Ob, Wann und Wie der Werkverwendung ist vollständig genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Dieses Recht umfasst explizit auch das Zugänglichmachen des Werks, sodass Dritte es von Orten und zu Zeiten ihrer Wahl nutzen können",
+          "reason": "Das Zugänglichmachen mit individueller Wahl von Ort und Zeitpunkt des Zugriffs wird ausdrücklich erfasst."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erfüllt beide Kriterien gemäss Art. 10 URG. Die ergänzende Erwähnung einer Online-Veröffentlichung veranschaulicht die gesetzliche Befugnis."
+    },
+    {
+      "response_id": "cop_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "cop_002",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nein. Nach Art. 5 Abs. 1 URG sind amtliche Texte (Gesetze, Verordnungen, Verfügungen, Urteile etc.) nicht urheberrechtlich geschützt",
+          "reason": "Der fehlende Urheberrechtsschutz für amtliche Gesetzes- und Verordnungstexte wird ausdrücklich und zutreffend genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort beantwortet die Frage korrekt. Die genannten weiteren amtlichen Dokumentarten sind mit den gesetzlichen Ausnahmen vereinbar. Die zusätzliche Zweckbegründung verändert die rechtliche Beurteilung nicht."
+    }
+  ]
+}

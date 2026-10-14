@@ -1,0 +1,159 @@
+{
+  "judgments": [
+    {
+      "response_id": "ban_014_20261014T072645Z_fb1d06_a1",
+      "item_id": "ban_014",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "dürfen Mitglieder der Geschäftsleitung der Aargauischen Kantonalbank grundsätzlich keine weiteren Organfunktionen in anderen Unternehmen ausüben.",
+          "reason": "Das grundsätzliche Verbot weiterer Organfunktionen ist richtig wiedergegeben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Eine Ausnahme kann nur durch den Regierungsrat des Kantons Aargau beschlossen werden, und zwar nur aus wichtigen Gründen.",
+          "reason": "Die Antwort nennt den Regierungsrat statt des Bankrats und wichtige Gründe statt des Interesses der Bank. Beide Voraussetzungen widersprechen der gesetzlichen Regelung."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Das grundsätzliche Verbot ist korrekt. Die Zuständigkeit für Ausnahmen und die dafür massgebende Voraussetzung werden falsch angegeben."
+    },
+    {
+      "response_id": "ban_015_20261014T072645Z_fb1d06_a1",
+      "item_id": "ban_015",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "bezweckt die Luzerner Kantonalbank die Erbringung von Bankdienstleistungen",
+          "reason": "Die Erbringung von Bankdienstleistungen beschreibt einen richtigen Teil des Geschäftszwecks. Der gewinnorientierte Betrieb einer Universalbank nach anerkannten Bankgrundsätzen fehlt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "Sie muss dabei besonders die Bedürfnisse des Kantons Luzern und seiner Bewohner berücksichtigen.",
+          "reason": "Die besondere Berücksichtigung der Bevölkerung wird sinngemäss angesprochen. Die Wirtschaft des Kantons Luzern als eigenständige begünstigte Gruppe fehlt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erfasst den allgemeinen Bankzweck und die besondere Berücksichtigung der Luzerner Bevölkerung. Wesentliche Bestandteile des gesetzlichen Geschäftszwecks und die kantonale Wirtschaft fehlen."
+    },
+    {
+      "response_id": "ban_016_20261014T072645Z_fb1d06_a1",
+      "item_id": "ban_016",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Die zivilrechtliche Verantwortlichkeit der Organe der Luzerner Kantonalbank richtet sich nach kantonalem Recht.",
+          "reason": "Die Antwort behauptet ausdrücklich die Anwendung kantonalen Rechts. § 9 des Umwandlungsgesetzes schreibt für die zivilrechtliche Verantwortlichkeit der Organe und ihrer Mitglieder Bundesrecht vor."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Die Luzerner Kantonalbank ist eine öffentlich-rechtliche Anstalt des Kantons Luzern (vgl. §§ 1 ff. des Gesetzes über die Luzerner Kantonalbank, SRL Nr. 30).",
+          "label_impact": "minor",
+          "reason": "Die Rechtsformbehauptung ist durch den gelieferten Auszug aus § 9 nicht eigenständig überprüfbar. Sie dient der Begründung der bereits als widersprüchlich bewerteten Rechtswahl. Ihre zusätzliche Überprüfung verändert die eindeutige Bewertung der erfragten Rechtsgrundlage nicht."
+        },
+        {
+          "response_quote": "Das Bundesumwandlungsgesetz (UmwG) ist auf die Umwandlung privatrechtlicher Gesellschaften zugeschnitten und findet auf öffentlich-rechtliche Anstalten keine Anwendung.",
+          "label_impact": "minor",
+          "reason": "Die allgemeine Aussage über den Anwendungsbereich des Bundesumwandlungsgesetzes ist anhand der gelieferten Quelle nicht abschliessend überprüfbar. Sie ist für die konkrete Frage nicht entscheidend, da § 9 des kantonalen Umwandlungsgesetzes die Anwendung des Bundesrechts ausdrücklich regelt."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die zentrale Rechtsfrage wird ausdrücklich falsch beantwortet. Die weiteren Ausführungen ändern nichts am eindeutigen Widerspruch zum gelieferten § 9."
+    },
+    {
+      "response_id": "tou_013_20261014T072645Z_fb1d06_a1",
+      "item_id": "tou_013",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Ein bereits beherbergter Gast fällt nicht unter diese Ausnahme, da er erst nach Beginn der Schliessungszeit bedient werden soll.",
+          "reason": "Die Antwort schliesst einen bereits beherbergten Hotelgast ausdrücklich von der Ausnahme aus. Nach § 4 Abs. 4 GGG dürfen Hotelgäste jederzeit bedient werden."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verneint die Zulässigkeit der Bedienung und stellt eine zeitliche Einschränkung auf, die der ausdrücklichen gesetzlichen Ausnahme für Hotelgäste widerspricht."
+    },
+    {
+      "response_id": "tou_014_20261014T072645Z_fb1d06_a1",
+      "item_id": "tou_014",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Im Kanton Aargau ist dies die **Alkoholverwaltung des Kantons Aargau**.\n\nDie **Alkoholabgabe** wird erhoben von der **Eidgenössischen Alkoholverwaltung (EAV)**, da es sich um eine Bundesabgabe handelt.",
+          "reason": "Die Antwort weist Bewilligung und Abgabe kantonalen beziehungsweise eidgenössischen Stellen zu. Nach § 11a GGG erteilen die Gemeinden die Bewilligung und erheben die Abgabe."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "1. **Alkoholgehalt** der Spirituosen (in Volumenprozent)\n2. **Menge** der verkauften Spirituosen (in Litern)",
+          "reason": "Die Antwort nennt Alkoholgehalt und Verkaufsmenge als Bemessungsmerkmale. Gesetzlich massgebend sind die Grösse und die Dauer des Einzelanlasses."
+        },
+        {
+          "criterion_id": "3",
+          "status": "contradicted",
+          "response_quote": "Der **Mindestbetrag** der Abgabe beträgt **Fr. 0.30 pro Liter reiner Alkohol**.",
+          "reason": "Die Antwort nennt einen mengenabhängigen Mindestbetrag von 30 Rappen. § 11a GGG verlangt mindestens 30 Franken für die Abgabe."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Sämtliche erfragten Bestandteile werden falsch beantwortet. Die Antwort verwechselt die kommunale Bewilligung und Alkoholabgabe für Einzelanlässe mit einer anders ausgestalteten Alkoholabgabe."
+    },
+    {
+      "response_id": "tou_015_20261014T072645Z_fb1d06_a1",
+      "item_id": "tou_015",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Das Gesetz dient dem Schutz der öffentlichen Ordnung und Gesundheit und untersagt die weitere Alkoholabgabe an erkennbar betrunkene Gäste.",
+          "reason": "Das Verbot der weiteren Alkoholabgabe an offensichtlich betrunkene Personen ist inhaltlich korrekt wiedergegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Nach Art. 41 des Luzerner Gastgewerbegesetzes (GGes/LU)",
+          "label_impact": "minor",
+          "reason": "Die angegebene Fundstelle stimmt nicht mit dem gelieferten § 18 überein. Ob Art. 41 eine andere einschlägige Regelung enthält, ist anhand der gelieferten Passage nicht überprüfbar. Die abweichende Fundstelle ist nicht entscheidend, weil die erfragte Rechtsfolge korrekt dargestellt wird."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort trifft die richtige Entscheidung und begründet sie mit dem zutreffenden Alkoholausschankverbot. Die abweichende Gesetzesfundstelle beeinträchtigt die inhaltliche Erfüllung nicht."
+    }
+  ]
+}

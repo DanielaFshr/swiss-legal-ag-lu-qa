@@ -1,0 +1,298 @@
+{
+  "judgments": [
+    {
+      "response_id": "mob_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_002",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1a",
+          "status": "partial",
+          "response_quote": "Immissionen zu vermindern",
+          "reason": "Die Verminderung von Immissionen ist genannt. Der Schutz vor Lärm wird jedoch nicht konkretisiert."
+        },
+        {
+          "criterion_id": "1b",
+          "status": "partial",
+          "response_quote": "Immissionen zu vermindern",
+          "reason": "Die allgemeine Immissionsverminderung ist erkennbar. Luftverschmutzung wird nicht ausdrücklich oder eindeutig spezifisch genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Beseitigung von Benachteiligungen von Menschen mit Behinderungen fehlt."
+        },
+        {
+          "criterion_id": "3a",
+          "status": "met",
+          "response_quote": "besondere Gefahren im Strassenverkehr zu verhüten",
+          "reason": "Die Verhütung von Verkehrsgefahren entspricht sinngemäss der Verkehrssicherheit."
+        },
+        {
+          "criterion_id": "3b",
+          "status": "met",
+          "response_quote": "den Verkehrsfluss zu verbessern",
+          "reason": "Die Verbesserung des Verkehrsflusses entspricht der Erleichterung des Verkehrs."
+        },
+        {
+          "criterion_id": "4a",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Der Schutz der Strasse wird nicht genannt."
+        },
+        {
+          "criterion_id": "4b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Andere in den örtlichen Verhältnissen liegende Gründe werden nicht erwähnt."
+        },
+        {
+          "criterion_id": "5a",
+          "status": "met",
+          "response_quote": "Tempo-30-Zonen, Begegnungszonen oder zeitlich begrenzte Fahrverbote",
+          "reason": "Die Beispiele beschreiben Verkehrsbeschränkungen in Wohnquartieren."
+        },
+        {
+          "criterion_id": "5b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die besondere Regelung des Parkierens wird nicht genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort nennt Verkehrssicherheit, Verkehrserleichterung und Beispiele für Verkehrsbeschränkungen. Immissionsschutz bleibt allgemein. Mehrere ausdrücklich gesetzlich vorgesehene Gründe sowie die besondere Parkierungsregelung fehlen."
+    },
+    {
+      "response_id": "mob_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_003",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Ja, der Werkunternehmer muss eine Bewilligung einholen.",
+          "reason": "Die Bewilligungspflicht wird für den beschriebenen Fall eindeutig bejaht."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "richtet sich die Bewilligungspflicht nach dem Strassenverkehrsgesetz sowie nach kantonalem und kommunalem Strassenrecht",
+          "reason": "Das kantonale Recht wird ausdrücklich als Rechtsgrundlage genannt. Die Erwähnung weiterer Rechtsgrundlagen hebt dies nicht auf."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Gemäss Art. 29 des Strassenverkehrsgesetzes (SVG)",
+          "label_impact": "minor",
+          "reason": "Die gelieferte Quelle belegt die konkrete Bewilligungspflicht mit Art. 4 Abs. 2 SVG. Ob Art. 29 SVG eine entsprechende Bestimmung enthält, lässt sich aus dem begrenzten Quellenausschnitt nicht prüfen. Die mögliche falsche Fundstelle ändert die zutreffende Kernaussage nicht."
+        },
+        {
+          "response_quote": "Zuständig ist in der Regel die Gemeindebehörde.",
+          "label_impact": "minor",
+          "reason": "Die Zuständigkeit der Gemeindebehörde ist durch die gelieferte Quelle nicht belegt. Ihre mögliche Unrichtigkeit betrifft eine nicht erfragte Zusatzinformation und verändert weder die Bewilligungspflicht noch die Zuordnung zum kantonalen Recht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide verlangten Inhalte sind erfüllt. Die zusätzliche Zuständigkeitsangabe und die abweichende Gesetzesfundstelle sind anhand der gelieferten Quelle nicht abschliessend überprüfbar und für den Antwortauftrag nicht entscheidend."
+    },
+    {
+      "response_id": "mob_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_004",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "dürfen Signale und Markierungen nur von den zuständigen Behörden oder mit deren Ermächtigung angebracht werden",
+          "reason": "Die gesetzliche Beschränkung auf Behörden und ermächtigte Personen wird vollständig wiedergegeben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Private Personen sind nicht befugt, eigenmächtig amtliche Verkehrssignale zu installieren",
+          "reason": "Das eigenmächtige Anbringen ohne behördliche Ermächtigung wird zutreffend als unzulässig bezeichnet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Zudem verstösst ein eigenmächtiges Anbringen gegen das Verbot des unberechtigten Eingriffs in öffentliche Sachen",
+          "label_impact": "minor",
+          "reason": "Diese zusätzliche rechtliche Einordnung ist durch Art. 5 Abs. 3 SVG im gelieferten Ausschnitt nicht gesondert belegt. Ihre mögliche Unrichtigkeit ändert die eindeutig begründete Unzulässigkeit des eigenmächtigen Anbringens nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verneint die Zulässigkeit korrekt und nennt die entscheidende Voraussetzung einer behördlichen Ermächtigung. Die nicht überprüfte zusätzliche rechtliche Begründung ist für den Fall nicht ausschlaggebend."
+    },
+    {
+      "response_id": "mob_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_005",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "das kantonale Strassenverkehrsamt (Strassenverkehrsamt des Kantons Luzern) zuständig",
+          "reason": "Die Antwort bezeichnet ausdrücklich das Strassenverkehrsamt als zuständig. Gemäss § 17 der gelieferten Verordnung ist die Dienststelle Verkehr und Infrastruktur zuständig. Die konkrete Behördenzuordnung ist falsch."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Für Gemeindestrassen 2. und 3. Klasse ist die jeweilige Gemeindeverwaltung zuständig.",
+          "reason": "Die Zuständigkeit der Gemeinden wird zutreffend wiedergegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort ordnet Gemeindestrassen 2. und 3. Klasse korrekt den Gemeinden zu. Für Kantonsstrassen nennt sie hingegen ausdrücklich das Strassenverkehrsamt statt der gesetzlich zuständigen Dienststelle Verkehr und Infrastruktur. Dieser Fehler betrifft eine zentrale erfragte Zuständigkeit."
+    },
+    {
+      "response_id": "mob_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_006",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Befugnis der Polizei zur sofortigen Gefahrenabwehr wird nicht erläutert."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Eine Dauer von mehr als acht Tagen bedarf einer Genehmigung durch die kantonale Behörde",
+          "reason": "Die Genehmigungspflicht bei einer Dauer von mehr als acht Tagen wird ausdrücklich genannt. Die Beschränkung auf eine kantonale Behörde ist gesondert zu überprüfen."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Nach Art. 3 Abs. 4 SVG erlässt die zuständige Behörde Verkehrsanordnungen nur für eine begrenzte Zeit.",
+          "label_impact": "material",
+          "reason": "Die behauptete allgemeine zeitliche Begrenzung ist durch die gelieferte Quelle nicht belegt. § 19 Abs. 2 regelt vielmehr eine Genehmigungspflicht für länger als acht Tage geltende polizeiliche Anordnungen. Eine allgemeine zeitliche Begrenzung könnte die rechtliche Beurteilung der Zulässigkeit von Verkehrsanordnungen wesentlich verändern."
+        },
+        {
+          "response_quote": "Genehmigung durch die kantonale Behörde (Art. 107 Abs. 1 lit. d SSV)",
+          "label_impact": "material",
+          "reason": "Die Quelle verlangt eine Genehmigung durch die zuständige Behörde und belegt weder die ausschliessliche Zuständigkeit einer kantonalen Behörde noch die angeführte Fundstelle. Die konkrete Genehmigungszuständigkeit ist ein wesentlicher Teil der rechtlichen Voraussetzung für die längere Geltungsdauer."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Entscheidung Nein und die Genehmigungspflicht nach acht Tagen sind korrekt. Die polizeiliche Befugnis zur sofortigen Gefahrenabwehr fehlt. Die zusätzlichen Aussagen zur zeitlichen Begrenzung und zur Genehmigungszuständigkeit sind nicht ausreichend belegt und wegen ihrer möglichen rechtlichen Tragweite überprüfungsbedürftig."
+    },
+    {
+      "response_id": "mob_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_007",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1a",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Der gesetzliche Ausnahmecharakter der Geschwindigkeitsherabsetzung wird nicht erwähnt."
+        },
+        {
+          "criterion_id": "1b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die allgemeine Verhältnismässigkeit und transparente Ermessensausübung ersetzen die vorgeschriebene restriktive Anwendung des Ermessens nicht."
+        },
+        {
+          "criterion_id": "2a",
+          "status": "met",
+          "response_quote": "insbesondere sind die Auswirkungen auf den Verkehrsablauf, die Umwelt und die Wirtschaftlichkeit zu analysieren",
+          "reason": "Die Prüfung der Auswirkungen der Massnahme wird ausdrücklich verlangt."
+        },
+        {
+          "criterion_id": "2b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Prüfung der Anzahl betroffener Personen fehlt."
+        },
+        {
+          "criterion_id": "3a",
+          "status": "partial",
+          "response_quote": "die Auswirkungen auf den Verkehrsablauf",
+          "reason": "Die Auswirkungen auf den Verkehrsablauf werden berücksichtigt. Die spezifisch verlangten Durchfahrzeiten bleiben unerwähnt."
+        },
+        {
+          "criterion_id": "3b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die besondere Berücksichtigung von Blaulichtorganisationen und Wirtschaftsverkehr fehlt."
+        },
+        {
+          "criterion_id": "3c",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Möglichkeit zum Kreuzen grosser Fahrzeuge wird nicht erwähnt."
+        },
+        {
+          "criterion_id": "4a",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Funktion und Bedeutung der Strasse im Verkehrsnetz fehlen."
+        },
+        {
+          "criterion_id": "4b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Bedeutung der Strasse für die regionale Erschliessung wird nicht erwähnt."
+        },
+        {
+          "criterion_id": "5a",
+          "status": "met",
+          "response_quote": "um die angestrebte Verkehrssicherheit zu erreichen",
+          "reason": "Die Verkehrssicherheit wird als wesentliches Ziel der Massnahme berücksichtigt."
+        },
+        {
+          "criterion_id": "5b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die besondere Berücksichtigung von Schulhäusern und Kindergarten fehlt."
+        },
+        {
+          "criterion_id": "6",
+          "status": "partial",
+          "response_quote": "die Umwelt",
+          "reason": "Die Umweltauswirkungen werden allgemein angesprochen. Der spezifische gesetzliche Prüfpunkt Lärmimmissionen wird nicht konkret genannt."
+        },
+        {
+          "criterion_id": "7",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Prüfung einer zeitlichen Beschränkung der Massnahme auf bestimmte Tageszeiten fehlt."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "**nach einheitlichen Kriterien** erfolgt (Abs. 4)",
+          "source_id": "LU_SVV_22a",
+          "basis_quote": "4 Die zuständige Behörde prüft, ob die Massnahme auf bestimmte Tageszeiten zu beschränken ist.",
+          "severity": "material",
+          "reason": "Die Antwort schreibt Absatz 4 eine Vorgabe zu einheitlichen Kriterien zu. Der Absatz regelt stattdessen ausdrücklich die Prüfung einer Beschränkung auf bestimmte Tageszeiten. Die falsche Zuordnung verfälscht den Inhalt einer zentral erfragten gesetzlichen Prüfpflicht."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort enthält einzelne richtige allgemeine Überlegungen zur Prüfung der Auswirkungen und zur Verkehrssicherheit. Die ausdrücklich verlangten kantonalen Vorgaben werden jedoch weitgehend verfehlt. Insbesondere fehlen Ausnahmecharakter, restriktives Ermessen, betroffene Personen, mehrere konkrete Verkehrskriterien sowie die tageszeitliche Prüfung. Zusätzlich wird der Inhalt von Absatz 4 sachlich falsch dargestellt."
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "judgments": [
+    {
+      "response_id": "mob_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_010",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "zu besonderer Vorsicht gegenüber Kindern, Gebrechlichen und alten Leuten",
+          "reason": "Die besondere Vorsicht gegenüber Kindern wird ausdrücklich genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "wenn besondere Umstände (z. B. erkennbare Unsicherheit, eingeschränkte Wahrnehmung oder Beweglichkeit) eine erhöhte Gefährdung nahelegen",
+          "reason": "Erkennbare Unsicherheit beschreibt einen möglichen Hinweis auf nicht richtiges Verhalten. Die Antwort nennt jedoch allgemein eine erhöhte Gefährdung und stellt die Voraussetzung von Anzeichen für ein nicht richtiges Verhalten anderer Strassenbenützer nicht vollständig dar."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die besondere Vorsicht gegenüber Kindern ist korrekt. Die Ausdehnung auf andere Strassenbenützer wird nur teilweise mit der gesetzlichen Voraussetzung verknüpft."
+    },
+    {
+      "response_id": "mob_011_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_011",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "hat die Anweisung des Polizeibeamten Vorrang",
+          "reason": "Der Vorrang der polizeilichen Weisung gegenüber dem Signal wird ausdrücklich festgestellt. Daraus ergibt sich im geschilderten Fall die Pflicht zum Anhalten."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "wenn dies zur Aufrechterhaltung der Sicherheit oder zur Abwicklung des Verkehrs erforderlich ist",
+          "label_impact": "minor",
+          "reason": "Die Antwort nennt eine zusätzliche Voraussetzung für die polizeiliche Verkehrsregelung. Der gelieferte Gesetzesausschnitt belegt diese Einschränkung nicht. Sie verändert die konkrete Vorrangentscheidung jedoch nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die entscheidende Vorrangregel ist richtig wiedergegeben. Die zusätzlich genannte Voraussetzung ist anhand der gelieferten Quelle nicht abschliessend überprüfbar."
+    },
+    {
+      "response_id": "mob_012_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_012",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "Die Autofahrerin muss unverzüglich den Geschädigten benachrichtigen",
+          "reason": "Die Pflicht zur sofortigen Benachrichtigung der geschädigten Person wird sinngemäss genannt. Die gesetzlich verlangte Angabe von Namen und Adresse fehlt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Da die geschädigte Person nicht erreichbar ist, entfällt die direkte Benachrichtigung des Geschädigten, weshalb die Autofahrerin verpflichtet ist, die Polizei unverzüglich zu informieren.",
+          "reason": "Die Unmöglichkeit der direkten Benachrichtigung und die daraus folgende Pflicht zur unverzüglichen Verständigung der Polizei werden korrekt auf den Fall angewendet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die entscheidende Handlungspflicht im konkreten Fall ist vollständig richtig. Bei der allgemeinen Benachrichtigungspflicht fehlt lediglich die Angabe von Namen und Adresse."
+    },
+    {
+      "response_id": "mob_013_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_013",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "eine **Sonderbewilligung** des zuständigen kantonalen Amtes (in der Regel das Strassenverkehrsamt oder das Departement des Inneren)",
+          "reason": "Die Bewilligungspflicht wird erkannt. Als zuständige Behörde wird jedoch ein kantonales Amt statt des gesetzlich vorgesehenen Gemeinderats bezeichnet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Gemäss Art. 1 Abs. 1 der Verordnung des Bundesrates über die Zulassung von Personen und Fahrzeugen zum Strassenverkehr (VZV) dürfen Motorfahrzeuge nur auf öffentlichen Strassen verkehren.",
+          "label_impact": "minor",
+          "reason": "Diese zusätzliche bundesrechtliche Behauptung ist durch die gelieferte kantonale Quelle nicht überprüfbar. Sie ist für die erfragte Zuständigkeit des Gemeinderats nicht entscheidend."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort nennt eine Bewilligungspflicht, weist die Zuständigkeit aber ausdrücklich der falschen Verwaltungsebene zu. Die massgebliche Behörde ist nach § 6 des kantonalen Gesetzes der Gemeinderat."
+    },
+    {
+      "response_id": "mob_014_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_014",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "die Kantonspolizei Luzern für die Bewilligung sportlicher Veranstaltungen nach Art. 52 SVG zuständig",
+          "reason": "Mit Kantonspolizei Luzern ist die im Gesetz als Luzerner Polizei bezeichnete Behörde sinngemäss korrekt identifiziert."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Die Kantonspolizei ist die zentrale Vollzugsbehörde für Strassenverkehrsfragen im Kanton",
+          "label_impact": "minor",
+          "reason": "Die zusätzliche pauschale Beschreibung der Vollzugszuständigkeit ist durch den gelieferten Gesetzesausschnitt nicht gedeckt. Dieser weist die grundsätzliche Zuständigkeit dem Strassenverkehrsamt zu. Die konkret erfragte Bewilligungszuständigkeit der Luzerner Polizei bleibt davon unberührt."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die zuständige Bewilligungsbehörde wird richtig genannt. Die weitergehende Beschreibung ihrer allgemeinen Zuständigkeit ist für die Fallentscheidung nicht erforderlich."
+    },
+    {
+      "response_id": "agr_011_20261014T072645Z_fb1d06_a1",
+      "item_id": "agr_011",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "definiert Produktionsmittel als Stoffe und Organismen, die zur landwirtschaftlichen Produktion verwendet werden",
+          "reason": "Die gesetzliche Definition der Produktionsmittel wird vollständig und sinngemäss korrekt wiedergegeben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Dünger und pflanzliches Vermehrungsmaterial fallen unter diese Definition",
+          "reason": "Beide ausdrücklich erfragten Kategorien werden zutreffend den Produktionsmitteln zugeordnet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Definition und die Zuordnung beider erfragten Beispiele stimmen mit Art. 158 Abs. 1 LwG überein."
+    }
+  ]
+}

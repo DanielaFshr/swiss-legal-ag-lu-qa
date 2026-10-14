@@ -1,0 +1,146 @@
+{
+  "judgments": [
+    {
+      "response_id": "pos_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "pos_005",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die erforderliche vorgängige Zustimmung der mit dem Verfahren befassten Behörde wird nicht erwähnt. Stattdessen nennt die Antwort die Unerlässlichkeit für die Qualitätskontrolle als Voraussetzung."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "wenn dies für die Durchführung der Qualitätskontrolle unerlässlich ist",
+          "label_impact": "material",
+          "reason": "Die Antwort nennt eine zusätzliche Voraussetzung, die aus dem gelieferten Art. 18 Abs. 2 BÜPF nicht hervorgeht. Ihre eigenständige rechtliche Geltung lässt sich anhand des Quellenausschnitts nicht abschliessend prüfen. Die Aussage betrifft unmittelbar die Voraussetzungen der Kenntnisnahme."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verfehlt die ausdrücklich geregelte Zustimmungsvoraussetzung. Die stattdessen genannte Unerlässlichkeit ist anhand der gelieferten Quelle nicht als Ersatzvoraussetzung begründbar."
+    },
+    {
+      "response_id": "tax_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "tax_005",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nein, der Kapitalgewinn ist nicht steuerbar.",
+          "reason": "Die Antwort verneint die Steuerbarkeit des privaten Kapitalgewinns ausdrücklich und begründet dies mit der Steuerfreiheit solcher Gewinne."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Nach Art. 16 Abs. 1 DBG unterliegen nur die Erträge aus beweglichem Vermögen der Einkommenssteuer",
+          "source_id": "CH_DBG_16",
+          "basis_quote": "Der Einkommenssteuer unterliegen alle wiederkehrenden und einmaligen Einkünfte.",
+          "severity": "minor",
+          "reason": "Art. 16 Abs. 1 DBG beschränkt die Einkommenssteuer nicht auf Erträge aus beweglichem Vermögen. Die unzutreffende allgemeine Aussage verändert die korrekte Fallentscheidung nicht."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die erfragte Steuerfreiheit wird korrekt beurteilt. Die zusätzliche allgemeine Beschreibung des steuerbaren Einkommens ist jedoch zu eng."
+    },
+    {
+      "response_id": "tax_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "tax_006",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nach Art. 24 lit. a DBG sind Vermögensanfälle aus Erbschaft, Vermächtnis, Schenkung oder güterrechtlicher Auseinandersetzung von der Einkommenssteuer ausgenommen.",
+          "reason": "Die Antwort gibt die Steuerbefreiung des ererbten Vermögensanfalls nach Art. 24 lit. a DBG vollständig und korrekt wieder."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verneint die Einkommensbesteuerung zutreffend und stützt sich auf die einschlägige gesetzliche Bestimmung."
+    },
+    {
+      "response_id": "tax_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "tax_007",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "unterliegt der Gewinn aus dem Verkauf der Geschäftsmaschine als Einkunft aus selbstständiger Erwerbstätigkeit der Einkommenssteuer.",
+          "reason": "Der Veräusserungsgewinn aus Geschäftsvermögen wird ausdrücklich als steuerbares Einkommen aus selbstständiger Erwerbstätigkeit eingeordnet."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Nach Art. 18 Abs. 2 DBG gehören alle Einkünfte aus einem Handels-, Industrie-, Gewerbe-, Land- oder Forstwirtschaftsbetrieb, aus einem freien Beruf sowie aus jeder anderen selbstständigen Erwerbstätigkeit zum steuerbaren Einkommen.",
+          "source_id": "CH_DBG_18",
+          "basis_quote": "1 Steuerbar sind alle Einkünfte aus einem Handels-, Industrie-, Gewerbe-, Land- und Forstwirtschaftsbetrieb, aus einem freien Beruf sowie aus jeder anderen selbständigen Erwerbstätigkeit.",
+          "severity": "minor",
+          "reason": "Die wiedergegebene allgemeine Regel steht in Art. 18 Abs. 1 DBG und nicht in Abs. 2. Die falsche Absatzzuordnung beeinträchtigt die richtige Fallbeurteilung nicht."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die steuerliche Einordnung des Maschinenverkaufs ist vollständig richtig. Lediglich die Zuordnung einer ergänzenden Gesetzesaussage zum Absatz ist ungenau."
+    },
+    {
+      "response_id": "tax_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "tax_008",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Mietzinseinnahmen aus unbeweglichem Vermögen grundsätzlich steuerbare Erträge.",
+          "reason": "Die Antwort bestätigt ausdrücklich die grundsätzliche Steuerbarkeit der Mietzinseinnahmen nach § 30 Abs. 1 lit. a StG."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Die wesentliche Voraussetzung ist, dass die Liegenschaft im Kanton Aargau gelegen ist",
+          "label_impact": "minor",
+          "reason": "Die Antwort bezeichnet die Lage der Liegenschaft im Kanton als wesentliche Voraussetzung. Ob dies für die Anwendung der genannten Bestimmung in jedem Fall notwendig ist, lässt sich aus dem gelieferten § 30 allein nicht abschliessend beurteilen. Die Aussage ist für die bereits richtig beantwortete Frage nach der grundsätzlichen Steuerbarkeit nicht entscheidend."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die grundsätzliche Steuerbarkeit der Mietzinseinnahmen wird zutreffend festgestellt. Die zusätzliche Aussage zur Lage der Liegenschaft bleibt rechtlich ungeklärt, verändert die Fallentscheidung jedoch nicht."
+    },
+    {
+      "response_id": "tax_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "tax_009",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Bei einem Marktmietwert von 20'000 Franken ergibt sich somit ein Eigenmietwert von 12'000 Franken (20'000 × 0,60).",
+          "reason": "Die Antwort verwendet 60 Prozent statt der gesetzlich vorgesehenen 62 Prozent und berechnet deshalb 12'000 statt 12'400 Franken jährlich."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort widerspricht § 30 Abs. 2 StG sowohl beim Prozentsatz als auch beim berechneten Eigenmietwert. Der Fehler ist bereits durch das Kriterium erfasst."
+    }
+  ]
+}

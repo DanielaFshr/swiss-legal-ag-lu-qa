@@ -1,0 +1,183 @@
+{
+  "judgments": [
+    {
+      "response_id": "lab_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "lab_001",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Überstunden müssen aus betrieblichen Gründen notwendig sein",
+          "reason": "Die betriebliche Notwendigkeit wird ausdrücklich genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "die Gesundheit und die übliche Arbeitszeit zu berücksichtigen",
+          "reason": "Die Gesundheit berücksichtigt einen Teil der individuellen Leistungsfähigkeit. Dass der Arbeitnehmer die Überstunden tatsächlich leisten können muss, wird nicht vollständig ausgeführt."
+        },
+        {
+          "criterion_id": "3",
+          "status": "met",
+          "response_quote": "Die Überstunden müssen dem Arbeitnehmer zumutbar sein. Dabei sind insbesondere die persönlichen Verhältnisse (z. B. familiäre Verpflichtungen), die Gesundheit und die übliche Arbeitszeit zu berücksichtigen.",
+          "reason": "Die Zumutbarkeit wird ausdrücklich verlangt und durch persönliche Umstände konkretisiert. Dies entspricht sinngemäss der Zumutbarkeit nach Treu und Glauben."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Ohne solche Vereinbarung besteht grundsätzlich keine Pflicht zur Leistung von Überstunden.",
+          "source_id": "OR_321c",
+          "basis_quote": "Wird gegenüber dem zeitlichen Umfang der Arbeit, der verabredet oder üblich oder durch Normalarbeitsvertrag oder Gesamtarbeitsvertrag bestimmt ist, die Leistung von Überstundenarbeit notwendig, so ist der Arbeitnehmer dazu soweit verpflichtet, als er sie zu leisten vermag und sie ihm nach Treu und Glauben zugemutet werden kann.",
+          "severity": "material",
+          "reason": "Die Antwort verlangt eine ausdrückliche vertragliche Vereinbarung als Voraussetzung. Art. 321c Abs. 1 OR begründet die Überstundenpflicht bei Vorliegen der gesetzlichen Voraussetzungen auch ohne zusätzliche Vereinbarung."
+        },
+        {
+          "response_quote": "Ohne entsprechende Entschädigung ist die Anordnung von Überstunden unzulässig.",
+          "source_id": "OR_321c",
+          "basis_quote": "Wird die Überstundenarbeit nicht durch Freizeit ausgeglichen und ist nichts anderes schriftlich verabredet oder durch Normalarbeitsvertrag oder Gesamtarbeitsvertrag bestimmt, so hat der Arbeitgeber für die Überstundenarbeit Lohn zu entrichten, der sich nach dem Normallohn samt einem Zuschlag von mindestens einem Viertel bemisst.",
+          "severity": "material",
+          "reason": "Die Antwort stellt die Entschädigung als Voraussetzung für die Zulässigkeit der Überstundenanordnung dar. Die gesetzliche Vergütungsregelung ist jedoch von den Voraussetzungen der Überstundenpflicht zu unterscheiden."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erkennt die grundsätzliche Möglichkeit einer Überstundenpflicht sowie Notwendigkeit und Zumutbarkeit. Die individuelle Leistungsfähigkeit wird nur teilweise erfasst. Zwei zusätzliche falsche Voraussetzungen verändern die rechtliche Beurteilung wesentlich."
+    },
+    {
+      "response_id": "lab_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "lab_002",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "wenn dies durch schriftliche Abrede, Normalarbeitsvertrag, Gesamtarbeitsvertrag oder Übung im Betrieb vereinbart ist",
+          "reason": "Die Notwendigkeit einer Vereinbarung wird erkannt. Das Einverständnis beider Parteien wird jedoch nicht eindeutig beschrieben. Zudem werden Formen einer Vereinbarung als notwendige Grundlage dargestellt, die Art. 321c Abs. 2 OR so nicht verlangt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Da keine solche Vereinbarung besteht, hat Paul keinen Anspruch auf einseitige Freizeitkompensation.",
+          "reason": "Der fehlende einseitige Anspruch wird für den geschilderten Fall zutreffend verneint."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Fallentscheidung ist richtig. Die Voraussetzung der beidseitigen Zustimmung wird nur teilweise getroffen und durch eine zu enge Beschreibung der zulässigen Vereinbarungsformen eingeschränkt. Dieser Kernfehler ist bereits im ersten Kriterium berücksichtigt."
+    },
+    {
+      "response_id": "pol_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "pol_001",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "die Pflicht zur **Zusammenarbeit**",
+          "reason": "Zusammenarbeit erfasst den Grundgedanken der gegenseitigen Unterstützung. Die konkrete Pflicht, sich gegenseitig zu unterstützen, wird jedoch nicht ausreichend deutlich bezeichnet."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Dies bildet die rechtliche Grundlage für die Koordination der Sicherheitsmassnahmen auf Bundes- und Kantonsebene",
+          "reason": "Die Koordination der Sicherheitsmassnahmen zwischen Bund und Kantonen beschreibt sinngemäss die Abstimmung der polizeilichen Tätigkeit."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die gegenseitige Unterstützung wird nur allgemein als Zusammenarbeit beschrieben. Die Abstimmung der Tätigkeit ist durch die Begründung zur Koordination sinngemäss erfüllt. Die zusätzlich genannte Informationspflicht ersetzt die verlangte Unterstützungspflicht nicht."
+    },
+    {
+      "response_id": "pol_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "pol_002",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "wenn er die betreffenden Güter oder Dienstleistungen gleichzeitig auch für die Erfüllung eigener Aufgaben benötigt",
+          "reason": "Die gleichzeitige Beschaffung zur Erfüllung eigener Bundesaufgaben wird als notwendige Voraussetzung erkannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Da der Bund die Funkgeräte nicht für eigene Zwecke beschafft, fehlt diese wesentliche Voraussetzung.",
+          "reason": "Die fehlende gleichzeitige Beschaffung für eigene Bundesaufgaben wird als entscheidender Grund für die Verneinung angegeben."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Bundesgesetzes über das öffentliche Beschaffungswesen (ZentG)",
+          "source_id": "ZentG_1",
+          "basis_quote": "Bundesgesetz über die kriminalpolizeilichen Zentralstellen des Bundes und gemeinsame Zentren für Polizei- und Zollzusammenarbeit mit anderen Staaten (ZentG), SR 360",
+          "severity": "minor",
+          "reason": "Die ausgeschriebene Gesetzesbezeichnung ist falsch. Der Verweis auf ZentG und die angewendete Regelung sind jedoch richtig. Die fehlerhafte Bezeichnung verändert die Fallentscheidung nicht."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Entscheidung und die tragende Begründung sind vollständig richtig. Lediglich die ausgeschriebene Gesetzesbezeichnung ist fehlerhaft."
+    },
+    {
+      "response_id": "pol_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "pol_003",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "für dringende Fälle die Leitung der Kantonspolizei zuständig",
+          "reason": "Die Leitung der Kantonspolizei ist gemäss dem individuellen Bewertungshinweis als sinngemässe Bezeichnung der Polizeikommandantin oder des Polizeikommandanten zu akzeptieren."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "die Leitung der Kantonspolizei kann im Rahmen ihrer Befugnisse eigenständig entscheiden, sofern die Dringlichkeit dies erfordert.",
+          "reason": "Die Antwort stellt bei Dringlichkeit eine eigenständige Entscheidung ohne erforderliche vorgängige Rücksprache in Aussicht. § 10 Abs. 2 PolG verlangt jedoch ausdrücklich die Rücksprache mit der Vorsteherin oder dem Vorsteher des zuständigen Departements."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die entscheidende polizeiliche Leitungsfunktion wird richtig identifiziert. Die gesetzlich erforderliche Rücksprache mit der Departementsleitung wird jedoch durch die Aussage zur eigenständigen Entscheidung verkannt. Die Rücksprache mit dem Regierungsrat ist nicht die entscheidende gesetzliche Voraussetzung."
+    },
+    {
+      "response_id": "pol_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "pol_004",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nach dem Aargauer Polizeigesetz gilt für den Einsatz das Recht des Einsatzortes (Aargauer Recht).",
+          "reason": "Das anwendbare Recht wird vollständig und zutreffend als Recht des Einsatzortes bezeichnet und für den konkreten Fall dem Kanton Aargau zugeordnet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Die Polizeikräfte anderer Kantone unterstehen bei Einsätzen auf Aargauer Gebiet den Weisungen der aargauischen Einsatzleitung",
+          "label_impact": "minor",
+          "reason": "Die gelieferte Gesetzespassage bestimmt das anwendbare Recht, enthält jedoch keine ausdrückliche Regelung zur Weisungsunterstellung. Diese zusätzliche organisatorische Aussage lässt sich anhand der gelieferten Quelle nicht abschliessend überprüfen. Sie verändert die zutreffende Beantwortung der Frage nach dem anwendbaren Recht nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Frage nach dem anwendbaren Recht wird vollständig richtig beantwortet. Die zusätzliche Aussage zur Weisungsunterstellung ist durch den begrenzten Quellenausschnitt nicht belegt, betrifft jedoch nicht die entscheidende Rechtsfrage."
+    }
+  ]
+}

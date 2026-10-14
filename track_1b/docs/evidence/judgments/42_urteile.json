@@ -1,0 +1,156 @@
+{
+  "judgments": [
+    {
+      "response_id": "tax_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "tax_010",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Ja, nach dem Luzerner Steuergesetz sind Erträge aus einem Baurechtsvertrag als Erträge aus unbeweglichem Vermögen steuerbar.",
+          "reason": "Die Steuerbarkeit der Einkünfte aus Baurechtsverträgen als Erträge aus unbeweglichem Vermögen wird ausdrücklich bestätigt."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Ein Baurecht gewährt dem Baurechtsnehmer das Recht, auf oder unter der Bodenfläche ein Bauwerk zu errichten und zu nutzen (§ 779 ff. ZGB).",
+          "source_id": "LU_Tax_28",
+          "basis_quote": "c. Einkünfte aus Baurechtsverträgen",
+          "severity": "minor",
+          "reason": "Kein belegter Widerspruch. Die zusätzliche zivilrechtliche Beschreibung wird durch den gelieferten Steuergesetzesauszug jedoch nicht überprüfbar. Daher nicht als Zusatzfehler zu erfassen."
+        }
+      ],
+      "unverified_claims": [
+        {
+          "response_quote": "Ein Baurecht gewährt dem Baurechtsnehmer das Recht, auf oder unter der Bodenfläche ein Bauwerk zu errichten und zu nutzen (§ 779 ff. ZGB).",
+          "label_impact": "minor",
+          "reason": "Die zivilrechtliche Beschreibung ist durch den gelieferten Auszug nicht überprüfbar. Sie ist für die ausdrücklich geregelte Steuerbarkeit nicht entscheidend."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Kernfrage wird richtig beantwortet. Die angegebene Fundstelle § 23 statt § 28 ist eine nicht tragende Ungenauigkeit."
+    },
+    {
+      "response_id": "edu_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "edu_005",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "genehmigt die kantonale Behörde den Lehrvertrag.",
+          "reason": "Die zuständige kantonale Behörde wird als Genehmigungsstelle richtig bezeichnet."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Sie darf dafür eine Gebühr erheben",
+          "reason": "Art. 14 Abs. 3 BBG verbietet ausdrücklich Gebühren für die Genehmigung. Die Antwort behauptet das Gegenteil."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Zuständigkeit ist korrekt. Die Aussage zur Gebührenpflicht widerspricht ausdrücklich dem Gesetz und ist durch das zweite Kriterium bereits erfasst."
+    },
+    {
+      "response_id": "edu_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "edu_006",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "**Eidgenössische Berufsatteste (EBA)** der zweijährigen beruflichen Grundbildung zugeordnet.",
+          "reason": "Die zweijährige Grundbildung wird korrekt dem eidgenössischen Berufsattest zugeordnet."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "**Eidgenössische Fähigkeitszeugnisse (EFZ)** der drei- bis vierjährigen beruflichen Grundbildung zugeordnet.",
+          "reason": "Die drei- bis vierjährige Grundbildung wird korrekt dem eidgenössischen Fähigkeitszeugnis zugeordnet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide eidgenössischen Abschlüsse sind den entsprechenden Ausbildungsdauern richtig zugeordnet."
+    },
+    {
+      "response_id": "edu_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "edu_007",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Das bedeutet, dass für den obligatorischen Teil der Berufsbildung kein Schulgeld erhoben werden darf.",
+          "reason": "Das Verbot von Schulgeld für den obligatorischen Unterricht wird ausdrücklich und korrekt wiedergegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verneint die Zulässigkeit der Schulgeldforderung korrekt und begründet dies mit der Unentgeltlichkeit des obligatorischen Unterrichts."
+    },
+    {
+      "response_id": "edu_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "edu_008",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "Die Befreiung erfolgt auf Gesuch hin durch die kantonale Behörde",
+          "reason": "Die kantonale Zuständigkeit und das Erfordernis eines Gesuchs werden genannt. Es fehlt jedoch die Angabe, dass das Gesuch vom Anbieter der Bildung in beruflicher Praxis gestellt wird."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Vermittlung der Kursinhalte in einem betrieblichen Bildungszentrum oder einer Lehrwerkstätte wird nicht als Befreiungsvoraussetzung genannt. Die stattdessen angeführten Beispiele ersetzen diese gesetzliche Voraussetzung nicht."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "z. B. ausreichende alternative Qualifikationsnachweise, besondere Umstände, die den Kursbesuch verunmöglichen",
+          "label_impact": "material",
+          "reason": "Diese zusätzlichen Befreiungsgründe sind im gelieferten Art. 23 Abs. 3 BBG nicht vorgesehen. Ob sie aufgrund anderer Vorschriften bestehen können, lässt sich aus den Quellen nicht abschliessend entscheiden. Ihre mögliche Unrichtigkeit betrifft die wesentlichen Voraussetzungen einer Befreiung."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die fehlende eigene Befreiungskompetenz des Lehrbetriebs und die kantonale Zuständigkeit werden richtig erkannt. Der Gesuchsteller wird nicht bestimmt und die gesetzliche Voraussetzung der Vermittlung in einer Lehrwerkstätte oder einem betrieblichen Bildungszentrum fehlt. Stattdessen werden ungeklärte alternative Gründe genannt."
+    },
+    {
+      "response_id": "edu_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "edu_009",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "die Förderung der Bereitschaft und Fähigkeit zu lebenslangem Lernen.",
+          "reason": "Die Förderung der Bereitschaft und Fähigkeit zu lebenslangem Lernen wird als ausdrückliches Ziel der beruflichen Grundbildung richtig wiedergegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Frage wird zutreffend bejaht und die gesetzliche Zielsetzung korrekt genannt."
+    }
+  ]
+}

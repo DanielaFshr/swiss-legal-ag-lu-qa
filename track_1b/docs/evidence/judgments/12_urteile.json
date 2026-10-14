@@ -1,0 +1,180 @@
+{
+  "judgments": [
+    {
+      "response_id": "lab_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "lab_003",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nach Art. 322 Abs. 1 OR schuldet der Arbeitgeber den Lohn, der **üblich** ist für die entsprechende Arbeit am entsprechenden Ort.",
+          "reason": "Der übliche Lohn wird ausdrücklich als geschuldeter Lohn genannt. Die fehlende Vereinbarung sowie das Fehlen von NAV und GAV werden in der Begründung berücksichtigt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erfüllt den gefragten Anspruch auf den üblichen Lohn nach Art. 322 Abs. 1 OR."
+    },
+    {
+      "response_id": "lab_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "lab_004",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nach Art. 327a OR muss der Arbeitgeber dem Arbeitnehmer alle durch die Ausführung der Arbeit notwendig entstehenden Auslagen ersetzen.",
+          "reason": "Die gesetzliche Ersatzpflicht für notwendige Auslagen wird vollständig und zutreffend wiedergegeben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Die Abrede ist ungültig.",
+          "reason": "Die Ungültigkeit wird ausdrücklich festgestellt und mit dem Verstoss gegen die zwingende gesetzliche Bestimmung begründet. Dies entspricht der Nichtigkeit nach Art. 327a Abs. 3 OR."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verneint die Gültigkeit der Abrede und weist die notwendigen Auslagen zutreffend dem Arbeitgeber zu."
+    },
+    {
+      "response_id": "lab_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "lab_005",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "muss der Arbeitgeber der 19-jährigen Arbeitnehmerin mindestens vier Wochen Ferien gewähren.",
+          "reason": "Für eine 19-jährige Arbeitnehmerin beträgt der gesetzliche Mindestferienanspruch fünf Wochen pro vollständigem Dienstjahr. Die genannten vier Wochen widersprechen Art. 329a Abs. 1 OR."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort übersieht den besonderen Mindestferienanspruch für Arbeitnehmerinnen und Arbeitnehmer bis zum vollendeten 20. Altersjahr und nennt deshalb eine falsche Mindestdauer."
+    },
+    {
+      "response_id": "lab_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "lab_006",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Der Arbeitgeber darf nicht einseitig weitere Inhalte (wie Leistung und Verhalten) aufnehmen, wenn der Arbeitnehmer ausdrücklich nur eine Arbeitsbestätigung nach Art. 330a Abs. 2 OR verlangt.",
+          "reason": "Die Antwort erkennt den Anspruch auf eine auf Art und Dauer beschränkte Arbeitsbestätigung sowie das Verbot zusätzlicher Angaben gegen den ausdrücklichen Wunsch des Arbeitnehmers."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Der Arbeitgeber muss dem Wunsch des Arbeitnehmers nach einer reinen Arbeitsbestätigung entsprechen.",
+          "reason": "Die Antwort bejaht den Anspruch ausdrücklich für den geschilderten Fall des laufenden Arbeitsverhältnisses. Damit ist die zeitliche Zulässigkeit im konkreten Fall eindeutig anerkannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Das Arbeitszeugnis ist dispositives Recht; der Arbeitnehmer kann die Form und den Inhalt mitbestimmen, solange die Mindestanforderungen erfüllt sind.",
+          "label_impact": "minor",
+          "reason": "Die pauschale Einordnung als dispositives Recht und eine allgemeine Mitbestimmung über Form und Inhalt sind durch den gelieferten Art. 330a OR nicht vollständig belegt. Die Aussage ist für die konkrete Entscheidung nicht tragend und verändert den korrekt erkannten Anspruch auf eine beschränkte Arbeitsbestätigung nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verneint zutreffend die Befugnis des Arbeitgebers, gegen das besondere Verlangen zusätzliche Zeugnisinhalte aufzunehmen. Auch der Anspruch während des laufenden Arbeitsverhältnisses wird im Fallkontext anerkannt."
+    },
+    {
+      "response_id": "lab_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "lab_007",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Art. 321e OR regelt die Haftung des Arbeitnehmers für Schäden, die er dem Arbeitgeber absichtlich oder fahrlässig zufügt.",
+          "reason": "Die Verantwortlichkeit für absichtlich oder fahrlässig verursachte Schäden wird vollständig genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Das Berufsrisiko als eigenständiger Faktor für das Sorgfaltsmass wird nicht genannt. Die allgemeinen Arbeitsumstände ersetzen diesen spezifischen Faktor nicht eindeutig."
+        },
+        {
+          "criterion_id": "3",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Der für die Arbeit verlangte Bildungsgrad oder die verlangten Fachkenntnisse werden nicht erwähnt."
+        },
+        {
+          "criterion_id": "4",
+          "status": "partial",
+          "response_quote": "die Fähigkeiten und Eigenschaften des Arbeitnehmers",
+          "reason": "Die Fähigkeiten und Eigenschaften werden ausdrücklich genannt. Es fehlt jedoch die gesetzliche Einschränkung auf diejenigen, die der Arbeitgeber kannte oder hätte kennen sollen."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "sowie die vom Arbeitgeber erteilten Anweisungen.",
+          "label_impact": "minor",
+          "reason": "Die Anweisungen des Arbeitgebers werden als zusätzlicher Faktor genannt, der im gelieferten Art. 321e OR nicht ausdrücklich aufgeführt ist. Die Quelle erlaubt keine abschliessende Beurteilung seiner rechtlichen Bedeutung. Die Aussage ist für die Bewertung der konkret verlangten gesetzlichen Faktoren nicht entscheidend."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Haftungsgrundlage wird richtig wiedergegeben. Bei den Umständen für das Sorgfaltsmass fehlen das Berufsrisiko und die verlangte Ausbildung beziehungsweise Fachkenntnis. Die Fähigkeiten und Eigenschaften werden nur teilweise im gesetzlichen Sinn beschrieben."
+    },
+    {
+      "response_id": "ren_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "ren_006",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Der zulässige Höchstbetrag beträgt drei Monatsmietzinse, also maximal **5400 Franken** (3 × 1800 CHF).",
+          "reason": "Der gesetzliche Höchstbetrag von drei Monatsmietzinsen wird richtig angewendet und mit 5400 Franken korrekt beziffert."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "Die Geldsicherheit muss auf einem Sparkonto oder in einem anderen Anlageinstrument hinterlegt werden, das vom Vermieter getrennt vom eigenen Vermögen verwaltet wird",
+          "reason": "Die Hinterlegung auf einem Sparkonto und die Trennung vom Vermögen des Vermieters werden erwähnt. Die gesetzlich erforderliche Hinterlegung bei einer Bank auf den Namen des Mieters wird nicht vollständig beschrieben."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Nach Art. 257e Abs. 1 OR darf die Barkaution höchstens drei Monatsmietzinse betragen.",
+          "source_id": "CH_OR_257e",
+          "basis_quote": "2 Bei der Miete von Wohnräumen darf der Vermieter höchstens drei Monatszinse als Sicherheit verlangen.",
+          "severity": "minor",
+          "reason": "Die Höchstgrenze steht in Art. 257e Abs. 2 OR und nicht in Abs. 1. Die inhaltliche Fallentscheidung bleibt richtig."
+        }
+      ],
+      "unverified_claims": [
+        {
+          "response_quote": "und eine Verzinsung zu marktüblichen Bedingungen vorsieht (Art. 257e Abs. 1 OR).",
+          "label_impact": "minor",
+          "reason": "Die gelieferte Gesetzespassage enthält keine ausdrückliche Pflicht zur marktüblichen Verzinsung. Ob eine solche Verpflichtung aus anderen Vorschriften folgt, lässt sich anhand der bereitgestellten Quelle nicht abschliessend entscheiden. Die Aussage ist für die erfragte Höchstgrenze und die gesetzlich erforderliche Hinterlegung nicht entscheidend."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die zulässige Kaution wird korrekt berechnet. Die Anforderungen an die Hinterlegung werden nur teilweise erfüllt, weil die Bank und der Name des Mieters fehlen. Hinzu kommen eine unzutreffende Absatzangabe und eine nicht belegte Nebenbehauptung zur Verzinsung."
+    }
+  ]
+}

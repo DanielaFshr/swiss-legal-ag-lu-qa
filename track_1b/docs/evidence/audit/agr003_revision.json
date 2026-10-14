@@ -1,0 +1,105 @@
+{
+  "item_id": "agr_003",
+  "revision": 1,
+  "status": "targeted_model_and_judge_run_completed_final_label_incorrect",
+  "reason": "Die ursprüngliche offene Frage begrenzt die zulässige Antwort nicht auf Art. 153 LwG und verlangt die Isolationsdauer nicht ausdrücklich. Der bisherige Inhaltsscore nach dem engeren Raster ist deshalb nicht als abschliessendes Modellurteil verwendbar.",
+  "original_question": "Zur Verhinderung der Einschleppung und Ausbreitung besonders gefährlicher Schadorganismen: Welche Massnahmen kann der Bundesrat insbesondere anordnen?",
+  "original_response_id": "agr_003_20261014T072645Z_fb1d06_a1",
+  "original_human_label": "incorrect",
+  "original_judge_label": null,
+  "revised_item": {
+    "id": "agr_003",
+    "topic": "Landwirtschaft",
+    "jurisdiction": "federal",
+    "canton": null,
+    "task_type": "scope",
+    "difficulty": "advanced",
+    "language": "de-CH",
+    "answer_type": "free_text",
+    "question": "Welche drei Massnahmengruppen kann der Bundesrat nach Art. 153 LwG zur Bekämpfung besonders gefährlicher Schadorganismen anordnen? Erläutern Sie auch, welche Objekte isoliert werden können und wie lange die Isolation dauern darf.",
+    "reference_answer": "Der Bundesrat kann die Überwachung der phytosanitären Lage anordnen. Er kann festlegen, dass befallsverdächtiges Pflanzenmaterial und befallsverdächtige Gegenstände und Parzellen so lange isoliert werden, als der Befall nicht ausgeschlossen werden kann. Er kann die Behandlung, Desinfizierung oder Vernichtung von Kulturen, Pflanzenmaterial, Produktionsmitteln und Gegenständen anordnen, die befallen sind oder befallen sein könnten.",
+    "expected_decision": null,
+    "legal_source": "LwG",
+    "article": "Art. 153",
+    "source_url": "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/de",
+    "requires_case_law": false,
+    "facts": [
+      {
+        "fact_id": "1",
+        "text": "Überwachung der phytosanitären Lage."
+      },
+      {
+        "fact_id": "2",
+        "text": "Isolation befallsverdächtigen Pflanzenmaterials, von Gegenständen und Parzellen, solange ein Befall nicht ausgeschlossen werden kann."
+      },
+      {
+        "fact_id": "3",
+        "text": "Behandlung, Desinfizierung oder Vernichtung befallener oder möglicherweise befallener Kulturen, Pflanzenmaterialien, Produktionsmittel und Gegenstände."
+      }
+    ],
+    "criteria": [
+      {
+        "criterion_id": "1",
+        "fact_id": "1",
+        "text": "Überwachung der phytosanitären Lage."
+      },
+      {
+        "criterion_id": "2a",
+        "fact_id": "2",
+        "text": "Befallsverdächtiges Pflanzenmaterial, Gegenstände und Parzellen können isoliert werden."
+      },
+      {
+        "criterion_id": "2b",
+        "fact_id": "2",
+        "text": "Die Isolation darf dauern solange ein Befall nicht ausgeschlossen werden kann."
+      },
+      {
+        "criterion_id": "3a",
+        "fact_id": "3",
+        "text": "Behandlung, Desinfizierung oder Vernichtung sind mögliche Massnahmen."
+      },
+      {
+        "criterion_id": "3b",
+        "fact_id": "3",
+        "text": "Sie betreffen befallene oder möglicherweise befallene Kulturen, Pflanzenmaterial, Produktionsmittel und Gegenstände."
+      }
+    ],
+    "scoring_policy": {
+      "threshold_percent": 80,
+      "critical_criteria": {},
+      "minimum_fully_met_groups": 0,
+      "critical_weight_share": 0.5
+    },
+    "grading_note": "Sinngemässe Erfüllung und im Kontext eindeutig erkennbare Angaben genügen. Bereits feststehende Sachverhaltsmerkmale müssen nicht wortgleich wiederholt werden. Bei einem zusammengesetzten Kriterium mit nur teilweise erfüllten Teilinhalten partial verwenden. Ungefragte Details sind keine zusätzlichen Pflichtkriterien. Gesetzliche Alternativen nicht in kumulative Voraussetzungen umdeuten. Nicht durch die Quelle belegbare entscheidende Zusatzbehauptungen zur Durchsicht markieren. Eine möglicherweise gültige alternative Antwort nicht allein wegen ihres Fehlens in der Referenz verwerfen, sondern gegebenenfalls rubric_conflict und needs_review setzen. Ungeklärte Zusatzdetails blockieren das Label nur wenn ihre mögliche Unrichtigkeit für den Frageauftrag wesentlich ist. Einen bereits bewerteten Kernfehler nicht nochmals als Zusatzfehler zählen.",
+    "source_excerpts": [
+      {
+        "source_id": "CH_LwG_153",
+        "text": "Art. 153 Massnahmen zur Bekämpfung besonders gefährlicher Schadorganismen 219 Um die Einschleppung und die Ausbreitung von besonders gefährlichen Schadorganismen zu verhindern, kann der Bundesrat insbesondere: a. die Überwachung der phytosanitären Lage anordnen; b. festlegen, dass befallsverdächtiges Pflanzenmaterial und befallsverdächtige Gegenstände und Parzellen so lange isoliert werden, als der Befall nicht ausgeschlossen werden kann; c. die Behandlung, Desinfizierung oder Vernichtung von Kulturen, Pflanzenmaterial, Produktionsmitteln und Gegenständen anordnen, die von besonders gefährlichen Schadorganismen befallen sind oder befallen sein könnten. 219 Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ( AS 2024 623 ; BBl 2020 3955 ).",
+        "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20260101/de/html/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20260101-de-html.html",
+        "version": "20260101",
+        "local_source_sha256": "08fc1f227c55e6b42c76f7e3e5e93725dff3b4d729ff03f59b43dd1c177154ab"
+      }
+    ],
+    "evaluation_role": "new_in_apertus_runs",
+    "rubric_origin": "vor Gesamtlauf aus vorhandenen Pflichtkriterien aufgebaut",
+    "item_revision": "gesamtlauf_66_v05",
+    "origin_bundle": "pilot_66",
+    "cohort": "pilot_development",
+    "display_id": 59,
+    "prompt_has_article_reference": false,
+    "required_facts": "1. Überwachung der phytosanitären Lage.\n2. Isolation befallsverdächtigen Pflanzenmaterials, von Gegenständen und Parzellen, solange ein Befall nicht ausgeschlossen werden kann.\n3. Behandlung, Desinfizierung oder Vernichtung befallener oder möglicherweise befallener Kulturen, Pflanzenmaterialien, Produktionsmittel und Gegenstände.",
+    "answer_variations": [
+      "Der Bundesrat kann die Überwachung der phytosanitären Lage anordnen. Er kann festlegen, dass befallsverdächtiges Pflanzenmaterial und befallsverdächtige Gegenstände und Parzellen so lange isoliert werden, als der Befall nicht ausgeschlossen werden kann. Er kann die Behandlung, Desinfizierung oder Vernichtung von Kulturen, Pflanzenmaterial, Produktionsmitteln und Gegenständen anordnen, die befallen sind oder befallen sein könnten.",
+      "- Überwachung der phytosanitären Lage.\n- Isolation befallsverdächtigen Pflanzenmaterials, von Gegenständen und Parzellen, solange ein Befall nicht ausgeschlossen werden kann.\n- Behandlung, Desinfizierung oder Vernichtung befallener oder möglicherweise befallener Kulturen, Pflanzenmaterialien, Produktionsmittel und Gegenstände."
+    ],
+    "license": "CDLA-Permissive-2.0",
+    "source_content_status": "Amtlicher Erlass, kein Urheberrechtsschutz nach Art. 5 Abs. 1 lit. a URG"
+  },
+  "original_dataset_changed": false,
+  "original_labels_changed": false,
+  "next_action": "Gemeinsamer gezielter Nachlauf für bestätigte Fragenrevisionen. Neue response_id und gesonderte Judge-Ausgabe erhalten. Ursprünglichen Lauf separat ausweisen.",
+  "new_response_id": "agr_003_20261014T212852Z_7e47ec_a1",
+  "original_automated_score_percent": 25,
+  "adjudicated_content_score_percent": 33.33,
+  "final_label": "incorrect"
+}

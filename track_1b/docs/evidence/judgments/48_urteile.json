@@ -1,0 +1,136 @@
+{
+  "judgments": [
+    {
+      "response_id": "cop_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "cop_007",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nach Art. 6 URG ist die **schaffende Person** die Urheberin oder der Urheber. Das Unternehmen ist allein durch die Bezahlung nicht Urheberin oder Urheber.",
+          "reason": "Die Antwort bezeichnet die schaffende Person als Urheberin oder Urheber und stellt klar, dass die Bezahlung allein keine Urheberschaft des Unternehmens begründet. Die natürliche Person wird im folgenden Satz ausdrücklich genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erfüllt den erfragten Inhalt vollständig und entspricht Art. 6 URG."
+    },
+    {
+      "response_id": "cop_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "cop_008",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nach Art. 9 Abs. 2 URG darf die Urheberin **ausschliesslich** entscheiden, ob, wann und wie ihr Werk erstmals veröffentlicht wird.",
+          "reason": "Die Entscheidung über das Ob, Wann und Wie der erstmaligen Veröffentlichung ist ausdrücklich und vollständig enthalten."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Entscheidung darüber, unter welcher Urheberbezeichnung das Werk erstmals veröffentlicht wird, fehlt vollständig. Die allgemeinen Ausführungen zum Urheberpersönlichkeitsrecht ersetzen diesen Gesichtspunkt nicht."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Drei der vier gesetzlichen Gesichtspunkte werden richtig genannt. Das ausdrücklich erfragte Recht zur Bestimmung der Urheberbezeichnung fehlt."
+    },
+    {
+      "response_id": "cop_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "cop_009",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Nein.\n\nBegründung: Nach Schweizer Urheberrecht erschöpft sich das Verbreitungsrecht (Art. 10 Abs. 2 URG) grundsätzlich nur bei der ersten Veräusserung des Originals oder einer Vervielfältigung. Das heisst, die Zustimmung der Urheberin zur Veräusserung berechtigt lediglich zum einmaligen Weiterverkauf des erworbenen Exemplars. Ein generelles Recht auf Weiterveräusserung besteht nicht.",
+          "reason": "Die Antwort verneint die ausdrücklich erfragte Zulässigkeit des Weiterverkaufs. Zwar erwähnt sie einen einmaligen Weiterverkauf, beschränkt diesen aber unzutreffend und hält an der verneinenden Fallentscheidung fest. Nach Art. 12 Abs. 1 URG darf das mit Zustimmung der Urheberin veräusserte konkrete Exemplar weiterveräussert werden."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort enthält eine widersprüchliche Begründung und trifft mit Nein die falsche Fallentscheidung. Die Beschränkung auf einen einmaligen Weiterverkauf widerspricht dem Erschöpfungsgrundsatz."
+    },
+    {
+      "response_id": "cop_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "cop_010",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Nach Art. 29 Abs. 2 URG beträgt die Schutzdauer ab Tod der Urheberin oder des Urhebers 70 Jahre für Computerprogramme und für einen gewöhnlichen literarischen Text mit individuellem Charakter.",
+          "reason": "Die Antwort nennt für Computerprogramme 70 statt der gesetzlich vorgesehenen 50 Jahre nach dem Tod gemäss Art. 29 Abs. 2 lit. a URG."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Nach Art. 29 Abs. 2 URG beträgt die Schutzdauer ab Tod der Urheberin oder des Urhebers 70 Jahre für Computerprogramme und für einen gewöhnlichen literarischen Text mit individuellem Charakter.",
+          "reason": "Die Schutzdauer von 70 Jahren nach dem Tod für einen gewöhnlichen literarischen Text mit individuellem Charakter wird korrekt genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Die Schutzdauer erstreckt sich auf 70 Jahre nach dem Tod der letzten verbleibenden Urheberin oder des letzten verbleibenden Urhebers.",
+          "label_impact": "minor",
+          "reason": "Die Aussage zur letzten verbleibenden urheberberechtigten Person betrifft eine nicht vorgegebene Miturheberschaft. Ihre allgemeine Richtigkeit lässt sich aus dem gelieferten Art. 29 URG allein nicht vollständig beurteilen. Für die erfragten Schutzfristen bei den beiden Werkkategorien ist sie nicht entscheidend. Die falsche Frist für Computerprogramme ist bereits im ersten Kriterium erfasst."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Schutzdauer für literarische Texte ist richtig. Die ausdrücklich genannte Schutzdauer für Computerprogramme widerspricht Art. 29 Abs. 2 lit. a URG."
+    },
+    {
+      "response_id": "imp_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "imp_006",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "entweder das Verhältnis zwischen Mitbewerbern (Wettbewerbsverhältnis) oder das Verhältnis zwischen Anbietern und Abnehmern (Verkehrsverhältnis) beeinflussen",
+          "reason": "Beide gesetzlichen Alternativen des erforderlichen Wettbewerbsbezugs nach Art. 2 UWG sind ausdrücklich und korrekt genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort gibt die beiden alternativen Beziehungen vollständig und rechtlich zutreffend wieder."
+    },
+    {
+      "response_id": "imp_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "imp_007",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Bewusst unrichtige Äusserungen, die einen Mitbewerber herabsetzen, sind daher unlauter und damit rechtswidrig.",
+          "reason": "Die Antwort stellt zutreffend fest, dass die Herabsetzung eines Mitbewerbers durch bewusst unrichtige Äusserungen unlauter ist. Sie erklärt zudem richtig, dass die Verwendung solcher Äusserungen in der Werbung keine Rechtfertigung darstellt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Fallentscheidung Nein ist richtig und die Begründung entspricht Art. 3 Abs. 1 lit. a UWG."
+    }
+  ]
+}

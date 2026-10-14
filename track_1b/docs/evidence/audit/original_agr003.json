@@ -1,0 +1,170 @@
+{
+  "item": {
+    "id": "agr_003",
+    "topic": "Landwirtschaft",
+    "jurisdiction": "federal",
+    "canton": null,
+    "task_type": "scope",
+    "difficulty": "advanced",
+    "language": "de-CH",
+    "answer_type": "free_text",
+    "question": "Zur Verhinderung der Einschleppung und Ausbreitung besonders gefährlicher Schadorganismen: Welche Massnahmen kann der Bundesrat insbesondere anordnen?",
+    "reference_answer": "Der Bundesrat kann die Überwachung der phytosanitären Lage anordnen. Er kann festlegen, dass befallsverdächtiges Pflanzenmaterial und befallsverdächtige Gegenstände und Parzellen so lange isoliert werden, als der Befall nicht ausgeschlossen werden kann. Er kann die Behandlung, Desinfizierung oder Vernichtung von Kulturen, Pflanzenmaterial, Produktionsmitteln und Gegenständen anordnen, die befallen sind oder befallen sein könnten.",
+    "expected_decision": null,
+    "legal_source": "LwG",
+    "article": "Art. 153",
+    "source_url": "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/de",
+    "requires_case_law": false,
+    "facts": [
+      {
+        "fact_id": "1",
+        "text": "Überwachung der phytosanitären Lage."
+      },
+      {
+        "fact_id": "2",
+        "text": "Isolation befallsverdächtigen Pflanzenmaterials, von Gegenständen und Parzellen, solange ein Befall nicht ausgeschlossen werden kann."
+      },
+      {
+        "fact_id": "3",
+        "text": "Behandlung, Desinfizierung oder Vernichtung befallener oder möglicherweise befallener Kulturen, Pflanzenmaterialien, Produktionsmittel und Gegenstände."
+      }
+    ],
+    "criteria": [
+      {
+        "criterion_id": "1",
+        "fact_id": "1",
+        "text": "Überwachung der phytosanitären Lage."
+      },
+      {
+        "criterion_id": "2a",
+        "fact_id": "2",
+        "text": "Befallsverdächtiges Pflanzenmaterial, Gegenstände und Parzellen können isoliert werden."
+      },
+      {
+        "criterion_id": "2b",
+        "fact_id": "2",
+        "text": "Die Isolation darf dauern solange ein Befall nicht ausgeschlossen werden kann."
+      },
+      {
+        "criterion_id": "3a",
+        "fact_id": "3",
+        "text": "Behandlung, Desinfizierung oder Vernichtung sind mögliche Massnahmen."
+      },
+      {
+        "criterion_id": "3b",
+        "fact_id": "3",
+        "text": "Sie betreffen befallene oder möglicherweise befallene Kulturen, Pflanzenmaterial, Produktionsmittel und Gegenstände."
+      }
+    ],
+    "scoring_policy": {
+      "threshold_percent": 80,
+      "critical_criteria": {},
+      "minimum_fully_met_groups": 0,
+      "critical_weight_share": 0.5
+    },
+    "grading_note": "Sinngemässe Erfüllung und im Kontext eindeutig erkennbare Angaben genügen. Bereits feststehende Sachverhaltsmerkmale müssen nicht wortgleich wiederholt werden. Bei einem zusammengesetzten Kriterium mit nur teilweise erfüllten Teilinhalten partial verwenden. Ungefragte Details sind keine zusätzlichen Pflichtkriterien. Gesetzliche Alternativen nicht in kumulative Voraussetzungen umdeuten. Nicht durch die Quelle belegbare entscheidende Zusatzbehauptungen zur Durchsicht markieren. Eine möglicherweise gültige alternative Antwort nicht allein wegen ihres Fehlens in der Referenz verwerfen, sondern gegebenenfalls rubric_conflict und needs_review setzen. Ungeklärte Zusatzdetails blockieren das Label nur wenn ihre mögliche Unrichtigkeit für den Frageauftrag wesentlich ist. Einen bereits bewerteten Kernfehler nicht nochmals als Zusatzfehler zählen.",
+    "source_excerpts": [
+      {
+        "source_id": "CH_LwG_153",
+        "text": "Art. 153 Massnahmen zur Bekämpfung besonders gefährlicher Schadorganismen 219 Um die Einschleppung und die Ausbreitung von besonders gefährlichen Schadorganismen zu verhindern, kann der Bundesrat insbesondere: a. die Überwachung der phytosanitären Lage anordnen; b. festlegen, dass befallsverdächtiges Pflanzenmaterial und befallsverdächtige Gegenstände und Parzellen so lange isoliert werden, als der Befall nicht ausgeschlossen werden kann; c. die Behandlung, Desinfizierung oder Vernichtung von Kulturen, Pflanzenmaterial, Produktionsmitteln und Gegenständen anordnen, die von besonders gefährlichen Schadorganismen befallen sind oder befallen sein könnten. 219 Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ( AS 2024 623 ; BBl 2020 3955 ).",
+        "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20260101/de/html/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20260101-de-html.html",
+        "version": "20260101",
+        "local_source_sha256": "08fc1f227c55e6b42c76f7e3e5e93725dff3b4d729ff03f59b43dd1c177154ab"
+      }
+    ],
+    "evaluation_role": "new_in_apertus_runs",
+    "rubric_origin": "vor Gesamtlauf aus vorhandenen Pflichtkriterien aufgebaut",
+    "item_revision": "gesamtlauf_66_v05",
+    "origin_bundle": "pilot_66",
+    "cohort": "pilot_development",
+    "display_id": 59,
+    "prompt_has_article_reference": false,
+    "required_facts": "1. Überwachung der phytosanitären Lage.\n2. Isolation befallsverdächtigen Pflanzenmaterials, von Gegenständen und Parzellen, solange ein Befall nicht ausgeschlossen werden kann.\n3. Behandlung, Desinfizierung oder Vernichtung befallener oder möglicherweise befallener Kulturen, Pflanzenmaterialien, Produktionsmittel und Gegenstände.",
+    "answer_variations": [
+      "Der Bundesrat kann die Überwachung der phytosanitären Lage anordnen. Er kann festlegen, dass befallsverdächtiges Pflanzenmaterial und befallsverdächtige Gegenstände und Parzellen so lange isoliert werden, als der Befall nicht ausgeschlossen werden kann. Er kann die Behandlung, Desinfizierung oder Vernichtung von Kulturen, Pflanzenmaterial, Produktionsmitteln und Gegenständen anordnen, die befallen sind oder befallen sein könnten.",
+      "- Überwachung der phytosanitären Lage.\n- Isolation befallsverdächtigen Pflanzenmaterials, von Gegenständen und Parzellen, solange ein Befall nicht ausgeschlossen werden kann.\n- Behandlung, Desinfizierung oder Vernichtung befallener oder möglicherweise befallener Kulturen, Pflanzenmaterialien, Produktionsmittel und Gegenstände."
+    ],
+    "license": "CDLA-Permissive-2.0",
+    "source_content_status": "Amtlicher Erlass, kein Urheberrechtsschutz nach Art. 5 Abs. 1 lit. a URG"
+  },
+  "response": {
+    "response_id": "agr_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_003",
+    "model_id": "swiss-ai/Apertus-v1.5-70B",
+    "provider": "featherless-ai",
+    "model_response": "Nach Schweizer Recht (insbesondere dem Bundesgesetz über den Pflanzenschutz, SR 916.20) kann der Bundesrat zur Verhinderung der Einschleppung und Ausbreitung besonders gefährlicher Schadorganismen insbesondere folgende Massnahmen anordnen:\n\n**Massnahmen:**\n*   **Einfuhrverbote:** Verbot der Einfuhr von Pflanzen, Pflanzenteilen oder anderen Waren, die Träger von besonders gefährlichen Schadorganismen sein können.\n*   **Kontrollen:** Anordnung von Kontrollen an der Grenze sowie im Inland (z. B. bei Lagerbeständen, Transportmitteln).\n*   **Quarantäne:** Verpflichtung zur Quarantäne für Waren, die potenziell befallen sind, um eine Ausbreitung zu verhindern.\n*   **Beseitigung:** Anordnung der Vernichtung oder fachgerechten Behandlung befallener Pflanzen oder Waren.\n*   **Meldepflicht:** Einführung oder Verschärfung von Meldepflichten für den Fund oder den Verdacht auf das Auftreten solcher Organismen.\n*   **Bekämpfungsmassnahmen:** Vorgaben für die Bekämpfung bereits aufgetretener Organismen im Inland.\n\n**Rechtsgrundlage & Voraussetzung:**\nDie Anordnung dieser Massnahmen stützt sich auf Art. 15 des Pflanzenschutzgesetzes. Eine wesentliche Voraussetzung ist, dass eine Gefahr für die einheimische Pflanzenproduktion oder die Umwelt besteht. Die Massnahmen müssen verhältnismässig sein und dürfen nicht über das zur Abwendung der Gefahr Notwendige hinausgehen. Zudem müssen sie im Einklang mit internationalen Verpflichtungen (z. B. IPPC-Abkommen der FAO) stehen.",
+    "prompt": "Beantworte die folgende Frage nach Schweizer Recht. Antworte kurz und begründe mit den wesentlichen Voraussetzungen.\n\nZur Verhinderung der Einschleppung und Ausbreitung besonders gefährlicher Schadorganismen: Welche Massnahmen kann der Bundesrat insbesondere anordnen?",
+    "started_at_utc": "2026-10-14T07:34:00.103570+00:00",
+    "completed_at_utc": "2026-10-14T07:34:13.219072+00:00",
+    "duration_seconds": 13.115,
+    "finish_reason": "stop",
+    "needs_technical_review": false,
+    "effective_settings": {
+      "temperature": 0,
+      "max_tokens": 1200
+    },
+    "generation_attempt": 1,
+    "usage": {
+      "completion_tokens": 362,
+      "prompt_tokens": 123,
+      "total_tokens": 485,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null,
+      "cached_tokens": 0
+    }
+  },
+  "judgment": {
+    "response_id": "agr_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_003",
+    "not_attempted": false,
+    "decision_status": "not_applicable",
+    "criteria": [
+      {
+        "criterion_id": "1",
+        "status": "partial",
+        "response_quote": "**Kontrollen:** Anordnung von Kontrollen an der Grenze sowie im Inland (z. B. bei Lagerbeständen, Transportmitteln).",
+        "reason": "Kontrollen im Inland können zur Überwachung beitragen. Die umfassendere Überwachung der phytosanitären Lage wird jedoch nicht eindeutig beschrieben."
+      },
+      {
+        "criterion_id": "2a",
+        "status": "partial",
+        "response_quote": "Verpflichtung zur Quarantäne für Waren, die potenziell befallen sind",
+        "reason": "Die Isolation möglicherweise befallener Waren wird sinngemäss genannt. Befallsverdächtige Parzellen werden nicht erfasst und die Gegenstände werden nur eingeschränkt beschrieben."
+      },
+      {
+        "criterion_id": "2b",
+        "status": "missing",
+        "response_quote": "",
+        "reason": "Die mögliche Dauer der Isolation bis zum Ausschluss eines Befalls wird nicht angegeben."
+      },
+      {
+        "criterion_id": "3a",
+        "status": "met",
+        "response_quote": "Anordnung der Vernichtung oder fachgerechten Behandlung befallener Pflanzen oder Waren.",
+        "reason": "Mit Vernichtung und Behandlung werden zwei der gesetzlich vorgesehenen alternativen Massnahmen ausdrücklich genannt. Die zusätzliche Nennung der Desinfizierung ist nicht erforderlich."
+      },
+      {
+        "criterion_id": "3b",
+        "status": "partial",
+        "response_quote": "befallener Pflanzen oder Waren.",
+        "reason": "Befallene Pflanzen und Waren werden genannt. Möglicherweise befallene Objekte sowie Produktionsmittel und weitere Gegenstände werden im Zusammenhang mit Behandlung oder Vernichtung nicht hinreichend erfasst."
+      }
+    ],
+    "extra_errors": [],
+    "unverified_claims": [
+      {
+        "response_quote": "Eine wesentliche Voraussetzung ist, dass eine Gefahr für die einheimische Pflanzenproduktion oder die Umwelt besteht.",
+        "label_impact": "material",
+        "reason": "Die Antwort stellt eine zusätzliche wesentliche rechtliche Voraussetzung auf. Der gelieferte Art. 153 LwG nennt diese Voraussetzung nicht in dieser Form. Ob sie sich aus anderen Bestimmungen ergibt, bleibt ungeklärt. Ihre mögliche Unrichtigkeit würde die rechtlichen Voraussetzungen für die erfragten Massnahmen wesentlich verändern."
+      },
+      {
+        "response_quote": "Die Anordnung dieser Massnahmen stützt sich auf Art. 15 des Pflanzenschutzgesetzes.",
+        "label_impact": "minor",
+        "reason": "Die angegebene Rechtsgrundlage ist durch die gelieferten Quellen nicht bestätigt. Die Quelle nennt Art. 153 LwG. Die abweichende Fundstelle ist für sich allein nicht entscheidend für die inhaltliche Aufzählung der Massnahmen."
+      }
+    ],
+    "needs_review": true,
+    "rubric_conflict": true,
+    "reason": "Die Antwort nennt mehrere einschlägige Massnahmen, deckt aber einzelne Bestandteile des Rasters nur teilweise ab. Die offene Formulierung der Frage und das gesetzliche Wort insbesondere lassen weitere zulässige Massnahmen zu, die von der Referenz nicht abschliessend erfasst werden. Insbesondere die zusätzlich genannten Einfuhrverbote, Kontrollen und Meldepflichten könnten für die Bewertung einer offenen Aufzählung relevant sein. Zudem bleibt eine als wesentlich dargestellte zusätzliche Voraussetzung ungeklärt. Deshalb ist eine Durchsicht erforderlich."
+  }
+}

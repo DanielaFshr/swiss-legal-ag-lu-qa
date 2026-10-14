@@ -1,60 +1,26 @@
-# Hack Apertus — project template
+# Swiss Legal QA
 
-Template repository for [Hack Apertus](https://hackapertus.ch/) submissions.
-Every project keeps almost the same layout, so organizers and judges find the
-same things in the same place.
+Evaluation of Apertus v1.5 70B on 300 German-language Swiss legal questions covering federal law and the cantons of Aargau and Lucerne. Hack Apertus, Track 1B, Core Task Intelligence.
 
-## Select your track
+Final labels: **126 correct, 174 incorrect, 0 not attempted**, accuracy **42.0%**. The final collection contains 299 original answers and one fresh answer after clarification of agr_003. This is a descriptive result for this catalogue and prompt without retrieval.
 
-This repository holds one example project per track:
+## Reproduce the results
 
-- `track_1a/`
-- `track_1b/`
-- `track_2a/`
-- `track_2b/`
+From this repository root, with Docker and GNU Make installed:
 
-Keep the directory for the track you are competing in **exactly as it is** —
-don't rename it or move its files — and delete the other track directories.
-That directory is your project root. Keep the files and directories as shown
-below.
-
-## The structure
-
-| Path | What it is |
-| --- | --- |
-| `README.md` | The challenge description and submission requirements for your track |
-| `technical_report.md` | The deeper write-up: architecture, evaluation, limitations |
-| `Makefile` | `make run` must spin up your project |
-| `src/` | Your code |
-| `data/` | Datasets — `track_1a`, `track_2a` and `track_2b` only; max. 100 MB |
-| `findings/` | Issue files — `track_1a` only |
-| `docs/` | Diagrams, notes, longer write-ups |
-
-## Run it
-
-Judges run `make run` from the root of the project, on a clean checkout:
-
-```bash
+```sh
 make run
 ```
 
-`make run` is expected to run the project using Docker, since that
-is how the judges will run it.
-- If you used other local open-weight models, include instructions for running the project in your technical report.
-- Use the following environment variables:
-```
-LLM_NAME — name and version of the model
-LLM_BASE_URL — endpoint base URL
-LLM_API_KEY — your API key
-```
+No API key, GPU or network access inside the container is required. The image build requires access to the Python base image. The command verifies frozen input hashes, recomputes the scoring and checks the expected counts. Results are printed inside the container. For persistent local output use `make run-local`, requiring Python 3.10 or later. Outputs appear under `track_1b/results/`.
 
-## Getting started
+The Python workflow has been executed successfully. Docker is not available in the preparation environment, so a clean Docker run remains to be verified before submission.
 
-1. Click **Use this template** to create your own repository.
-2. Delete the other track directories. Don't rename or restructure yours.
-3. Read its `README.md` and fill in `technical_report.md`.
-4. Make `make run` work from the root of the project, on a clean checkout.
+## Documentation
 
-## License
+- [Project guide](track_1b/docs/PROJECT.md)
+- [Technical report draft](track_1b/technical_report.md)
+- [Challenge instructions, unchanged](track_1b/README.md)
+- [Licensing](LICENSES.md)
 
-All Hack Apertus projects are open-sourced. Please check our Terms & Conditions for specific licensing details (6. What you build is open source): https://hackapertus.ch/terms-and-conditions
+The dataset card and Hugging Face export are supplied separately in the preparation package. Public repository and dataset URLs must be added after publication. The report PDF is not yet included in this preparation version.

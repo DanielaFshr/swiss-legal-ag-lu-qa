@@ -1,0 +1,281 @@
+{
+  "judgments": [
+    {
+      "response_id": "civ_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "civ_009",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Der Regierungsrat kann die Zusammenlegung von Zivilstandskreisen nicht von sich aus anordnen.",
+          "reason": "Die Antwort verneint die ausdrücklich in § 14 Abs. 3 vorgesehene Befugnis. Die spätere Erwähnung eines Handelns aus eigenem Antrieb relativiert die Aussage, beseitigt aber die ausdrücklich falsche Fallentscheidung nicht."
+        },
+        {
+          "criterion_id": "2a",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Der konkrete Zweck der Erfüllung bundesrechtlicher Anforderungen an den Beschäftigungsgrad wird nicht genannt."
+        },
+        {
+          "criterion_id": "2b",
+          "status": "met",
+          "response_quote": "oder aus eigenem Antrieb, wenn die gesetzlichen Voraussetzungen erfüllt sind.",
+          "reason": "Die Antwort erkennt eine an Voraussetzungen gebundene Befugnis und keine automatische Pflicht. Der Widerspruch zur Fallentscheidung wird bereits bei Kriterium 1 erfasst."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Eine eigenmächtige Anordnung ohne sachliche Notwendigkeit oder ohne Einbezug der Gemeinden ist unzulässig.",
+          "label_impact": "material",
+          "reason": "Ob der Einbezug der Gemeinden eine zwingende zusätzliche Voraussetzung darstellt, lässt sich aus dem gelieferten § 14 nicht entscheiden. Eine solche Voraussetzung könnte die ausdrücklich erfragte Anordnungsbefugnis wesentlich einschränken."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verneint die im Sachverhalt bestehende Befugnis des Regierungsrates und nennt den massgeblichen Beschäftigungsgrad nicht. Eine zusätzliche Einschränkung bleibt ungeklärt."
+    },
+    {
+      "response_id": "civ_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "civ_010",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "die **Standeskommission** die Aufsichtsbehörde im Zivilstandswesen",
+          "reason": "Die Antwort bezeichnet die Standeskommission anstelle des Justiz- und Sicherheitsdepartementes als Aufsichtsbehörde."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Zuständigkeit des Justiz- und Sicherheitsdepartementes für Beschwerden gegen Zivilstandsämter wird nicht genannt."
+        },
+        {
+          "criterion_id": "3",
+          "status": "contradicted",
+          "response_quote": "Zweite Instanz: Verwaltungsgericht des Kantons Luzern",
+          "reason": "Die Antwort nennt das Verwaltungsgericht anstelle der Verwaltungsgerichtsbeschwerde an das Kantonsgericht."
+        },
+        {
+          "criterion_id": "4",
+          "status": "partial",
+          "response_quote": "Es prüft sowohl Rechtsverletzungen als auch die unrichtige oder unvollständige Feststellung des Sachverhalts sowie die Unangemessenheit der angefochtenen Verfügung.",
+          "reason": "Die Prüfung der Unangemessenheit entspricht inhaltlich der Ermessenskontrolle. Diese wird jedoch dem falsch bezeichneten Verwaltungsgericht statt dem Kantonsgericht zugeordnet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Aufsichtsbehörde und die höchste Beschwerdeinstanz werden falsch bezeichnet. Die Ermessenskontrolle wird inhaltlich beschrieben, aber der falschen Instanz zugeordnet."
+    },
+    {
+      "response_id": "civ_011_20261014T072645Z_fb1d06_a1",
+      "item_id": "civ_011",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die grundsätzliche gesetzliche Zuständigkeit der Gemeindeschreiberin oder des Gemeindeschreibers wird nicht ausdrücklich oder sinngemäss dargestellt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "Das Amt kann von einer vom Kanton ermächtigten Person geleitet werden, die die erforderliche Ausbildung und Befähigung besitzt.",
+          "reason": "Die Möglichkeit einer anderen Amtsleitung wird erkannt. Es fehlen aber die Übertragung durch den Gemeinderat und die Zugehörigkeit der betreffenden Person zur Gemeindeverwaltung."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Die konkrete Regelung liegt im Zuständigkeitsbereich des Kantons",
+          "label_impact": "material",
+          "reason": "Die Aussage könnte eine kantonale Zuständigkeit auch für die konkrete Übertragung der Amtsleitung nahelegen. § 15 Abs. 2 weist diese Entscheidung dem Gemeinderat zu. Ob lediglich die allgemeine kantonale Regelung gemeint ist, bleibt offen. Die Unterscheidung betrifft eine wesentliche Zuständigkeit."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Nein-Entscheidung ist richtig. Die gesetzliche Grundzuständigkeit und die konkrete Übertragungskompetenz werden jedoch nicht vollständig wiedergegeben."
+    },
+    {
+      "response_id": "ins_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_001",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Im Nachlassverfahren ernennt das Nachlassgericht den Sachwalter.",
+          "reason": "Das zuständige Nachlassgericht wird richtig genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "wobei in der Regel ein oder mehrere Sachwalter eingesetzt werden",
+          "reason": "Die gesetzlich vorgesehene Möglichkeit der Ernennung eines oder mehrerer Sachwalter ist ausdrücklich enthalten."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort nennt das zuständige Gericht und beide gesetzlich vorgesehenen Möglichkeiten der Anzahl vollständig."
+    },
+    {
+      "response_id": "ins_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_002",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Der erforderlichenfalls zu erstellende Entwurf des Nachlassvertrags wird nicht genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Überwachung der Handlungen des Schuldners wird nicht erwähnt."
+        },
+        {
+          "criterion_id": "3",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Aufgaben nach Art. 298 bis 302 und 304 SchKG werden weder genannt noch inhaltlich ausreichend zugeordnet."
+        },
+        {
+          "criterion_id": "4a",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Erstattung von Zwischenberichten auf Anordnung des Nachlassgerichts fehlt."
+        },
+        {
+          "criterion_id": "4b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Orientierung der Gläubiger über den Verlauf der Stundung wird nicht genannt."
+        },
+        {
+          "criterion_id": "5",
+          "status": "met",
+          "response_quote": "Ja, das Nachlassgericht kann dem Sachwalter weitere Aufgaben zuweisen",
+          "reason": "Die gesetzliche Befugnis zur Zuweisung weiterer Aufgaben ist ausdrücklich und richtig wiedergegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "insbesondere die Verwaltung und Verwertung des Nachlassvermögens sowie die Vertretung der Gläubigerinteressen.",
+          "label_impact": "material",
+          "reason": "Die behaupteten Kernaufgaben werden im gelieferten Art. 295 Abs. 2 nicht so bezeichnet. Weil der gesetzliche Aufgabenkatalog nicht abschliessend ist und weitere Artikel Aufgaben enthalten, lässt sich die Behauptung anhand des Ausschnitts nicht abschliessend widerlegen. Ihre Richtigkeit wäre für den ausdrücklich erfragten Aufgabenbereich wesentlich."
+        },
+        {
+          "response_quote": "Er hat sicherzustellen, dass die Nachlassdividende gerecht verteilt wird",
+          "label_impact": "material",
+          "reason": "Eine entsprechende Verteilungspflicht ist im gelieferten Gesetzesausschnitt nicht belegt. Ob sie dem Sachwalter tatsächlich in dieser Form obliegt, bleibt ungeklärt und betrifft eine wesentliche rechtliche Aufgabe."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die zusätzliche Aufgabenübertragung durch das Nachlassgericht wird richtig beantwortet. Die ausdrücklich aufgezählten Aufgaben nach Art. 295 Abs. 2 fehlen. Stattdessen werden andere wesentliche Aufgaben behauptet, deren Richtigkeit mit den gelieferten Quellen nicht geklärt werden kann."
+    },
+    {
+      "response_id": "ins_003_20261014T072645Z_fb1d06_a2",
+      "item_id": "ins_003",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1a",
+          "status": "met",
+          "response_quote": "Art. 1–28",
+          "reason": "Der angegebene Bereich umfasst Art. 8 SchKG."
+        },
+        {
+          "criterion_id": "1b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Art. 8a wird nicht ausdrücklich genannt. Aus der numerischen Bereichsangabe Art. 1 bis 28 ergibt sich die Einbeziehung des gesondert nummerierten Art. 8a nicht eindeutig."
+        },
+        {
+          "criterion_id": "1c",
+          "status": "met",
+          "response_quote": "Art. 1–28",
+          "reason": "Der angegebene Bereich umfasst Art. 10 SchKG."
+        },
+        {
+          "criterion_id": "1d",
+          "status": "met",
+          "response_quote": "Art. 1–28",
+          "reason": "Der angegebene Bereich umfasst Art. 11 SchKG."
+        },
+        {
+          "criterion_id": "1e",
+          "status": "met",
+          "response_quote": "Art. 1–28",
+          "reason": "Der angegebene Bereich umfasst Art. 14 SchKG."
+        },
+        {
+          "criterion_id": "1f",
+          "status": "met",
+          "response_quote": "Art. 1–28",
+          "reason": "Der angegebene Bereich umfasst Art. 17 SchKG."
+        },
+        {
+          "criterion_id": "1g",
+          "status": "met",
+          "response_quote": "Art. 1–28",
+          "reason": "Der angegebene Bereich umfasst Art. 18 SchKG."
+        },
+        {
+          "criterion_id": "1h",
+          "status": "met",
+          "response_quote": "Art. 1–28",
+          "reason": "Der angegebene Bereich umfasst Art. 19 SchKG."
+        },
+        {
+          "criterion_id": "1i",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Art. 34 SchKG ist in den angegebenen Bereichen nicht enthalten."
+        },
+        {
+          "criterion_id": "1j",
+          "status": "met",
+          "response_quote": "35–46",
+          "reason": "Der angegebene Bereich umfasst Art. 35 SchKG."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Diese Bestimmungen gelten unmittelbar, d.h. sie sind direkt anwendbar, ohne dass sie angepasst oder interpretiert werden müssen.",
+          "reason": "Die Antwort behauptet ausdrücklich eine unmittelbare Anwendung. Art. 295 Abs. 4 SchKG schreibt dagegen eine sinngemässe Anwendung vor."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Dies sind insbesondere die Art. 1–28, 30–33, 35–46",
+          "source_id": "SchKG_295",
+          "basis_quote": "Auf die Geschäftsführung des Sachwalters sind die Artikel 8, 8 a , 10, 11, 14, 17–19, 34 und 35 sinngemäss anwendbar.",
+          "severity": "material",
+          "reason": "Die Antwort erweitert den ausdrücklich festgelegten Artikelkatalog um zahlreiche nicht aufgeführte Bestimmungen. Damit wird der gesetzliche Verweisungsumfang wesentlich falsch dargestellt. Dieser zusätzliche Fehler betrifft den Umfang des Katalogs und nicht die bereits einzeln bewertete Nennung der geforderten Artikel."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort enthält mehrere verlangte Artikel nur innerhalb weit gefasster Zahlenbereiche. Art. 8a ist nicht eindeutig enthalten und Art. 34 fehlt. Der gesetzlich festgelegte Artikelkatalog wird massiv erweitert. Besonders wesentlich ist die ausdrücklich falsche Aussage, dass die Vorschriften unmittelbar statt sinngemäss gelten."
+    }
+  ]
+}

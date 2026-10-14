@@ -1,0 +1,158 @@
+{
+  "judgments": [
+    {
+      "response_id": "imp_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "imp_008",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Das Verhalten wird nach Art. 2 und Art. 3 lit. h UWG als unlauter qualifiziert.",
+          "reason": "Die Antwort bezeichnet die besonders aggressiven Verkaufsmethoden mit Beeinträchtigung der Entscheidungsfreiheit ausdrücklich als unlauter. Die entscheidenden Voraussetzungen werden ebenfalls korrekt erläutert."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erfüllt das Kriterium vollständig und entspricht Art. 3 Abs. 1 lit. h UWG."
+    },
+    {
+      "response_id": "imp_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "imp_009",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Indirekt kann jedoch auch die Verletzung von öffentlich-rechtlichen Pflichten, die auch Mitbewerbern auferlegt sind (z.B. Arbeitsbedingungen nach GAV), unlauter sein",
+          "reason": "Die Antwort bejaht die Unlauterkeit bei Verletzung von Arbeitsbedingungen, die auch Mitbewerbern auferlegt sind. Die zusätzlich genannten Voraussetzungen einer Wettbewerbsverfälschung sind nach Art. 7 UWG nicht erforderlich und werden gesondert als ungeklärte Zusatzbehauptung erfasst."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Nach Art. 7 Abs. 2 lit. a UWG handelt unlauter, wer Massnahmen trifft, die geeignet sind, Verwechslungen mit den Waren, Werken, Leistungen oder dem Geschäftsbetrieb eines anderen herbeizuführen.",
+          "source_id": "CH_UWG_7",
+          "basis_quote": "Art. 7 Nichteinhaltung von Arbeitsbedingungen Unlauter handelt insbesondere, wer Arbeitsbedingungen nicht einhält, die durch Rechtssatz oder Vertrag auch dem Mitbewerber auferlegt, oder berufs- oder ortsüblich sind.",
+          "severity": "minor",
+          "reason": "Die angeführte Regel über Verwechslungen ist nicht Inhalt von Art. 7 UWG. Die falsche Zuordnung ist eine nicht tragende Ungenauigkeit, weil die Antwort die erfragte Unlauterkeit anschliessend zutreffend bejaht."
+        }
+      ],
+      "unverified_claims": [
+        {
+          "response_quote": "Wesentlich ist, dass die Nichteinhaltung der Pflicht geeignet ist, den Wettbewerb zu beeinflussen und zu verfälschen.",
+          "label_impact": "material",
+          "reason": "Die Antwort stellt eine zusätzliche wesentliche Voraussetzung auf. Art. 7 UWG nennt diese Voraussetzung nicht. Ob eine entsprechende Einschränkung aus weiteren rechtlichen Grundlagen abgeleitet werden könnte, lässt sich anhand des gelieferten Quellenausschnitts nicht abschliessend überprüfen. Die Behauptung betrifft unmittelbar die Voraussetzungen der erfragten Unlauterkeit."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Kernfrage wird bejaht und die Nichteinhaltung gemeinsam auferlegter Arbeitsbedingungen als unlauter erkannt. Die falsche Gesetzeszuordnung und die zusätzliche wesentliche Voraussetzung erfordern eine differenzierte Beurteilung."
+    },
+    {
+      "response_id": "imp_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "imp_010",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nach Art. 8 UWG handelt unlauter, wer allgemeine Geschäftsbedingungen verwendet, die in Treu und Glauben verletzender Weise ein erhebliches und ungerechtfertigtes Missverhältnis zwischen den vertraglichen Rechten und Pflichten zum Nachteil der Konsumenten schaffen.",
+          "reason": "Die Antwort enthält sämtliche entscheidenden Merkmale von Art. 8 UWG und qualifiziert die beschriebenen AGB ausdrücklich als unlauter."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "kann zivilrechtliche Folgen (z. B. Unverbindlichkeit der Klausel, Schadenersatz) nach sich ziehen.",
+          "label_impact": "minor",
+          "reason": "Die genannten zivilrechtlichen Folgen sind im gelieferten Art. 8 UWG nicht geregelt. Ihre konkreten Voraussetzungen lassen sich anhand des Quellenausschnitts nicht überprüfen. Sie betreffen eine nicht erfragte Rechtsfolge und verändern die zutreffende Beurteilung der Unlauterkeit nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erfüllt das Kriterium vollständig. Die zusätzlichen Hinweise auf mögliche zivilrechtliche Folgen sind für die Kernbewertung nicht entscheidend."
+    },
+    {
+      "response_id": "pos_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "pos_006",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "muss die Post gewöhnliche Postsendungen an mindestens fünf Wochentagen zustellen.",
+          "reason": "Die gesetzliche Mindestanzahl von fünf Wochentagen für gewöhnliche Postsendungen ist korrekt genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Diese müssen an allen Wochentagen, also sieben Tage pro Woche, zugestellt werden.",
+          "reason": "Die Antwort nennt sieben statt der in Art. 14 Abs. 3 PG ausdrücklich vorgeschriebenen sechs Wochentage für abonnierte Tageszeitungen."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die allgemeine Zustellpflicht wird korrekt wiedergegeben. Die besondere Zustellpflicht für abonnierte Tageszeitungen wird mit sieben statt sechs Wochentagen ausdrücklich falsch angegeben."
+    },
+    {
+      "response_id": "pos_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "pos_007",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Gemäss Art. 14 Abs. 6 des Postgesetzes (PG) ist die Post verpflichtet, die betroffene Gemeinde vor der Schliessung einer Poststelle mit bedientem Schalter anzuhören.",
+          "reason": "Die vorgängige Anhörung der betroffenen Gemeinde wird ausdrücklich genannt. Im Zusammenhang mit der gesetzlichen Anhörung ist damit sinngemäss die Anhörung ihrer zuständigen Behörden gemeint."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Die betroffene Gemeinde kann sich an das Bundesamt für Kommunikation (BAKOM) wenden.",
+          "reason": "Die Antwort nennt das BAKOM statt der in Art. 14 Abs. 6 PG ausdrücklich vorgesehenen PostCom als zuständige Anrufungsstelle."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "welches als Aufsichtsbehörde über die Grundversorgung mit Postdiensten fungiert und entsprechende Beschwerden behandelt.",
+          "source_id": "CH_PG_14",
+          "basis_quote": "Die betroffene Gemeinde kann die PostCom anrufen. Der Bundesrat sieht dafür ein Schlichtungsverfahren vor.",
+          "severity": "material",
+          "reason": "Die Antwort weist dem BAKOM zusätzlich die Behandlung der entsprechenden Beschwerden im beschriebenen Schliessungsverfahren zu. Der gelieferte Gesetzestext sieht hierfür die Anrufung der PostCom vor. Die falsche Zuständigkeitsdarstellung betrifft eine wesentliche Verfahrensfrage und geht über die bereits bewertete blosse Nennung der falschen Anrufungsstelle hinaus."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Anhörungspflicht wird richtig dargestellt. Die gesetzlich vorgesehene Anrufungsstelle wird jedoch ausdrücklich falsch bezeichnet und ihre Rolle zusätzlich dem BAKOM zugeschrieben."
+    },
+    {
+      "response_id": "pos_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "pos_008",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "in jeder politischen Gemeinde mindestens ein öffentlicher Briefeinwurf vorhanden sein muss.",
+          "reason": "Art. 14 Abs. 5 lit. b PG verlangt mindestens einen öffentlichen Briefeinwurf pro Ortschaft. Die Antwort ersetzt diese räumliche Bezugsgrösse ausdrücklich durch die politische Gemeinde. Eine politische Gemeinde kann mehrere Ortschaften umfassen. Damit wird die gesetzliche Mindestanforderung inhaltlich verändert."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Anzahl von mindestens einem Briefeinwurf wird zwar genannt, aber auf die falsche räumliche Einheit bezogen. Dies widerspricht der gesetzlichen Mindestanforderung pro Ortschaft."
+    }
+  ]
+}

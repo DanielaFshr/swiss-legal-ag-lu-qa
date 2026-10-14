@@ -1,0 +1,174 @@
+{
+  "judgments": [
+    {
+      "response_id": "cop_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "cop_003",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Ja, die Person darf eine Sicherungskopie herstellen",
+          "reason": "Die Berechtigung zur Herstellung einer Sicherungskopie wird ausdrücklich bestätigt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "ein Vertrag kann diese Befugnis nicht ausschliessen",
+          "reason": "Die Unabdingbarkeit der Befugnis wird ausdrücklich und korrekt genannt."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "sofern dies für die bestimmungsgemässe Benutzung erforderlich ist",
+          "source_id": "CH_URG_24",
+          "basis_quote": "Wer das Recht hat, ein Computerprogramm zu gebrauchen, darf davon eine Sicherungskopie herstellen; diese Befugnis kann nicht vertraglich wegbedungen werden.",
+          "severity": "material",
+          "reason": "Die Antwort führt eine zusätzliche Erforderlichkeitsvoraussetzung ein, die Art. 24 Abs. 2 URG nicht vorsieht. Dadurch wird die gesetzliche Befugnis unzulässig eingeschränkt."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide Kernkriterien sind erfüllt. Die zusätzliche Voraussetzung der Erforderlichkeit ist jedoch rechtlich nicht durch die gelieferte Bestimmung gedeckt."
+    },
+    {
+      "response_id": "cop_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "cop_004",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nein, die Eigengebrauchsregel in Art. 19 URG findet keine Anwendung auf Computerprogramme.",
+          "reason": "Die Nichtanwendbarkeit von Art. 19 URG auf Computerprogramme wird eindeutig und vollständig beantwortet."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Gemäss Art. 19 Abs. 2 URG ist die Vervielfältigung von Werken zum Eigengebrauch zulässig, jedoch ausdrücklich ausgenommen die Vervielfältigung von Computerprogrammen.",
+          "source_id": "CH_URG_19",
+          "basis_quote": "4 Dieser Artikel findet keine Anwendung auf Computerprogramme.",
+          "severity": "minor",
+          "reason": "Die Ausnahme für Computerprogramme ergibt sich aus Abs. 4 und nicht aus Abs. 2. Die Kernaussage bleibt richtig."
+        }
+      ],
+      "unverified_claims": [
+        {
+          "response_quote": "Für Computerprogramme gelten spezifische Regelungen (Art. 19a URG), die den Eigengebrauch nur unter bestimmten, eng begrenzten Voraussetzungen erlauben.",
+          "label_impact": "minor",
+          "reason": "Die behauptete besondere Eigengebrauchsregel und ihre Zuordnung zu Art. 19a URG lassen sich mit den gelieferten Quellen nicht überprüfen. Diese zusätzliche Aussage betrifft mögliche andere Berechtigungen und verändert die korrekte Antwort zur Nichtanwendbarkeit von Art. 19 URG nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Frage wird korrekt mit Nein beantwortet. Es bestehen eine falsche Absatzangabe und eine nicht belegte zusätzliche Rechtsbehauptung."
+    },
+    {
+      "response_id": "cop_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "cop_005",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Die Tat erfüllt damit den Tatbestand der missbräuchlichen Informatiknutzung",
+          "reason": "Das absichtliche und widerrechtliche Bereitstellen und Verbreiten geschützter Werke wird zutreffend als Missbrauch der kantonalen Informatikmittel eingeordnet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "was disziplinarische oder administrative Massnahmen nach sich ziehen kann",
+          "label_impact": "minor",
+          "reason": "Die mögliche Sanktionierung ist durch den gelieferten § 25 nicht ausdrücklich belegt. Die Aussage ist vorsichtig formuliert und betrifft lediglich mögliche Folgen. Sie verändert die verlangte Einordnung als Missbrauch nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die rechtliche Einordnung nach § 25 Abs. 2 lit. k ist vollständig korrekt. Die zusätzliche Aussage zu möglichen Massnahmen ist für die gestellte Frage nicht entscheidend."
+    },
+    {
+      "response_id": "imp_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "imp_001",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Ja, dies ist unlauter.",
+          "reason": "Die Entscheidung ist richtig. Die Antwort erkennt ausserdem das Versprechen eines nicht gebührenden Vorteils für eine pflichtwidrige Handlung als unlauter."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Nach Art. 4a Abs. 1 lit. a UWG handelt unlauter, wer andere, ihre Angehörigen oder Dritte zum Vertragsbruch verleitet.",
+          "source_id": "CH_UWG_4a",
+          "basis_quote": "einem Arbeitnehmer, einem Gesellschafter, einem Beauftragten oder einer anderen Hilfsperson eines Dritten im privaten Sektor im Zusammenhang mit dessen dienstlicher oder geschäftlicher Tätigkeit für eine pflichtwidrige oder eine im Ermessen stehende Handlung oder Unterlassung zu dessen Gunsten oder zu Gunsten eines Dritten einen nicht gebührenden Vorteil anbietet, verspricht oder gewährt",
+          "severity": "material",
+          "reason": "Die Antwort gibt den gesetzlichen Tatbestand falsch wieder. Art. 4a Abs. 1 lit. a UWG regelt die aktive Privatbestechung und setzt kein Verleiten zum Vertragsbruch voraus. Die falsche Tatbestandsbeschreibung verändert die rechtlichen Voraussetzungen wesentlich."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Das Ergebnis ist korrekt und das Kernkriterium erfüllt. Die rechtliche Begründung enthält jedoch eine wesentliche Verwechslung des gesetzlichen Tatbestands."
+    },
+    {
+      "response_id": "imp_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "imp_002",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Da das Unternehmen die Behauptung der besonderen Klimaverträglichkeit nicht durch objektive und überprüfbare Grundlagen belegen kann, handelt es unlauter",
+          "reason": "Die fehlende objektive und überprüfbare Belegbarkeit wird ausdrücklich erkannt und das Verhalten zutreffend als unlauter beurteilt."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Die wesentliche Voraussetzung ist die Unrichtigkeit oder Irreführung der Angaben gegenüber den Konsumenten.",
+          "source_id": "CH_UWG_3",
+          "basis_quote": "Angaben über sich, seine Waren, Werke oder Leistungen in Bezug auf die verursachte Klimabelastung macht, die nicht durch objektive und überprüfbare Grundlagen belegt werden können.",
+          "severity": "material",
+          "reason": "Art. 3 Abs. 1 lit. x UWG stellt auf die fehlende objektive und überprüfbare Belegbarkeit ab. Die Antwort erklärt dagegen Unrichtigkeit oder Irreführung zur wesentlichen Voraussetzung und fügt damit ein nicht erforderliches Tatbestandsmerkmal hinzu."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Das Kernkriterium ist erfüllt. Die Antwort nennt die fehlende Belegbarkeit und das richtige Ergebnis, stellt aber zusätzlich eine falsche wesentliche Voraussetzung auf."
+    },
+    {
+      "response_id": "imp_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "imp_003",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "stellt die unbefugte Verwertung eines anvertrauten Arbeitsergebnisses eine unlautere Wettbewerbshandlung dar",
+          "reason": "Die unbefugte Verwertung des anvertrauten Arbeitsergebnisses wird zutreffend als unlauter beurteilt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Voraussetzung ist, dass das Arbeitsergebnis vertraulich war und dem Unternehmen zur Prüfung bzw. Bearbeitung anvertraut wurde.",
+          "label_impact": "material",
+          "reason": "Art. 5 lit. a UWG verlangt nach dem gelieferten Wortlaut ein anvertrautes Arbeitsergebnis und dessen unbefugte Verwertung. Ob die zusätzlich behauptete Vertraulichkeit und die Überlassung gerade zur Prüfung oder Bearbeitung zwingende Voraussetzungen sind, lässt sich mit dem Quellenausschnitt nicht abschliessend beurteilen. Ihre mögliche Unrichtigkeit könnte den Anwendungsbereich der Norm wesentlich einschränken."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die konkrete Fallfrage wird vollständig und zutreffend beantwortet. Die Antwort nennt jedoch zusätzliche mögliche Tatbestandsvoraussetzungen, deren rechtliche Verbindlichkeit eine Überprüfung erfordert."
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "judgments": [
+    {
+      "response_id": "ins_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_004",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "setzt grundsätzlich den Besitz des Luzerner Sachwalterpatents oder eines gleichwertigen anerkannten Ausweises voraus.",
+          "reason": "Die erforderlichen alternativen Qualifikationsnachweise werden korrekt genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Juristische Erfahrung allein genügt nicht, um die gesetzlich geforderte fachliche Eignung zu belegen.",
+          "reason": "Die Antwort verneint die Zulassung aufgrund juristischer Erfahrung allein im vorgegebenen Fall. Die bereits feststehende Konkursunterstellung muss nicht wiederholt werden."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "gemäss § 1 des Gesetzes über die Sachwalter (Sachwaltergesetz, SAG/LU) die Ausübung des Sachwalterberufs bewilligungspflichtig",
+          "label_impact": "minor",
+          "reason": "Die genannte Gesetzesbezeichnung, Fundstelle und eigenständige Bewilligungspflicht sind durch den gelieferten § 8 EGSchKG nicht bestätigt. Die entscheidende Patentpflicht ist jedoch durch die Quelle belegt. Die Unklarheit betrifft daher die zusätzliche rechtliche Einordnung."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Entscheidung und beide erforderlichen Inhaltsgruppen sind erfüllt. Die nicht belegte zusätzliche Gesetzesangabe verändert die Fallentscheidung nicht."
+    },
+    {
+      "response_id": "ins_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_005",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "hängt davon ab, ob der vorgelegte Ausweis als gleichwertig anerkannt wird.",
+          "reason": "Die Gleichwertigkeit des auswärtigen Prüfungsausweises wird als Voraussetzung erkannt."
+        },
+        {
+          "criterion_id": "2a",
+          "status": "met",
+          "response_quote": "Nein, sie ist nicht automatisch befreit.",
+          "reason": "Die automatische Befreiung wird ausdrücklich verneint."
+        },
+        {
+          "criterion_id": "2b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Das für den Prüfungserlass zuständige Kantonsgericht wird nicht genannt."
+        },
+        {
+          "criterion_id": "2c",
+          "status": "met",
+          "response_quote": "Der Erlass der Prüfung ist daher kantonal geregelt und hängt davon ab, ob der vorgelegte Ausweis als gleichwertig anerkannt wird.",
+          "reason": "Der Erlass wird als bedingte Möglichkeit und nicht als zwingende automatische Befreiung beschrieben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Dies setzt voraus, dass die Prüfungsanforderungen des anderen Kantons den luzernischen Anforderungen entsprechen oder durch eine Gleichwertigkeitsprüfung anerkannt werden.",
+          "label_impact": "minor",
+          "reason": "Die konkrete Art der Gleichwertigkeitsfeststellung ist im gelieferten § 19 nicht geregelt. Die zusätzliche Beschreibung verändert weder die erforderliche Gleichwertigkeit noch die verneinte automatische Befreiung."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die wesentlichen Bedingungen für einen möglichen Prüfungserlass werden erkannt. Die ausdrückliche Zuständigkeit des Kantonsgerichts fehlt."
+    },
+    {
+      "response_id": "ins_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_006",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1a",
+          "status": "contradicted",
+          "response_quote": "Entzug des Anwaltspatents.",
+          "reason": "Die Antwort nennt ausdrücklich das Anwaltspatent statt des erfragten Sachwalterpatents. Damit wird eine andere Rechtsfolge bezeichnet."
+        },
+        {
+          "criterion_id": "1b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Das Kantonsgericht wird nicht als zuständige Entzugsbehörde genannt."
+        },
+        {
+          "criterion_id": "2a",
+          "status": "partial",
+          "response_quote": "Eine Wiedererteilung des Patents ist grundsätzlich möglich, wenn die Voraussetzungen für die Vertrauenswürdigkeit wieder erfüllt sind",
+          "reason": "Die Wiedererteilung nach Wiederherstellung der Vertrauenswürdigkeit wird erkannt. Die gesetzlich vorgesehene verpflichtende Wiedererteilung des Sachwalterpatents wird jedoch nicht wiedergegeben."
+        },
+        {
+          "criterion_id": "2b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Das erforderliche Gesuch zur Wiedererteilung wird nicht erwähnt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "nach einer angemessenen Bewährungszeit und unter Berücksichtigung der Umstände des Einzelfalls genehmigt.",
+          "label_impact": "material",
+          "reason": "Die zusätzliche Bewährungszeit und die dargestellte Genehmigung durch eine kantonale Aufsichtsbehörde sind durch den gelieferten, abgeschnittenen § 20 nicht überprüfbar. Als mögliche zusätzliche Voraussetzungen könnten sie den Anspruch auf Wiedererteilung wesentlich verändern."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verwechselt das Sachwalterpatent mit dem Anwaltspatent. Die Wiedererteilung wird nur teilweise erfasst. Die gelieferte Quellenpassage ist für eine abschliessende Prüfung der Wiedererteilungsbedingungen unvollständig."
+    },
+    {
+      "response_id": "ins_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_007",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Ja, der Sachwalter kann gegen die Disziplinarmassnahme ein kantonales Rechtsmittel ergreifen",
+          "reason": "Die Antwort bejaht ausdrücklich ein kantonales Rechtsmittel entgegen der vorgegebenen Rechtslage."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "gelten hingegen die zivilrechtlichen Regeln des Anwaltsrechts (z. B. Art. 12 lit. a BGFA)",
+          "reason": "Die Antwort verweist auf zivilrechtliche Regeln und anwaltliche Berufspflichten statt auf die vorgesehenen Disziplinarmassnahmen nach § 11 Anwaltsgesetz."
+        },
+        {
+          "criterion_id": "3",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die sinngemässe Anwendung der Bestimmungen des Anwaltsgesetzes über das Disziplinarverfahren wird nicht genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort widerspricht der vorgesehenen Rechtsmittelregelung und nennt für die Parteivertretung nicht die massgeblichen Disziplinarmassnahmen. Die Verfahrensregelung fehlt. Die gelieferten Quellenausschnitte sind zwar abgeschnitten, die Bewertungsgrundlage enthält jedoch eindeutige Vorgaben."
+    },
+    {
+      "response_id": "ins_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_008",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "über eine Berufshaftpflichtversicherung verfügen, die bei einem Schadenfall mindestens CHF 1'000'000.– pro Versicherungsfall deckt.",
+          "reason": "Die erforderliche Mindestdeckung von einer Million Franken pro Fall wird korrekt genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Die nachgewiesene Deckung von CHF 500'000.– pro Fall erfüllt diese gesetzliche Mindestanforderung nicht.",
+          "reason": "Die ungenügende Deckung wird richtig beurteilt. Die Einsetzung wird ausdrücklich verneint."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Nach Art. 12 des Bundesgesetzes über die Freizügigkeit der Anwältinnen und Anwälte (BGFA)",
+          "label_impact": "minor",
+          "reason": "Die zitierte bundesrechtliche Grundlage für die konkrete Versicherungsdeckung wird durch den gelieferten kantonalen § 25 EGSchKG nicht bestätigt. Die entscheidende Mindestdeckung und die Fallentscheidung stimmen jedoch mit der gelieferten Quelle überein."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide Kriterien und die Entscheidung sind erfüllt. Die zusätzliche bundesrechtliche Herleitung ist nicht belegt, verändert jedoch das rechtlich zutreffende Ergebnis nicht."
+    },
+    {
+      "response_id": "mob_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_001",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1a",
+          "status": "met",
+          "response_quote": "die Kantone befugt sind, für bestimmte Strassen Fahrverbote",
+          "reason": "Die Befugnis der Kantone zum Erlass von Fahrverboten für bestimmte Strassen wird ausdrücklich genannt."
+        },
+        {
+          "criterion_id": "1b",
+          "status": "met",
+          "response_quote": "Verkehrsbeschränkungen und Anordnungen zur Regelung des Verkehrs zu erlassen.",
+          "reason": "Verkehrsbeschränkungen und Verkehrsanordnungen werden korrekt aufgeführt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Sie können diese Befugnis zudem an Gemeinden oder andere untergeordnete Behörden delegieren",
+          "reason": "Die gesetzlich vorgesehene Übertragung der Befugnis an Gemeinden wird ausdrücklich anerkannt."
+        },
+        {
+          "criterion_id": "3",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Der gesetzliche Vorbehalt einer Beschwerde an eine kantonale Behörde fehlt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "oder andere untergeordnete Behörden delegieren",
+          "label_impact": "material",
+          "reason": "Art. 3 Abs. 2 SVG nennt ausdrücklich die Gemeinden. Ob darüber hinaus andere untergeordnete Behörden als Empfänger der Delegation zulässig sind, lässt sich mit dem gelieferten Quellenausschnitt nicht abschliessend klären. Die Aussage betrifft den Umfang der erfragten Übertragungsbefugnis und kann deshalb wesentlich sein."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die kantonalen Befugnisse und die Delegationsmöglichkeit an Gemeinden werden zutreffend beschrieben. Der gesetzlich vorgeschriebene Beschwerdevorbehalt fehlt. Die Erweiterung auf andere untergeordnete Behörden bedarf einer zusätzlichen Prüfung."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "judgments": [
+    {
+      "response_id": "edu_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "edu_004",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "**Berufsfachschulen** (für die schulische Bildung)",
+          "reason": "Die Berufsfachschulen werden als Lernort der schulischen Bildung genannt. Im Zusammenhang mit der Frage ist damit die allgemeine und berufskundliche Bildung sinngemäss erfasst."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "**Übrige zugehörige Lernorte** (z. B. überbetriebliche Kurse, Lehrwerkstätten)",
+          "reason": "Überbetriebliche Kurse werden als weiterer Lernort zutreffend genannt. Ihre besondere Funktion zur Ergänzung der beruflichen Praxis und schulischen Bildung bleibt jedoch unklar. Zudem werden Lehrwerkstätten ohne Unterscheidung derselben Gruppe zugeordnet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort nennt die Berufsfachschulen und überbetrieblichen Kurse. Die gesetzliche Zuordnung der überbetrieblichen Kurse zur ergänzenden Bildung wird jedoch nicht ausreichend verdeutlicht."
+    },
+    {
+      "response_id": "con_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "con_001",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Da keine Abgabebefreiung besteht und der gesetzliche Satz nicht erhöht wurde, gilt der Mindestsatz von 20 %.",
+          "reason": "Der im konkreten Fall geltende gesetzliche Abgabesatz von 20 Prozent wird korrekt genannt. Der Bezug auf den Mehrwert ergibt sich aus dem ersten Satz."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "während die Gemeinde den Satz innerhalb dieses Rahmens anpassen darf, jedoch nicht über 30 % hinausgehen darf.",
+          "reason": "Die Erhöhungsmöglichkeit der Gemeinde und die gesetzliche Obergrenze von 30 Prozent sind ausdrücklich enthalten."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide verlangten Prozentwerte werden korrekt genannt und auf den Mehrwert bezogen. Die Bezeichnung als Mindest- und Höchstsatz verändert die richtige Fallbeurteilung nicht."
+    },
+    {
+      "response_id": "con_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "con_002",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Die Bestimmung nennt keinen expliziten Frankenbetrag im Gesetzestext selbst, sondern verweist auf die Festlegung eines Schwellenwerts durch den Regierungsrat.",
+          "reason": "§ 105 Abs. 3 PBG nennt ausdrücklich einen Mehrwert von mehr als 50 000 Franken. Die Behauptung, der Betrag stehe nicht im Gesetz und werde durch den Regierungsrat festgelegt, widerspricht der gelieferten Bestimmung."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Da der entstandene Mehrwert von CHF 50'000.– den vom Regierungsrat festgelegten Schwellenwert überschreitet, ist die Abgabepflicht ausgelöst.",
+          "reason": "Genau 50 000 Franken überschreiten die gesetzliche Schwelle nicht. Die behauptete Abgabepflicht widerspricht deshalb § 105 Abs. 3 PBG."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort beurteilt die Abgabepflicht falsch und verkennt sowohl die ausdrücklich gesetzlich festgelegte Schwelle als auch deren strikte Überschreitung."
+    },
+    {
+      "response_id": "con_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "con_003",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "wenn eine für die betreffende Nutzung hinreichende Zufahrt besteht",
+          "reason": "Die für die betreffende Nutzung hinreichende Zufahrt wird ausdrücklich und vollständig genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "die erforderlichen Wasser-, Energie- sowie Abwasserleitungen so nahe heranführen, dass ein Anschluss ohne erheblichen Aufwand möglich ist.",
+          "reason": "Alle drei Leitungsarten und die Voraussetzung eines Anschlusses ohne erheblichen Aufwand werden korrekt wiedergegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort gibt beide gesetzlichen Erschliessungsvoraussetzungen vollständig und zutreffend wieder. Die ergänzenden Erläuterungen sind mit dem gelieferten Gesetzestext vereinbar."
+    },
+    {
+      "response_id": "con_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "con_004",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die notwendige Voraussetzung, dass bei der betreffenden Nutzung kein Ersatzneubau erstellt wird, fehlt vollständig."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Von der Höhe der Abbruchprämie ausgeschlossen sind Kosten, die nicht unmittelbar mit der Beseitigung der Baute zusammenhängen, insbesondere Planungs-, Projektierungs- und Baubewilligungskosten.",
+          "reason": "Die Antwort nennt andere Kostenausschlüsse als die gesetzlich festgelegten Aufwendungen für die Entsorgung von Spezialabfällen oder Altlasten. Zudem fehlt die ausdrückliche Bemessung der Prämie nach den Abbruchkosten."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "kann eine Abbruchprämie nur gewährt werden, wenn die Beseitigung der Baute ausserhalb der Bauzone im öffentlichen Interesse liegt.",
+          "source_id": "CH_RPG_5a",
+          "basis_quote": "Eigentümer von Bauten und Anlagen, die ausserhalb der Bauzonen liegen, erhalten bei deren Abbruch eine Abbruchprämie in der Höhe der Abbruchkosten unter Ausschluss allfälliger Aufwendungen für die Entsorgung von Spezialabfällen oder Altlasten, ausser wenn eine anderweitige gesetzliche Pflicht zur Tragung der Beseitigungskosten besteht.",
+          "severity": "material",
+          "reason": "Die Antwort stellt ein öffentliches Interesse als zusätzliche zwingende Anspruchsvoraussetzung dar. Art. 5a Abs. 1 RPG enthält diese Voraussetzung nicht. Dadurch wird der gesetzliche Anspruch unzulässig eingeschränkt."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die entscheidende Voraussetzung des fehlenden Ersatzneubaus wird nicht genannt. Statt der gesetzlichen Kostenausschlüsse werden andere Kosten angeführt. Zusätzlich wird eine im gelieferten Gesetzestext nicht vorgesehene zwingende Anspruchsvoraussetzung behauptet."
+    },
+    {
+      "response_id": "wel_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "wel_001",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "wenn andere, weniger einschneidende Mittel zur Sachverhaltsfeststellung nicht ausreichen oder erfolglos geblieben sind.",
+          "reason": "Die Antwort erkennt die subsidiäre Bedeutung anderer Mittel zur Sachverhaltsfeststellung. Die gesetzlich verlangte Ausschöpfung aller verfügbaren Mittel wird jedoch durch die offenere Formulierung nicht vollständig wiedergegeben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Da noch andere Mittel zur Verfügung stehen, fehlt es an dieser Voraussetzung.",
+          "reason": "Die Antwort erkennt zutreffend, dass die Voraussetzungen für die Observation im gegebenen Fall noch nicht erfüllt sind."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die negative Fallentscheidung ist richtig und wird sachgerecht begründet. Die Formulierung zur Ausschöpfung der verfügbaren Mittel bleibt gegenüber dem strikten Gesetzeswortlaut etwas zu allgemein."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "judgments": [
+    {
+      "response_id": "civ_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "civ_003",
+      "not_attempted": false,
+      "decision_status": "missing",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Antwort nennt eine Beschwerde beim Bundesgericht, aber nicht die Möglichkeit des Bundes, gegen die Verfügung der kantonalen Aufsichtsbehörde die kantonalen Rechtsmittel einzulegen."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Beschwerde beim Bundesgericht erheben, sofern er ein schutzwürdiges Interesse an der Aufhebung oder Änderung der Verfügung hat und die Voraussetzungen für die Beschwerde in Zivilsachen gemäss Art. 72 ff. BGG erfüllt sind",
+          "label_impact": "material",
+          "reason": "Die behauptete unmittelbare Beschwerdemöglichkeit beim Bundesgericht und die genannten Voraussetzungen sind durch den gelieferten Art. 45 ZGB nicht belegt. Da die Aussage einen alternativen Rechtsmittelweg als Antwort auf die Frage nennt, könnte ihre rechtliche Richtigkeit die Fallbeurteilung wesentlich beeinflussen."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die ausdrücklich belegte Möglichkeit der kantonalen Rechtsmittel wird nicht genannt. Die stattdessen behauptete bundesgerichtliche Beschwerdemöglichkeit bedarf einer gesonderten Prüfung."
+    },
+    {
+      "response_id": "civ_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "civ_004",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "regelt der Regierungsrat die Zivilstandskreise und den Sitz der Zivilstandsämter",
+          "reason": "Gemäss § 7 EG ZGB ist der Grosse Rat und nicht der Regierungsrat zuständig."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Dies erfolgt durch eine Verordnung",
+          "reason": "Das Gesetz verlangt ein Dekret des Grossen Rates und keine Verordnung."
+        },
+        {
+          "criterion_id": "3",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die vorgängige Anhörung der betroffenen Gemeinden wird nicht erwähnt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort bezeichnet sowohl die zuständige Behörde als auch die Rechtsform falsch. Die gesetzlich vorgeschriebene Anhörung der Gemeinden fehlt."
+    },
+    {
+      "response_id": "civ_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "civ_005",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Ja, der Kanton Aargau trägt die Kosten für den Betrieb der Zivilstandsämter.",
+          "reason": "§ 8 Abs. 1 EG ZGB weist die Kosten für Errichtung und Betrieb ausdrücklich den Gemeinden und nicht dem Kanton zu."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort widerspricht der ausdrücklich geregelten Kostentragung. Die zusätzliche Begründung mit der kantonalen Zuständigkeit ändert daran nichts und wird nicht nochmals als Zusatzfehler gezählt."
+    },
+    {
+      "response_id": "civ_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "civ_006",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1a",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die vertragliche Regelung der Art des Zusammenwirkens der Gemeinden wird nicht genannt. Die beschriebenen gemeinsamen Aufgaben betreffen lediglich die Kostenverteilung."
+        },
+        {
+          "criterion_id": "1b",
+          "status": "met",
+          "response_quote": "müssen mehrere Gemeinden eines Zivilstandskreises die Kostenverteilung für gemeinsame Aufgaben vertraglich regeln",
+          "reason": "Die vertragliche Regelung der Kostenverteilung wird ausdrücklich genannt."
+        },
+        {
+          "criterion_id": "1c",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Organisation des Zivilstandsamts als eigenständiger Vertragsgegenstand wird nicht genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Der Vertrag wird durch die jeweiligen Gemeindeexekutiven (Gemeinderat oder Stadtrat) abgeschlossen",
+          "reason": "Die Gemeindeexekutiven werden ausdrücklich als zuständig bezeichnet. Damit sind die gesetzlich genannten Gemeinderäte sinngemäss erfasst."
+        },
+        {
+          "criterion_id": "3",
+          "status": "contradicted",
+          "response_quote": "Kommt kein Vertrag zustande, entscheidet das zuständige kantonale Departement",
+          "reason": "Gemäss § 8 Abs. 2 EG ZGB entscheidet bei fehlendem Vertrag der Regierungsrat und nicht das kantonale Departement."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Kostenverteilung und die Zuständigkeit der Gemeinderäte werden richtig beschrieben. Zwei weitere Vertragsgegenstände fehlen. Die Entscheidungszuständigkeit bei fehlendem Vertrag wird falsch angegeben."
+    },
+    {
+      "response_id": "civ_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "civ_007",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Beschwerde beim Verwaltungsgericht des Kantons Aargau erheben",
+          "reason": "§ 9 Abs. 2 EG ZGB bezeichnet ausdrücklich das Obergericht (Zivilgericht) als Beschwerdeinstanz. Das Verwaltungsgericht ist nicht die vorgesehene Instanz."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Das anwendbare Verfahrensrecht ist das Verwaltungsrechtspflegegesetz des Kantons Aargau (VRPG)",
+          "reason": "Das anwendbare VRPG wird korrekt genannt. Im Kontext der ausdrücklich erwähnten Beschwerde ist damit das verlangte Verfahrensrecht sinngemäss erfasst."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Das anwendbare Verfahrensrecht wird richtig angegeben. Die zuständige Beschwerdeinstanz wird jedoch mit dem Verwaltungsgericht statt dem Obergericht (Zivilgericht) falsch bezeichnet."
+    },
+    {
+      "response_id": "civ_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "civ_008",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "müssen nicht zwingend alle Einwohnergemeinden ein eigenes Zivilstandsamt führen",
+          "reason": "Die grundsätzliche Verpflichtung jeder Einwohnergemeinde zu einem eigenen Zivilstandsamt ist durch die Verneinung einer ausnahmslosen Pflicht erkennbar. Die gesetzliche Grundregel, wonach jede Einwohnergemeinde zunächst einen Zivilstandskreis mit einem Zivilstandsamt bildet, wird jedoch nicht ausdrücklich dargestellt."
+        },
+        {
+          "criterion_id": "2a",
+          "status": "met",
+          "response_quote": "können sich Gemeinden zur Führung eines gemeinsamen Zivilstandsamtes zusammenschliessen",
+          "reason": "Die Möglichkeit eines Zusammenschlusses mehrerer Gemeinden wird ausdrücklich und korrekt genannt."
+        },
+        {
+          "criterion_id": "2b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die gesetzlich erforderliche Genehmigung des Regierungsrates wird nicht erwähnt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "sofern die organisatorischen und administrativen Voraussetzungen erfüllt sind",
+          "label_impact": "material",
+          "reason": "Die Aussage stellt zusätzliche Voraussetzungen für den Zusammenschluss auf, die der gelieferte § 14 EG ZGB nicht konkretisiert. Da diese Bedingungen die Zulässigkeit des Zusammenschlusses betreffen, könnte ihre rechtliche Einordnung wesentlich sein."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die grundsätzliche Möglichkeit eines gemeinsamen Zivilstandsamts wird richtig erkannt. Die gesetzliche Ausgangsregel bleibt unvollständig und die Genehmigung des Regierungsrates fehlt. Die zusätzlich behaupteten Voraussetzungen sind anhand der gelieferten Quellen nicht abschliessend überprüfbar."
+    }
+  ]
+}

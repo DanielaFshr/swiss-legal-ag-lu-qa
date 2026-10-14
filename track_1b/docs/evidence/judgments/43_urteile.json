@@ -1,0 +1,166 @@
+{
+  "judgments": [
+    {
+      "response_id": "edu_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "edu_010",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Ja, der Kanton darf bereits während der Bauphase Akontozahlungen leisten.",
+          "reason": "Die Zulässigkeit von Akontozahlungen während der Bauphase wird ausdrücklich und korrekt genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "Die Beitragszahlung erfolgt in der Regel nach Vorlage der Schlussabrechnung und nach Prüfung der Kosten und der Erfüllung der Förderungsvoraussetzungen.",
+          "reason": "Die Prüfung der Schlussabrechnung ist sinngemäss enthalten. Es fehlen die regelmässig einmalige Überweisung und der Vorbehalt des Budgetbeschlusses des Grossen Rats."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Akontozahlungen werden richtig als Möglichkeit beschrieben. Die Regelzahlung wird nur teilweise vollständig dargestellt."
+    },
+    {
+      "response_id": "con_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "con_005",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "1. Die Baute oder Anlage muss dem Zweck der Nutzungszone entsprechen (Zonenkonformität).\n2. Die Erschliessung muss sichergestellt sein.",
+          "reason": "Zonenkonformität und Erschliessung werden als zwingende Voraussetzungen korrekt genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Der Vorbehalt weiterer bundesrechtlicher und kantonaler Voraussetzungen wird nicht genannt. Die Aussage, dass beide Voraussetzungen unabhängig von weiteren Vorschriften erfüllt sein müssen, beschreibt ihre eigenständige Notwendigkeit und ist nicht eindeutig eine Behauptung ihrer alleinigen Hinlänglichkeit."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die beiden Voraussetzungen nach Art. 22 Abs. 2 RPG werden vollständig wiedergegeben. Der zusätzlich erfragte Vorbehalt nach Abs. 3 fehlt."
+    },
+    {
+      "response_id": "con_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "con_006",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "und keine überwiegenden Interessen entgegenstehen.",
+          "reason": "Die zweite kumulative Bewilligungsvoraussetzung nach Art. 24 Abs. 1 RPG wird korrekt genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Da im Sachverhalt überwiegende Interessen entgegenstehen, fehlt eine wesentliche Voraussetzung, weshalb die Bewilligung nicht erteilt werden kann.",
+          "reason": "Die entgegenstehenden überwiegenden Interessen werden richtig auf den Sachverhalt angewendet. Die Standortgebundenheit allein genügt nicht."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verneint die Bewilligung zutreffend und begründet dies vollständig mit den kumulativen Voraussetzungen."
+    },
+    {
+      "response_id": "con_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "con_007",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "**Selbsterschliessung** – die Grundeigentümer dürfen die Erschliessung auf eigene Kosten selbst vornehmen, sofern dies rechtlich und faktisch möglich ist.",
+          "reason": "Das Recht zur Selbsterschliessung wird erkannt. Die erforderliche Grundlage in vom Gemeinwesen genehmigten Plänen fehlt. Die allgemeine Einschränkung der rechtlichen Möglichkeit ersetzt diese konkrete Voraussetzung nicht."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die gesetzlich vorgesehene Möglichkeit, die Erschliessung durch das Gemeinwesen nach kantonalem Recht zu bevorschussen, wird nicht genannt. Stattdessen wird eine Rückerstattung bereits geleisteter Beiträge aufgeführt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "falls das Gemeinwesen die Erschliessung nicht fristgerecht vornimmt, sind die geleisteten Beiträge zurückzuerstatten.",
+          "label_impact": "material",
+          "reason": "Die behauptete Rückerstattungspflicht ist durch den gelieferten Art. 19 RPG nicht belegt. Ob sie sich aus anderen Rechtsgrundlagen ergeben könnte, lässt sich anhand der gelieferten Quelle nicht abschliessend entscheiden. Die Behauptung ist wesentlich, weil sie als eine der beiden gesetzlich erfragten Möglichkeiten dargestellt wird."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Selbsterschliessung wird unvollständig beschrieben. Die gesetzlich vorgesehene Bevorschussung fehlt und wird durch eine nicht belegte Rückerstattungspflicht ersetzt."
+    },
+    {
+      "response_id": "con_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "con_008",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "ein Luzerner Bebauungs- oder Gestaltungsplan darf Landumlegungen und Grenzregulierungen vorsehen",
+          "reason": "Die Kannbefugnis für Landumlegungen und Grenzregulierungen wird korrekt wiedergegeben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "sowie wichtige Fusswegverbindungen für öffentlich begehbar erklären.",
+          "reason": "Die Möglichkeit zur Festlegung der öffentlichen Begehbarkeit wichtiger Fusswegverbindungen wird sinngemäss korrekt genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Solche Festlegungen sind für die Grundeigentümer verbindlich und gehen den allgemeinen Bestimmungen des PBG vor, soweit sie im Planverfahren korrekt erlassen und genehmigt wurden.",
+          "label_impact": "material",
+          "reason": "Die behauptete Vorrangwirkung gegenüber den allgemeinen Bestimmungen des PBG wird durch den gelieferten § 65 nicht belegt. Sie betrifft das rechtliche Verhältnis der Planfestlegungen zum übrigen kantonalen Recht und könnte damit die Reichweite der erfragten Befugnisse wesentlich verändern."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Beide erfragten Kannbefugnisse werden richtig beantwortet. Die zusätzliche Aussage über den Vorrang gegenüber allgemeinen PBG-Bestimmungen benötigt eine rechtliche Überprüfung."
+    },
+    {
+      "response_id": "con_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "con_009",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "die zuständige Gemeindebehörde (in der Regel der Gemeinderat oder die Bau- und Planungskommission)",
+          "reason": "Der Gemeinderat wird als zuständige Behörde richtig genannt. Durch die alternative Nennung der Bau- und Planungskommission und die Einschränkung auf den Regelfall bleibt die gesetzlich eindeutige Zuständigkeit jedoch unpräzis."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "besteht ein Anspruch auf die Bewilligung, da die gesetzlichen Voraussetzungen erfüllt sind und keine entgegenstehenden öffentlichen Interessen vorliegen. Die Bewilligung darf in diesem Fall nicht verweigert werden.",
+          "reason": "Der gebundene Bewilligungsanspruch bei erfüllten Voraussetzungen wird ausdrücklich und korrekt wiedergegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Der Bewilligungsanspruch wird vollständig richtig erkannt. Bei der Zuständigkeit wird der Gemeinderat zwar genannt, aber durch eine zusätzliche alternative Behörde relativiert."
+    }
+  ]
+}

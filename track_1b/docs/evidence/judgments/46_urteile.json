@@ -1,0 +1,166 @@
+{
+  "judgments": [
+    {
+      "response_id": "dat_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "dat_010",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "meldet der Auftragsbearbeiter den Datenschutzverletzungsvorfall dem Verantwortlichen",
+          "reason": "Der korrekte Meldeempfänger wird ausdrücklich genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Der Verantwortliche muss den Vorfall unverzüglich der zuständigen Aufsichtsbehörde melden, sofern ein hohes Risiko für die Rechte und Freiheiten betroffener Personen besteht",
+          "reason": "Die Meldepflicht bei hohem Risiko ist richtig beschrieben. Im Kontext des Schweizer DSG ist die zuständige Aufsichtsbehörde sinngemäss der EDÖB."
+        },
+        {
+          "criterion_id": "3",
+          "status": "partial",
+          "response_quote": "Der Verantwortliche muss den Vorfall unverzüglich der zuständigen Aufsichtsbehörde melden",
+          "reason": "Die unverzügliche Meldung durch den Verantwortlichen ist genannt. Die zeitliche Vorgabe für die Meldung des Auftragsbearbeiters bleibt ausdrücklich unbeantwortet. Zudem wird für die Behördenmeldung eine unzutreffende Regelfrist von 72 Stunden behauptet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide Meldeempfänger sind sinngemäss richtig bezeichnet. Die zeitliche Vorgabe ist nur teilweise erfüllt. Die behauptete 72-Stunden-Regelfrist widerspricht Art. 24 DSG, der keine solche Frist vorsieht. Dieser Kernfehler ist bereits bei Kriterium 3 berücksichtigt."
+    },
+    {
+      "response_id": "hos_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "hos_004",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "erlässt der Regierungsrat die nach Leistungsaufträgen gegliederte Spitalliste",
+          "reason": "Die zuständige Behörde ist korrekt genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Die Anforderungen für die Aufnahme und das Bewerbungsverfahren werden in der Spitallistenverordnung geregelt, die als Erlassform einer Verordnung entspricht.",
+          "reason": "Beide Regelungsgegenstände und die verlangte Erlassform sind korrekt genannt. Die Zuständigkeit des Regierungsrats ergibt sich aus dem vorhergehenden Satz im Zusammenhang mit der gesetzlichen Kompetenz."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erfüllt beide Kriterien. Sie bezeichnet den Regierungsrat und die Verordnung als Erlassform."
+    },
+    {
+      "response_id": "hos_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "hos_005",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "eine Mindestbeteiligung von 51 Prozent am Kapital und an den Stimmen",
+          "reason": "Die genannte Mindestbeteiligung widerspricht den gesetzlich verlangten 70 Prozent des Aktienkapitals und der Aktienstimmen."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Für die Übertragung von Aktien an Dritte ist die Zustimmung des Kantons erforderlich.",
+          "reason": "Die Antwort nennt den Kanton statt des ausdrücklich zuständigen Grossen Rats."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide erfragten Rechtsvorgaben werden falsch wiedergegeben. Die Mindestbeteiligung beträgt 70 Prozent und die Übertragung an Dritte bedarf der Zustimmung des Grossen Rats."
+    },
+    {
+      "response_id": "hos_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "hos_006",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Einnahmen aus Leistungen gegenüber Patientinnen und Patienten",
+          "reason": "Patientinnen und Patienten werden als zusätzliche Einnahmequelle ausdrücklich genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die gesetzlich ausdrücklich genannte Gruppe der Dritten fehlt. Die Formulierung weitere Einnahmen bezeichnet keine entsprechende Personengruppe. Auch die Beispiele ersetzen diese Angabe nicht eindeutig."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "z. B. aus Forschung, Dienstleistungen, Vermietungen",
+          "label_impact": "minor",
+          "reason": "Die genannten Beispiele sind durch den gelieferten Gesetzesausschnitt nicht einzeln bestätigt. Ihre rechtliche Einordnung bleibt ungeprüft. Sie verändern weder die zutreffende Verneinung der Beschränkung noch die fehlende ausdrückliche Nennung der Dritten."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Beschränkung auf Kanton und Versicherer wird richtig verneint. Eine der beiden verlangten zusätzlichen Gruppen wird korrekt genannt. Die zweite Gruppe, Dritte, fehlt."
+    },
+    {
+      "response_id": "hos_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "hos_007",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "unabhängig von der Trägerschaft (öffentlich oder privat)",
+          "reason": "Zusammen mit der ausdrücklichen Ablehnung des Ausschlusses privater Trägerschaften ist der notwendige Einbezug sinngemäss erfüllt. Die gesetzliche Anforderung eines angemessenen Einbezugs wird nicht ausdrücklich wiederholt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "Die Planung umfasst alle stationären Versorgungsorte, die zur Sicherstellung einer bedarfsgerechten Versorgung notwendig sind.",
+          "reason": "Die stationäre Versorgung ist allgemein richtig beschrieben. Die ausdrücklich erfragten Versorgungsorte Spital und Geburtshaus werden jedoch nicht benannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verneint den vollständigen Ausschluss privater Trägerschaften zutreffend und begründet dies sachgerecht. Bei den stationären Versorgungsorten bleibt sie zu allgemein und nennt das Geburtshaus nicht."
+    },
+    {
+      "response_id": "hos_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "hos_008",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "das **Kantonsparlament (Kantonsrat)** das Spital nach § 6a Abs. 2 von der Spitalliste streichen",
+          "reason": "Nach § 6a Abs. 2 ist der Regierungsrat zuständig und nicht der Kantonsrat."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Die **Gesundheits- und Sozialdepartement des Kantons Luzern** (oder die zuständige kantonale Vollzugsbehörde) kann eine Busse verhängen; der Höchstbetrag nach Abs. 1 beträgt **CHF 500'000.–**.",
+          "reason": "Das Gesundheits- und Sozialdepartement wird ausdrücklich als zuständige Behörde genannt. Der gesetzliche Höchstbetrag von 500 000 Franken ist korrekt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Zuständigkeit für die Streichung von der Spitalliste ist falsch. Die Zuständigkeit für die Busse und deren Höchstbetrag sind hingegen richtig angegeben."
+    }
+  ]
+}

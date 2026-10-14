@@ -1,0 +1,172 @@
+{
+  "judgments": [
+    {
+      "response_id": "ren_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "ren_007",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "zunächst schriftlich eine Zahlungsfrist von mindestens 30 Tagen setzen",
+          "reason": "Die schriftliche Zahlungsfrist für Wohnräume ist korrekt angegeben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "androhen, dass bei unbenütztem Ablauf der Frist das Mietverhältnis gekündigt wird",
+          "reason": "Die erforderliche Kündigungsandrohung ist ausdrücklich enthalten."
+        },
+        {
+          "criterion_id": "3",
+          "status": "met",
+          "response_quote": "kann der Vermieter mit einer Frist von mindestens 30 Tagen auf Ende eines Monats kündigen",
+          "reason": "Die Kündigungsfrist und der Kündigungstermin nach ausbleibender Zahlung sind korrekt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Alle drei Voraussetzungen nach Art. 257d OR sind vollständig und korrekt wiedergegeben."
+    },
+    {
+      "response_id": "ren_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "ren_008",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Eine generelle Ablehnung von Untermieten ohne konkreten Grund ist unzulässig.",
+          "reason": "Die grundsätzliche Ablehnung allein wird zutreffend als ungenügender Verweigerungsgrund erkannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Da die Bedingungen hier nicht missbräuchlich sind und keine wesentlichen Nachteile entstehen, fehlt ein rechtlicher Grund zur Verweigerung.",
+          "reason": "Die Antwort erkennt, dass im geschilderten Fall kein gesetzlicher Verweigerungsgrund vorliegt. Die Bekanntgabe der Bedingungen ist bereits im Sachverhalt erfüllt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Unzumutbarkeit für den Vermieter",
+          "label_impact": "minor",
+          "reason": "Die Antwort führt Unzumutbarkeit als zusätzlichen gesetzlichen Verweigerungsgrund an. Art. 262 Abs. 2 OR nennt diesen Begriff nicht ausdrücklich. Ob damit lediglich die gesetzlich vorgesehenen wesentlichen Nachteile gemeint sind oder ein eigenständiger zusätzlicher Grund behauptet wird, lässt sich nicht eindeutig feststellen. Die Fallentscheidung bleibt davon unberührt."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Verweigerung wird zutreffend verneint und die gesetzlichen Voraussetzungen werden sinngemäss auf den Sachverhalt angewendet. Ein zusätzlicher Begriff bleibt hinsichtlich seiner rechtlichen Eigenständigkeit ungeklärt."
+    },
+    {
+      "response_id": "ren_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "ren_009",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Es ist nicht erforderlich, drei Personen vorzuschlagen.",
+          "reason": "Die Antwort stellt ausdrücklich klar, dass ein geeigneter Ersatzmieter ausreicht."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Der Ersatzmieter muss zumutbar sein (z. B. keine unzumutbaren Vertragsbedingungen) und zahlungsfähig. Zudem muss er den Vertrag zu den gleichen Bedingungen übernehmen wollen.",
+          "reason": "Zumutbarkeit, Zahlungsfähigkeit und Bereitschaft zur Vertragsübernahme zu gleichen Bedingungen sind vollständig genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort beantwortet die Frage nach der Anzahl Ersatzmieter korrekt und nennt sämtliche gesetzlichen Voraussetzungen."
+    },
+    {
+      "response_id": "ren_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "ren_010",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "die Verwendung eines amtlich genehmigten Formulars",
+          "reason": "Die Verwendung eines genehmigten Formulars wird genannt. Die Schriftlichkeit wird nicht ausdrücklich erwähnt und ergibt sich aus der Formulierung nicht eindeutig. Die kantonale Genehmigung ist mit amtlich genehmigt sinngemäss erfasst."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "einen Hinweis auf die Möglichkeit der Anfechtung der Kündigung bei der Schlichtungsbehörde und auf die gesetzlichen Voraussetzungen der Kündigung enthalten",
+          "reason": "Die Anfechtungsmöglichkeit ist genannt. Der erforderliche Hinweis auf das Vorgehen bei einem Erstreckungsbegehren fehlt. Die gesetzlichen Voraussetzungen der Kündigung ersetzen diesen Hinweis nicht."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort nennt das genehmigte Formular und die Anfechtungsmöglichkeit. Die ausdrückliche Schriftlichkeit und der Hinweis auf die Erstreckung fehlen."
+    },
+    {
+      "response_id": "per_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "per_001",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Volljährigkeit (Vollendung des 18. Lebensjahres)",
+          "reason": "Die gesetzliche Altersgrenze für die Volljährigkeit ist korrekt angegeben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Nach Art. 13 ZGB ist jede Person handlungsfähig, die volljährig und urteilsfähig ist.",
+          "reason": "Beide Voraussetzungen der Handlungsfähigkeit sind zutreffend miteinander verknüpft."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort bejaht die Handlungsfähigkeit zutreffend und nennt Volljährigkeit sowie Urteilsfähigkeit als entscheidende Voraussetzungen."
+    },
+    {
+      "response_id": "per_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "per_002",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "Ein reines Geldgeschenk ohne Auflagen oder Verpflichtungen ist ein geringfügiges Rechtsgeschäft.",
+          "reason": "Die selbständige Annahme eines Geschenks wird richtig bejaht. Die gesetzliche Ausnahme für unentgeltliche Vorteile wird jedoch nicht zutreffend als solche erläutert. Stattdessen stützt sich die Begründung auf die Geringfügigkeit."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Ein reines Geldgeschenk ohne Auflagen oder Verpflichtungen ist ein geringfügiges Rechtsgeschäft.",
+          "reason": "Die Antwort erkennt, dass das vorbehaltlose Geschenk selbständig angenommen werden darf. Die fehlerhafte Einordnung als geringfügiges Rechtsgeschäft ändert die richtige Anwendung auf das konkrete Geschenk nicht."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Urteilsfähige Personen können selbständig Rechtsgeschäfte abschliessen, die ihrer Natur nach keine erheblichen Folgen haben oder für die sie nach den Umständen als befähigt erscheinen.",
+          "label_impact": "minor",
+          "reason": "Diese allgemeine Umschreibung der selbständigen Geschäftsfähigkeit entspricht nicht unmittelbar den in Art. 19 Abs. 2 ZGB genannten Ausnahmen. Ob damit eine weitergehende Befugnis behauptet wird, bleibt offen. Für die konkrete Frage nach einem vorbehaltlosen Geschenk verändert dies die zutreffende Entscheidung nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Annahme des Geschenks ohne Zustimmung wird korrekt bejaht. Die Begründung vermischt jedoch den unentgeltlichen Vorteil mit der Ausnahme für geringfügige Angelegenheiten des täglichen Lebens."
+    }
+  ]
+}

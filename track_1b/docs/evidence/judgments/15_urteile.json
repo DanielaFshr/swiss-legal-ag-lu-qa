@@ -1,0 +1,187 @@
+{
+  "judgments": [
+    {
+      "response_id": "fam_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "fam_004",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Art. 170 Abs. 1 ZGB gewährt jedem Ehegatten das Recht, vom anderen Auskunft über dessen Einkommen, Vermögen und Schulden zu verlangen.",
+          "reason": "Das Auskunftsrecht über alle drei verlangten Bereiche ist vollständig beschrieben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "Das Gericht kann den auskunftspflichtigen Ehegatten zur Erteilung der Auskunft verpflichten",
+          "reason": "Die gerichtliche Verpflichtung des Ehegatten auf Begehren ist erkennbar. Die mögliche Verpflichtung Dritter und die Vorlage notwendiger Urkunden fehlen."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Verweigert ein Ehegatte die Auskunft ohne triftigen Grund",
+          "label_impact": "material",
+          "reason": "Die Antwort führt einen fehlenden triftigen Grund als Voraussetzung der gerichtlichen Unterstützung ein. Ob diese Einschränkung rechtlich zutrifft, ist durch die gelieferte Quelle nicht geklärt. Sie könnte das Auskunftsrecht wesentlich einschränken."
+        },
+        {
+          "response_quote": "nötigenfalls Zwangsmassnahmen anordnen",
+          "label_impact": "minor",
+          "reason": "Die zusätzliche Befugnis zu Zwangsmassnahmen ist im Quellenausschnitt nicht geregelt. Sie betrifft eine ergänzende Durchsetzungsmöglichkeit und verändert die ausdrücklich erfragte gerichtliche Auskunftsverpflichtung nicht."
+        },
+        {
+          "response_quote": "Voraussetzung ist ein schützenswertes Interesse des antragstellenden Ehegatten",
+          "label_impact": "material",
+          "reason": "Die behauptete zusätzliche Voraussetzung ist durch die gelieferte Quelle nicht bestätigt. Ihre mögliche Unrichtigkeit könnte den Zugang zur gerichtlichen Unterstützung wesentlich verändern."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Das Auskunftsrecht ist korrekt dargestellt. Die gerichtliche Unterstützung wird unvollständig beschrieben. Zusätzliche möglicherweise einschränkende Voraussetzungen erfordern eine rechtliche Überprüfung."
+    },
+    {
+      "response_id": "fam_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "fam_005",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Ja, nach Art. 175 ZGB kann ein Ehegatte den gemeinsamen Haushalt aufheben, wenn das Zusammenleben seine wirtschaftliche Sicherheit ernstlich gefährdet.",
+          "reason": "Die Berechtigung und die entscheidende Voraussetzung sind vollständig und korrekt wiedergegeben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Diese Berechtigung besteht, solange die Gefährdung anhält.",
+          "reason": "Die gesetzlich vorgesehene Dauer ist ausdrücklich und korrekt genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Der Ehegatte muss die Trennung jedoch unverzüglich dem anderen Ehegatten mitteilen",
+          "label_impact": "material",
+          "reason": "Die behauptete unverzügliche Mitteilungspflicht ist durch den gelieferten Art. 175 ZGB nicht bestätigt. Als zusätzliche Pflicht könnte sie die rechtliche Beurteilung der zulässigen Haushaltsaufhebung wesentlich verändern."
+        },
+        {
+          "response_quote": "die Trennung muss verhältnismässig sein",
+          "label_impact": "material",
+          "reason": "Die Antwort formuliert eine zusätzliche Voraussetzung, die im gelieferten Gesetzestext nicht enthalten ist. Ob sie anderweitig rechtlich begründet ist, bleibt ungeklärt. Sie könnte die Berechtigung zur Haushaltsaufhebung wesentlich einschränken."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Beide Kernkriterien und die erwartete Entscheidung sind erfüllt. Zwei zusätzliche rechtliche Anforderungen bleiben ungeklärt und könnten die Fallbeurteilung beeinflussen."
+    },
+    {
+      "response_id": "inh_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "inh_001",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "erben diese beiden Kinder je die Hälfte des Nachlasses. Die gesetzliche Erbquote beträgt somit je ½.",
+          "reason": "Die Erbquote beider Kinder ist vollständig und korrekt mit je einer Hälfte angegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort entspricht der gesetzlichen Erbfolge nach Art. 457 ZGB und nennt die korrekten Erbquoten."
+    },
+    {
+      "response_id": "inh_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "inh_002",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Die Ehefrau erbt die Hälfte des Nachlasses (½)",
+          "reason": "Der gesetzliche Erbanteil der überlebenden Ehefrau ist korrekt angegeben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "während die beiden Kinder je ein Viertel (¼) erhalten.",
+          "reason": "Die gesetzlichen Erbquoten der beiden Kinder sind vollständig und korrekt angegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Alle gesetzlichen Erbquoten sind korrekt. Die Antwort berücksichtigt ausschliesslich die Erbschaft und vermischt diese nicht mit güterrechtlichen Ansprüchen."
+    },
+    {
+      "response_id": "inh_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "inh_003",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "**Vollständig von Hand geschrieben** sein (keine maschinenschriftlichen oder fremdgeschriebenen Teile).",
+          "reason": "Die vollständige eigenhändige Niederschrift wird ausdrücklich verlangt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "**Datum** (Tag, Monat und Jahr) enthalten, an dem sie errichtet wurde.",
+          "reason": "Alle drei Datumsbestandteile sind genannt. Im Zusammenhang mit der ausdrücklich verlangten vollständig handschriftlichen Ausfertigung ist auch die Eigenhändigkeit des Datums ausreichend erfasst."
+        },
+        {
+          "criterion_id": "3",
+          "status": "met",
+          "response_quote": "**Unterschrift** des Erblassers am Ende der Verfügung.",
+          "reason": "Die persönliche Unterschrift des Erblassers wird ausdrücklich verlangt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Sämtliche drei Formanforderungen nach Art. 505 Abs. 1 ZGB sind sinngemäss vollständig beschrieben."
+    },
+    {
+      "response_id": "pro_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "pro_001",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "die Sache von jedem, der sie ihm ohne rechtlichen Grund vorenthält, herausverlangen.",
+          "reason": "Der Herausgabeanspruch des Eigentümers ist vollständig und korrekt wiedergegeben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Er kann jede ungerechtfertigte Einwirkung auf seine Sache abwehren",
+          "reason": "Das gesetzliche Recht zur Abwehr ungerechtfertigter Einwirkungen ist ausdrücklich genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "keinen rechtlichen Titel (z. B. Besitz, Miete, Pfandrecht) haben, der ihr das Verhalten erlaubt",
+          "label_impact": "minor",
+          "reason": "Die Beispiele für mögliche Berechtigungen gehen über den gelieferten Quellenausschnitt hinaus. Insbesondere ist nicht geklärt, unter welchen Umständen blosser Besitz einen rechtlichen Grund für das Vorenthalten bildet. Die Beispiele sind für die vorliegende Fallentscheidung nicht erforderlich und ändern die korrekt dargestellten Eigentümerrechte nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide gesetzlichen Eigentümerrechte sind vollständig und korrekt beschrieben. Eine zusätzliche beispielhafte Erläuterung bleibt rechtlich ungeklärt, ist für die Kernbewertung jedoch nicht entscheidend."
+    }
+  ]
+}

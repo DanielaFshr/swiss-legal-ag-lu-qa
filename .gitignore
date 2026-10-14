@@ -25,3 +25,10 @@ build/
 .DS_Store
 .idea/
 .vscode/
+
+.env
+.env.*
+!.env.example
+**/results/
+**/__pycache__/
+*.pyc

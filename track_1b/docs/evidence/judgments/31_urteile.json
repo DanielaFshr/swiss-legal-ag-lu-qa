@@ -1,0 +1,154 @@
+{
+  "judgments": [
+    {
+      "response_id": "pol_017_20261014T072645Z_fb1d06_a1",
+      "item_id": "pol_017",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "unabhängig davon, ob sie Eigentümerin ist oder nicht",
+          "reason": "Die Antwort bestätigt ausdrücklich, dass die tatsächliche Verfügungsgewalt unabhängig vom Eigentum genügt und polizeiliche Massnahmen gegen die betreuende Person gerichtet werden können."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Entscheidung und ihre Begründung entsprechen § 6 Abs. 2 PolG. Die tatsächliche Verfügungsgewalt wird zutreffend als massgebend bezeichnet."
+    },
+    {
+      "response_id": "mob_015_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_015",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "kantonaler Amtsblatt",
+          "reason": "Das kantonale Amtsblatt wird trotz sprachlicher Ungenauigkeit eindeutig als Publikationsorgan genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "im Schweizerischen Handelsamtsblatt (SHAB)",
+          "reason": "Die Antwort nennt anstelle des gesetzlich verlangten Publikationsorgans der Gemeinde ausdrücklich das Schweizerische Handelsamtsblatt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Der kantonale Publikationsort wird korrekt bezeichnet. Der zweite Publikationsort ist falsch und widerspricht § 2 Abs. 1 des kantonalen Vollzugsgesetzes."
+    },
+    {
+      "response_id": "mob_016_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_016",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "wird durch den Kanton Aargau erteilt, konkret durch die kantonale Fachstelle für Strassenreklamen",
+          "reason": "Die Antwort weist die Bewilligungserteilung einer kantonalen Fachstelle statt dem gemäss § 3 Abs. 1 zuständigen Gemeinderat zu."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die erforderliche Zustimmung der zuständigen kantonalen Behörde zur Bewilligung durch den Gemeinderat wird nicht genannt. Die Ausführungen zur Bundeszustimmung ersetzen diese Voraussetzung nicht."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Da es sich um eine Kantonsstrasse handelt, ist die Zustimmung des ASTRA jedoch nur nötig, wenn die Reklame den Sichtbereich einer Nationalstrasse beeinträchtigt oder in unmittelbarer Nähe liegt.",
+          "label_impact": "minor",
+          "reason": "Die zusätzliche Behauptung über eine bedingte Zustimmungspflicht des ASTRA lässt sich anhand der gelieferten Quellenpassage nicht abschliessend überprüfen. Sie betrifft einen nicht gegebenen Bezug zu einer Nationalstrasse und verändert die Bewertung der ausdrücklich erfragten Zuständigkeit für die Kantonsstrasse nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Bewilligungszuständigkeit wird falsch zugeordnet und die notwendige kantonale Zustimmung im gesetzlich vorgesehenen Verfahren fehlt. Der zusätzliche Hinweis auf eine mögliche Bundeszuständigkeit behebt diese Fehler nicht."
+    },
+    {
+      "response_id": "mob_017_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_017",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Ja, eine Gebühr darf verlangt werden.",
+          "reason": "Die Antwort behauptet ausdrücklich eine Gebührenpflicht beziehungsweise Gebührenzulässigkeit. § 10a bestimmt dagegen, dass Parkkarten für behinderte Personen unentgeltlich sind."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort widerspricht der ausdrücklichen gesetzlichen Gebührenbefreiung. Die allgemeinen Ausführungen über Verwaltungsgebühren ändern daran nichts."
+    },
+    {
+      "response_id": "mob_018_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_018",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "innert 30 Tagen seit Zustellung der Rechnung",
+          "reason": "Die Antwort nennt eine Frist von 30 Tagen statt der in § 8 Abs. 2 vorgesehenen zehn Tage seit Zustellung der Rechnung."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Das Begehren ist kostenlos.",
+          "reason": "Die Unentgeltlichkeit des Begehrens wird ausdrücklich und zutreffend genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort enthält die richtige Aussage zur Kostenfreiheit, nennt aber eine gesetzlich unzutreffende Frist."
+    },
+    {
+      "response_id": "mob_019_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_019",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "bei Nichtzahlung der Verkehrsabgaben zunächst eine Mahnung erlassen",
+          "reason": "Die gesetzlich vorgesehene Mahnung als erster Schritt wird korrekt genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Bleibt diese erfolglos, erlässt das Strassenverkehrsamt eine Verfügung zur Nachzahlung",
+          "reason": "Die Verfügung zur Nachzahlung nach erfolgloser Mahnung entspricht sinngemäss der verlangten Zahlungsverfügung."
+        },
+        {
+          "criterion_id": "3",
+          "status": "contradicted",
+          "response_quote": "in der Regel CHF 20.– bis CHF 50.–, je nach Aufwand",
+          "reason": "Die Antwort beschreibt eine variable Bearbeitungsgebühr zwischen 20 und 50 Franken. § 9 Abs. 1 legt dagegen ausdrücklich eine feste Bearbeitungsgebühr von 50 Franken fest."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Der Ablauf mit Mahnung und anschliessender Zahlungsverfügung wird korrekt wiedergegeben. Die gesetzlich festgelegte Bearbeitungsgebühr wird dagegen fälschlich als aufwandsabhängige Bandbreite dargestellt."
+    }
+  ]
+}

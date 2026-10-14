@@ -1,0 +1,176 @@
+{
+  "judgments": [
+    {
+      "response_id": "soc_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "soc_001",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "die **schriftliche Form** (Art. 60 ZGB)",
+          "reason": "Die gesetzlich verlangte Schriftform wird ausdrücklich genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "**Zweck des Vereins:** Der Vereinszweck muss klar und eindeutig definiert sein.",
+          "reason": "Zweck und Organisation werden genannt. Die Finanzierung ist als Teil der Mittel erkennbar. Die Haftung ersetzt jedoch keinen weiteren gesetzlichen Grundinhalt. Die drei Inhaltsgruppen sind sinngemäss vorhanden, wobei die Mittel nur auf die Finanzierung bezogen werden."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Schriftform ist korrekt. Die drei gesetzlichen Inhaltsgruppen werden nicht vollständig und gleichwertig dargestellt. Insbesondere werden Finanzierung und Haftung als dritte Gruppe anstelle der Mittel genannt."
+    },
+    {
+      "response_id": "soc_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "soc_002",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Ja, das Mitglied kann den Beschluss anfechten.",
+          "reason": "Die Anfechtbarkeit wird bejaht und mit der Statutenverletzung begründet. Die gerichtliche Anfechtung ergibt sich aus der genannten Anfechtungsklage."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "innert **30 Tagen** seit Kenntnisnahme des Beschlusses",
+          "reason": "Der Fristbeginn ab Kenntnis ist richtig. Die gesetzliche Monatsfrist wird jedoch durch 30 Tage ersetzt. Ein Kalendermonat entspricht nicht immer 30 Tagen."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Anfechtungsmöglichkeit ist richtig. Die Frist wird nicht gesetzeskonform als Monatsfrist angegeben."
+    },
+    {
+      "response_id": "soc_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "soc_003",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "durch ein Testament (letztwillige Verfügung) des Stifters.",
+          "reason": "Die Verfügung von Todes wegen wird durch die testamentarische Errichtung erfasst. Die öffentliche Urkunde wird bei der lebzeitigen Errichtung ausdrücklich genannt. Beide gesetzlichen Alternativen sind damit vorhanden."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "oder eine andere vom Gesetz vorgesehene Form während der Lebenszeit des Stifters",
+          "label_impact": "minor",
+          "reason": "Art. 81 ZGB nennt für die lebzeitige Errichtung die öffentliche Urkunde. Die zusätzliche Andeutung einer anderen gesetzlichen Form ist durch den gelieferten Auszug nicht belegt. Sie ist eine Nebenbemerkung, da beide verlangten Errichtungsformen ausdrücklich genannt werden."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide gesetzlich vorgesehenen Errichtungsformen werden sinngemäss korrekt genannt. Die zusätzliche Formulierung zu anderen Formen ist nicht verifiziert."
+    },
+    {
+      "response_id": "soc_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "soc_004",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "beschränkt sich die Aufsicht grundsätzlich auf eine Rechtskontrolle",
+          "reason": "Die Beschränkung auf die Rechtskontrolle wird ausdrücklich bestätigt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "darf die Aufsichtsbehörde auch Ermessensmissbrauch oder Ermessensüberschreitung beanstanden",
+          "reason": "Beide Ermessensfehler werden als beanstandbar bezeichnet. Im Zusammenhang mit der Rechtskontrolle ist ihre Einordnung als Rechtsverletzungen sinngemäss erfüllt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "vgl. § 13 Abs. 1 BVSAG",
+          "label_impact": "minor",
+          "reason": "Die gelieferte Rechtsgrundlage enthält die entsprechende Vorschrift in § 15 Abs. 2. Die abweichende Fundstelle ist eine nicht tragende Ungenauigkeit."
+        },
+        {
+          "response_quote": "§ 13 Abs. 2 BVSAG",
+          "label_impact": "minor",
+          "reason": "Die gelieferte Rechtsgrundlage nennt § 15 Abs. 2. Die falsche Fundstellenangabe ändert die zutreffende materielle Aussage nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Rechtskontrolle und Beanstandbarkeit beider Ermessensfehler sind korrekt dargestellt. Die angegebenen Absatzverweise stimmen nicht mit dem gelieferten § 15 überein."
+    },
+    {
+      "response_id": "soc_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "soc_005",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "ist die kantonale Stiftungsaufsicht gemeint",
+          "reason": "Die kantonale Stiftungsaufsicht wird erkannt. Die spezifische Aufsicht über klassische Stiftungen nach Art. 84 ZGB wird nicht genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Aufgaben als Änderungsbehörde für kantonale und kommunale klassische Stiftungen nach Art. 85 und 86 ZGB fehlen. Allgemeine Aufsichtsaufgaben ersetzen diese besonderen Änderungszuständigkeiten nicht."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Prüfung der Rechtmässigkeit und Zweckmässigkeit der Stiftungsorganisation und -tätigkeit",
+          "label_impact": "minor",
+          "reason": "Die gelieferte Konkordatsbestimmung belegt diese allgemeine Umschreibung der Prüfungsbefugnisse nicht. Die Aussage betrifft zusätzliche Aufsichtsinhalte und nicht die konkret erfragte Änderungszuständigkeit."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erkennt die kantonale Aufsicht nur allgemein. Sie nennt weder die klassischen Stiftungen nach Art. 84 ZGB noch die besonderen Änderungsaufgaben nach Art. 85 und 86 ZGB."
+    },
+    {
+      "response_id": "hom_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "hom_001",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "hat die Schweizerin keinen Anspruch auf das Gemeindebürgerrecht, sondern darf lediglich ein Gesuch stellen",
+          "reason": "Die Antwort verneint ausdrücklich den Anspruch. Nach § 10 Abs. 2 besteht bei zehnjährigem Aufenthalt und den bereits erfüllten Voraussetzungen gerade ein gesetzlicher Anspruch auf das Gemeindebürgerrecht."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "eine erfolgreiche Integration (Sprachkenntnisse, Teilnahme am gesellschaftlichen Leben), Beachtung der schweizerischen Rechtsordnung und wirtschaftliche Unabhängigkeit",
+          "label_impact": "material",
+          "reason": "Die Antwort nennt zusätzliche Voraussetzungen, die aus dem gelieferten § 10 nicht hervorgehen. Ob diese aus anderen Vorschriften folgen und den gesetzlichen Anspruch im konkreten Fall einschränken können, ist anhand der bereitgestellten Quelle nicht geklärt. Dies könnte die erfragte Anspruchsbeurteilung wesentlich verändern."
+        },
+        {
+          "response_quote": "über das die Gemeindeversammlung entscheidet",
+          "label_impact": "uncertain",
+          "reason": "Die Zuständigkeit der Gemeindeversammlung ist im gelieferten § 10 nicht geregelt. Ob die Aussage zutrifft und für die Ausübung des gesetzlichen Anspruchs wesentlich ist, lässt sich anhand der Bewertungsgrundlage nicht feststellen."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die zentrale Rechtsfolge wird ausdrücklich falsch beurteilt. § 10 Abs. 2 gewährt unter den feststehenden Voraussetzungen einen Anspruch. Zusätzlich enthält die Antwort ungeklärte Aussagen über Voraussetzungen und Zuständigkeit, die eine Überprüfung erfordern."
+    }
+  ]
+}

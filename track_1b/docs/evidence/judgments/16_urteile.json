@@ -1,0 +1,174 @@
+{
+  "judgments": [
+    {
+      "response_id": "pro_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "pro_002",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "darf die Stockwerkeigentümerin die gemeinschaftlichen Bauteile nicht beschädigen oder deren Funktion beeinträchtigen",
+          "reason": "Das Verbot der Beschädigung und der Funktionsbeeinträchtigung wird korrekt genannt. Das Verbot der Beeinträchtigung der äusseren Erscheinung fehlt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Zudem darf sie die anderen Stockwerkeigentümer nicht in der Ausübung ihres Sonderrechts oder der Benutzung des gemeinschaftlichen Eigentums behindern oder schädigen.",
+          "reason": "Das Verbot der Behinderung bei der Ausübung des gleichen Sonderrechts wird sinngemäss erfüllt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Nein-Entscheidung ist richtig. Beide zentralen Grenzen werden angesprochen. Lediglich die Beeinträchtigung der äusseren Erscheinung gemeinschaftlicher Bauteile fehlt."
+    },
+    {
+      "response_id": "ban_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "ban_007",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "eine selbstständige öffentlich-rechtliche Anstalt des Kantons Aargau",
+          "reason": "Die Selbstständigkeit und die öffentlich-rechtliche Anstaltsform werden korrekt angegeben. Die eigene Rechtspersönlichkeit wird nicht ausdrücklich genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Ihr Sitz befindet sich in Aarau.",
+          "reason": "Der gesetzliche Sitz in Aarau ist korrekt angegeben."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Der Sitz der Bank ist in Aarau festgelegt (§ 2 AKB-Gesetz).",
+          "source_id": "AG_AKBG_1",
+          "basis_quote": "§ 1 Rechtsform und Sitz",
+          "severity": "minor",
+          "reason": "Die angegebene Fundstelle für den Sitz ist falsch. Der Sitz ist in § 1 geregelt. Die materielle Angabe des Sitzes bleibt korrekt."
+        }
+      ],
+      "unverified_claims": [
+        {
+          "response_quote": "AKB-Gesetz) vom 25. Juni 2001",
+          "label_impact": "minor",
+          "reason": "Das genannte Gesetzesdatum lässt sich anhand der gelieferten Quelle nicht bestätigen. Eine mögliche Ungenauigkeit wäre für die erfragte Rechtsform und den Sitz nicht entscheidend."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Rechtsform und Sitz sind im Wesentlichen richtig wiedergegeben. Die eigene Rechtspersönlichkeit fehlt. Eine falsche Fundstelle betrifft nur die zusätzliche rechtliche Begründung."
+    },
+    {
+      "response_id": "ban_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "ban_008",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "wählt die Generalversammlung die Mitglieder und das Präsidium des Bankrats",
+          "reason": "Die Antwort bezeichnet die Generalversammlung als Wahlorgan. Nach § 7 AKBG ist der Grosse Rat zuständig."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Der Antrag auf Wahl erfolgt durch den Bankrat selbst.",
+          "reason": "Die Antwort nennt den Bankrat als antragstellendes Organ. Gesetzlich erfolgt die Wahl auf Antrag des Regierungsrats."
+        },
+        {
+          "criterion_id": "3",
+          "status": "met",
+          "response_quote": "Die Amtsperiode dauert jeweils vier Jahre.",
+          "reason": "Die gesetzliche Amtsdauer von vier Jahren wird korrekt angegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Amtsdauer ist richtig. Sowohl das Wahlorgan als auch das antragstellende Organ werden ausdrücklich falsch bezeichnet."
+    },
+    {
+      "response_id": "ban_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "ban_009",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Ja, die Schweigepflicht endet grundsätzlich mit der Beendigung des Arbeitsverhältnisses.",
+          "reason": "Die Aussage widerspricht § 19 Abs. 2 AKBG. Die gesetzliche Schweigepflicht gilt nach Beendigung der Anstellung uneingeschränkt weiter. Die anschliessende Erwähnung fortgeltender strafrechtlicher Bestimmungen hebt den ausdrücklichen Widerspruch nicht auf."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Es bleibt jedoch die allgemeine zivilrechtliche Verschwiegenheitspflicht (Art. 27 ZGB) und strafrechtliche Bestimmungen (z. B. Art. 47 BankG) bestehen",
+          "label_impact": "minor",
+          "reason": "Die rechtliche Zuordnung einer allgemeinen Verschwiegenheitspflicht zu Art. 27 ZGB ist anhand der gelieferten Quellen nicht überprüfbar. Die Aussage ist gegenüber der ausdrücklich erfragten Fortgeltung der Schweigepflicht nach AKBG eine Nebenbehauptung. Der entscheidende Widerspruch ist bereits im Kriterium erfasst."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verneint die uneingeschränkte Fortgeltung der Schweigepflicht und widerspricht damit der eindeutigen gesetzlichen Regelung. Der Hinweis auf andere fortgeltende Pflichten korrigiert diesen Fehler nicht."
+    },
+    {
+      "response_id": "ban_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "ban_010",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "mindestens 70 % des Aktienkapitals",
+          "reason": "Die ausdrücklich genannte Mindestquote von 70 Prozent widerspricht der gesetzlichen Mindestquote von 51 Prozent des Aktienkapitals."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Die Vorgabe bezieht sich explizit auf das Aktienkapital",
+          "reason": "Die Antwort beschränkt die Vorgabe ausdrücklich auf das Aktienkapital. Nach § 3 Abs. 1 gilt die Mindestquote zusätzlich für die Aktienstimmen."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort nennt eine falsche Mindestquote und lässt die gesetzlich vorgeschriebene Mindestbeteiligung an den Aktienstimmen ausdrücklich ausser Betracht."
+    },
+    {
+      "response_id": "ban_011_20261014T072645Z_fb1d06_a1",
+      "item_id": "ban_011",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "ist der Regierungsrat des Kantons Luzern",
+          "reason": "Der Regierungsrat wird korrekt als zuständiges Organ für die Wahrnehmung der Aktionärsrechte bezeichnet."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Für die Ausübung von Bezugsrechten gilt eine betragliche Beschränkung",
+          "reason": "Die Antwort behauptet ausdrücklich eine betragliche Beschränkung und beschreibt zusätzlich eine konkrete Obergrenze. Nach § 4 Abs. 1 des Umwandlungsgesetzes erfolgt die Ausübung von Bezugsrechten ohne betragliche Beschränkung."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Zuständigkeit des Regierungsrats wird richtig angegeben. Die Aussage über eine betragliche Beschränkung der Bezugsrechte widerspricht dagegen unmittelbar der gesetzlichen Regelung."
+    }
+  ]
+}

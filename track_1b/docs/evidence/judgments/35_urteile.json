@@ -1,0 +1,178 @@
+{
+  "judgments": [
+    {
+      "response_id": "wel_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "wel_002",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "§ 9 Abs. 3 SHG erlaubt zwar eine Abklärung bei begründetem Verdacht",
+          "reason": "Die Möglichkeit einer Abklärung wird anerkannt. Dass Sozialinspektorinnen soweit erforderlich unangemeldet am Wohnort erscheinen dürfen, wird jedoch nicht ausdrücklich oder eindeutig sinngemäss festgestellt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "ist für einen unangemeldeten Zutritt zur Wohnung die Zustimmung der berechtigten Person erforderlich.",
+          "reason": "Die notwendige Zustimmung der Berechtigten zum Betreten der Wohnung wird zutreffend genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Ein eigenmächtiges Betreten ohne Einwilligung wäre unzulässig und würde eine strafbare Hausfriedensverletzung darstellen.",
+          "label_impact": "minor",
+          "reason": "Die strafrechtliche Qualifikation wird durch den gelieferten Auszug aus dem Sozialhilfegesetz nicht abschliessend belegt. Sie betrifft eine zusätzliche strafrechtliche Rechtsfolge und verändert die zutreffende Kernaussage zur erforderlichen Zustimmung nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erkennt das Zustimmungserfordernis beim Betreten der Wohnung korrekt. Die eigenständige Zulässigkeit eines erforderlichen unangemeldeten Besuchs am Wohnort bleibt unvollständig dargestellt."
+    },
+    {
+      "response_id": "wel_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "wel_003",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Die Luzerner wirtschaftliche Sozialhilfe darf die Unterstützung nicht kürzen oder einstellen, weil der Elternteil zwei Monate vor der Geburt die Erwerbstätigkeit aufgibt.",
+          "reason": "Das Verbot einer Kürzung oder Einstellung aus dem beschriebenen Grund wird für den konkreten Fall zutreffend wiedergegeben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "ohne eine starre maximale Dauer",
+          "reason": "Die Antwort verneint eine feste Höchstdauer. § 30 Abs. 2 SHG begrenzt die Sperrfrist ausdrücklich auf längstens zwölf Monate."
+        },
+        {
+          "criterion_id": "3",
+          "status": "contradicted",
+          "response_quote": "Die Unterstützung erfolgt nach dem konkreten Bedarf während der vorgeburtlichen Phase, ohne eine starre maximale Dauer oder einen fest definierten vorgeburtlichen Anteil.",
+          "reason": "Die Antwort verneint einen festgelegten vorgeburtlichen Anteil. Gesetzlich sind höchstens drei Monate vor der Geburt vorgesehen."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Nach Art. 336c Abs. 1 OR darf eine Arbeitnehmerin während der Schwangerschaft und 16 Wochen nach der Geburt nicht entlassen werden. In der Sozialhilfe wird dies analog berücksichtigt.",
+          "label_impact": "minor",
+          "reason": "Die behauptete analoge Anwendung arbeitsrechtlicher Kündigungsschutzregeln auf die sozialhilferechtliche Sperrfrist ist durch die gelieferten Quellen nicht belegt. Sie betrifft eine zusätzliche Begründung. Die entscheidenden falschen Angaben zur Dauer und zum vorgeburtlichen Anteil sind bereits in den Kriterien erfasst."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die konkrete Entscheidung gegen eine Kürzung ist richtig. Beide ausdrücklich erfragten zeitlichen Höchstgrenzen werden jedoch verneint und damit der gesetzlichen Regelung widersprochen."
+    },
+    {
+      "response_id": "wel_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "wel_004",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Der Unterstützungswohnsitz des minderjährigen Kindes befindet sich am zivilrechtlichen Wohnsitz desjenigen Elternteils, bei dem es überwiegend wohnt.",
+          "reason": "Der massgebende Wohnsitz wird korrekt bestimmt. Im Zusammenhang mit den getrennten zivilrechtlichen Wohnsitzen der Eltern entspricht dies sinngemäss dem eigenständigen Unterstützungswohnsitz nach Art. 7 Abs. 2 ZUG."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort bestimmt den Unterstützungswohnsitz zutreffend nach dem Wohnsitz des Elternteils, bei dem das Kind überwiegend wohnt. Die abweichende Umschreibung in der Begründung ändert daran im konkreten Sachverhalt nichts."
+    },
+    {
+      "response_id": "dat_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "dat_001",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "einen weiteren Auftragnehmer nur mit seiner Zustimmung einzusetzen.",
+          "reason": "Das Zustimmungserfordernis des öffentlichen Organs ist richtig. Die gesetzlich vorgeschriebene vorgängige Schriftlichkeit der Zustimmung fehlt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "Das öffentliche Organ bleibt für die Einhaltung der Datenschutzbestimmungen verantwortlich",
+          "reason": "Die fortbestehende Datenschutzverantwortung des öffentlichen Organs ist ausdrücklich erfüllt. Dass Betroffene ihre Rechte weiterhin gegenüber diesem Organ geltend machen müssen, fehlt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erfasst die Zustimmungspflicht und die fortbestehende Verantwortlichkeit. Sie lässt jedoch die vorgängige Schriftlichkeit sowie die Zuständigkeit des öffentlichen Organs für die Rechte Betroffener aus."
+    },
+    {
+      "response_id": "dat_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "dat_002",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "vom Grossen Rat gewählt.",
+          "reason": "Die Antwort nennt den Grossen Rat als Wahlorgan. Gemäss § 30 Abs. 1 IDAG erfolgt die Wahl durch den Regierungsrat."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "Die Amtsperiode dauert vier Jahre, und eine Wiederwahl ist zulässig.",
+          "reason": "Die Wiederwahlmöglichkeit ist richtig. Die angegebene Amtsperiode von vier Jahren widerspricht der gesetzlichen Dauer von acht Jahren."
+        },
+        {
+          "criterion_id": "3",
+          "status": "met",
+          "response_quote": "ohne an Weisungen gebunden zu sein.",
+          "reason": "Die fachliche Unabhängigkeit bei der Aufgabenerfüllung wird eindeutig beschrieben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Sie überwacht die Einhaltung des Öffentlichkeitsgesetzes und des Datenschutzgesetzes durch die kantonalen Behörden, untersucht Beschwerden von Personen, die sich in ihren Rechten verletzt fühlen, und erarbeitet Empfehlungen oder Berichte.",
+          "label_impact": "minor",
+          "reason": "Die zusätzlichen Aufgabenbeschreibungen lassen sich anhand des gelieferten § 30 IDAG nicht vollständig überprüfen. Sie betreffen nicht die erfragte Wahl, Amtsdauer, Wiederwahl oder Unabhängigkeit."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort nennt ein falsches Wahlorgan und eine falsche Amtsdauer. Wiederwahlmöglichkeit und unabhängige Aufgabenerfüllung werden korrekt dargestellt."
+    },
+    {
+      "response_id": "dat_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "dat_003",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "§ 7a KDSG verlangt eine **Datenschutz-Folgenabschätzung (DSFA)**, wenn eine Datenbearbeitung voraussichtlich ein hohes Risiko für die Persönlichkeit oder Grundrechte natürlicher Personen birgt.",
+          "reason": "Die Pflicht zur Datenschutz-Folgenabschätzung bei voraussichtlich hohem Risiko wird vollständig und richtig beschrieben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "muss das öffentliche Organ **eine Konsultation der zuständigen Datenschutzaufsichtsbehörde** (hier: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter EDÖB oder kantonale Behörde) einleiten",
+          "reason": "Die Pflicht zur Konsultation bei verbleibendem hohem Risiko wird richtig erkannt. Die Antwort benennt aber alternativ den EDÖB, obwohl § 7a KDSG die Stellungnahme der zuständigen beauftragten Person für den Datenschutz verlangt. Damit bleibt die zuständige Stelle unpräzise."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Datenschutz-Folgenabschätzung und die anschliessende Konsultationspflicht werden erkannt. Die zweite Voraussetzung ist wegen der unpräzisen Bezeichnung der zuständigen kantonalen Datenschutzstelle nur teilweise erfüllt."
+    }
+  ]
+}

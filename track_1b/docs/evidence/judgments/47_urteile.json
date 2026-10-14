@@ -1,0 +1,158 @@
+{
+  "judgments": [
+    {
+      "response_id": "soc_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "soc_006",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nach Art. 61 Abs. 2 ZGB sind Vereine, die ein nach kaufmännischer Art geführtes Gewerbe betreiben, verpflichtet, sich ins Handelsregister eintragen zu lassen.",
+          "reason": "Die gesetzliche Eintragungspflicht für den beschriebenen Verein wird ausdrücklich und korrekt festgestellt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verneint die Freiwilligkeit zutreffend und begründet dies mit der Eintragungspflicht gemäss Art. 61 Abs. 2 ZGB."
+    },
+    {
+      "response_id": "soc_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "soc_007",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nach Art. 64 ZGB kann ein Fünftel der Mitglieder die Einberufung einer Vereinsversammlung verlangen.",
+          "reason": "Der gesetzliche Schwellenwert wird richtig genannt. Die Antwort stellt zudem klar, dass die Einberufung unabhängig von einer ausdrücklichen Statutenregelung erfolgen muss."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Die Statuten können diese Mindestanforderung nicht herabsetzen.",
+          "label_impact": "minor",
+          "reason": "Die Aussage zur Unabänderlichkeit des Schwellenwerts ist durch den gelieferten Gesetzesauszug nicht hinreichend geklärt. Sie könnte eine statutarische Erleichterung des Einberufungsverlangens zu Unrecht ausschliessen. Für den konkreten Fall mit genau einem Fünftel der Mitglieder ändert dies die richtige Entscheidung nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Einberufungspflicht wird korrekt bejaht. Eine zusätzliche Aussage zur statutarischen Abänderbarkeit bleibt ungeklärt, ist für die konkrete Fallentscheidung aber nicht entscheidend."
+    },
+    {
+      "response_id": "soc_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "soc_008",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Da die Statuten die Beratung und Beschlussfassung über nicht gehörig angekündigte Gegenstände nicht ausdrücklich erlauben, fehlt die notwendige Grundlage für einen gültigen Beschluss.",
+          "reason": "Die Antwort nennt die erforderliche ausdrückliche Statutenerlaubnis und verneint die Zulässigkeit des Beschlusses bei deren Fehlen."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort entspricht der gesetzlichen Voraussetzung nach Art. 67 Abs. 3 ZGB und beurteilt den Sachverhalt zutreffend."
+    },
+    {
+      "response_id": "soc_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "soc_009",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nach Schweizer Recht ist die Mitgliedschaft in einem Verein grundsätzlich unübertragbar und unvererblich.",
+          "reason": "Die Unübertragbarkeit umfasst sinngemäss das gesetzliche Verbot der Veräusserung der Mitgliedschaft."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Zudem ist sie grundsätzlich nicht vererblich",
+          "reason": "Die fehlende Vererblichkeit wird ausdrücklich erkannt und richtig als persönliche Bindung der Mitgliedschaft erklärt."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Ausnahmen sind nur in den Statuten vorgesehen, was jedoch selten und nur unter strengen Voraussetzungen zulässig ist.",
+          "source_id": "CH_ZGB_70",
+          "basis_quote": "3 Die Mitgliedschaft ist weder veräusserlich noch vererblich.",
+          "severity": "material",
+          "reason": "Die behauptete statutarische Ausnahmemöglichkeit widerspricht der vorbehaltlosen Regelung in Art. 70 Abs. 3 ZGB. Sie relativiert das gesetzliche Veräusserungs- und Vererbungsverbot und verändert damit die rechtliche Aussage wesentlich."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide verlangten Eigenschaften werden richtig genannt. Die zusätzliche Behauptung statutarischer Ausnahmen stellt jedoch einen wesentlichen rechtlichen Fehler dar."
+    },
+    {
+      "response_id": "soc_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "soc_010",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Das ehemalige Stiftungsratsmitglied hat ein solches Interesse, da es an der ordnungsgemässen Verwaltung der Stiftung gelegen ist.",
+          "reason": "Die Antwort bejaht die Beschwerdeberechtigung des ehemaligen Stiftungsratsmitglieds mit dem vorgegebenen Interesse."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "bei der Aufsichtsbehörde Beschwerde erheben.",
+          "reason": "Die gesetzlich vorgesehene Beschwerdestelle wird ausdrücklich und zutreffend genannt."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "kann jede Person, die ein Interesse hat, dass die Stiftungsorgane Gesetz und Stiftungsurkunde einhalten, bei der Aufsichtsbehörde Beschwerde erheben.",
+          "source_id": "CH_ZGB_84",
+          "basis_quote": "3 Begünstigte oder Gläubiger der Stiftung, der Stifter, Zustifter und ehemalige und aktuelle Stiftungsratsmitglieder, welche ein Interesse daran haben, dass die Verwaltung der Stiftung mit Gesetz und Stiftungsurkunde in Einklang steht, können gegen Handlungen und Unterlassungen der Stiftungsorgane Beschwerde bei der Aufsichtsbehörde erheben.",
+          "severity": "material",
+          "reason": "Die Aussage erweitert die Beschwerdeberechtigung auf jede interessierte Person. Die gelieferte Gesetzesbestimmung nennt dagegen bestimmte berechtigte Personengruppen. Damit wird der Kreis der Beschwerdeberechtigten wesentlich zu weit gefasst."
+        }
+      ],
+      "unverified_claims": [
+        {
+          "response_quote": "Die Beschwerde ist bei der kantonalen Aufsichtsbehörde einzureichen (in der Regel die kantonale Justiz- oder Stiftungsaufsicht).",
+          "label_impact": "minor",
+          "reason": "Art. 84 Abs. 1 ZGB sieht eine Aufsicht durch Bund, Kanton oder Gemeinde vor. Die im Einzelfall zuständige Aufsichtsbehörde lässt sich ohne weitere Angaben zur Stiftung nicht bestimmen. Die zusätzliche kantonale Konkretisierung ist daher nicht gesichert. Die zuvor korrekt genannte Aufsichtsbehörde erfüllt jedoch den erfragten Inhalt."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die konkrete Beschwerdeberechtigung und die zuständige Stelle werden richtig erkannt. Die zusätzliche Verallgemeinerung auf jede interessierte Person ist rechtlich wesentlich fehlerhaft."
+    },
+    {
+      "response_id": "cop_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "cop_006",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Eine rein fotografische Wiedergabe eines dreidimensionalen Gegenstands ohne eigene schöpferische Leistung weist keinen individuellen Charakter auf und fällt daher nicht unter den urheberrechtlichen Schutz.",
+          "reason": "Art. 2 Abs. 3bis URG schützt gerade fotografische Wiedergaben dreidimensionaler Objekte auch ohne individuellen Charakter. Die Antwort verneint diesen ausdrücklich vorgesehenen Schutz."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort gibt sowohl die erwartete Entscheidung als auch den rechtlichen Gehalt der Sonderregelung falsch wieder. Der wesentliche Fehler ist bereits im Kriterium erfasst."
+    }
+  ]
+}

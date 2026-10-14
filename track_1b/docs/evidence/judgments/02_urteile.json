@@ -1,0 +1,197 @@
+{
+  "judgments": [
+    {
+      "response_id": "pol_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "pol_005",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "ist Amts- und Vollzugshilfe der Kantonspolizei durch die ersuchte Gemeinde grundsätzlich zu entschädigen.",
+          "reason": "Die grundsätzliche Entschädigungspflicht wird ausdrücklich genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Die Unentgeltlichkeit muss also entweder vertraglich geregelt oder durch das öffentliche Interesse gerechtfertigt sein.",
+          "reason": "Die Antwort ersetzt die gesetzliche Ausnahme aufgrund von Bundesrecht oder kantonalem Recht durch vertragliche Regelungen oder öffentliches Interesse. Diese Voraussetzungen entsprechen nicht der gesetzlichen Regelung."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die grundsätzliche Entschädigungspflicht ist korrekt. Die Voraussetzungen für die Unentgeltlichkeit werden jedoch inhaltlich falsch dargestellt."
+    },
+    {
+      "response_id": "pol_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "pol_006",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Ja, die Luzerner Polizei darf den Hinweis grundsätzlich bearbeiten, jedoch unter strengen Voraussetzungen.",
+          "reason": "Die Bearbeitung des nicht verifizierten Hinweises wird im Zusammenhang mit der recht- und zweckmässigen Aufgabenerfüllung bejaht."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Der Hinweis allein genügt nicht; er muss durch weitere Abklärungen (z. B. Überprüfung von Registern, weitere Ermittlungen) verifiziert oder entkräftet werden.",
+          "reason": "Die Antwort verlangt über eine Plausibilitätsprüfung hinaus eine aktive Überprüfung des Hinweises durch weitere Abklärungen. Die Verifizierung oder Entkräftung deckt die tatsächliche Richtigkeit sinngemäss ab."
+        },
+        {
+          "criterion_id": "3",
+          "status": "met",
+          "response_quote": "die zu Unrecht erfassten Daten löschen oder berichtigen.",
+          "reason": "Die ausdrücklich genannte Löschung entspricht der gesetzlich vorgesehenen Vernichtung. Damit ist eine der zulässigen Massnahmen erfüllt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Es muss ein hinreichender Anlass (z. B. konkrete Gefahr, Verdacht auf Straftat) bestehen, der die Bearbeitung rechtfertigt.",
+          "label_impact": "material",
+          "reason": "Die gelieferten Quellen bestätigen nicht, dass bei jeder präventiven Bearbeitung nicht verifizierter Personendaten eine konkrete Gefahr oder ein Straftatverdacht erforderlich ist. Diese zusätzliche Voraussetzung könnte die gesetzlich zulässige Datenbearbeitung wesentlich einschränken."
+        },
+        {
+          "response_quote": "muss die Polizei die Bearbeitung unverzüglich einstellen",
+          "label_impact": "material",
+          "reason": "Die Quelle verlangt bei festgestellter Unrichtigkeit die Vernichtung oder Kennzeichnung der Daten. Eine davon unabhängige allgemeine Pflicht zur unverzüglichen Einstellung der gesamten Bearbeitung ist nicht geklärt. Diese Behauptung könnte die erfragte Rechtsfolge wesentlich verändern."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Alle drei Kernkriterien sind sinngemäss erfüllt. Zwei zusätzliche rechtliche Voraussetzungen beziehungsweise Pflichten sind durch die gelieferten Quellen nicht ausreichend geklärt und erfordern eine Durchsicht."
+    },
+    {
+      "response_id": "pol_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "pol_007",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "jedoch nur, soweit nicht überwiegende öffentliche oder private Interessen entgegenstehen.",
+          "reason": "Die Antwort erkennt die Einschränkung der Informationspflicht durch entgegenstehende überwiegende Interessen. Die Formulierung ist im gegebenen Kontext sinngemäss ausreichend."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Wenn schützenswerte übergeordnete Interessen einer Veröffentlichung entgegenstehen, ist die Polizei nicht verpflichtet, die Details öffentlich bekannt zu machen.",
+          "reason": "Die fehlende Veröffentlichungspflicht wird für den konkreten Fall ausdrücklich und zutreffend festgestellt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort nennt die gesetzliche Ausnahme und zieht daraus die richtige Schlussfolgerung für den geschilderten Fall."
+    },
+    {
+      "response_id": "pol_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "pol_008",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "ist der Regierungsrat des Kantons Luzern befugt",
+          "reason": "Das zuständige Organ wird korrekt bezeichnet."
+        },
+        {
+          "criterion_id": "2a",
+          "status": "met",
+          "response_quote": "mit dem Bund oder anderen Kantonen Vereinbarungen und Konkordate abzuschliessen",
+          "reason": "Die Befugnis zum Abschluss von Vereinbarungen und Konkordaten wird zutreffend genannt."
+        },
+        {
+          "criterion_id": "2b",
+          "status": "met",
+          "response_quote": "sowie mit anderen Kantonen ein gemeinsames Polizeikorps zu schaffen.",
+          "reason": "Die Befugnis zur Schaffung eines gemeinsamen Polizeikorps wird ausdrücklich genannt."
+        },
+        {
+          "criterion_id": "3a",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Der gesetzliche Vorbehalt der Rechte des Kantonsrates wird nicht erwähnt."
+        },
+        {
+          "criterion_id": "3b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Der gesetzliche Vorbehalt der Rechte der Stimmberechtigten wird nicht erwähnt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Zudem müssen sie im öffentlichen Interesse liegen und die Zuständigkeiten der Kantone respektieren.",
+          "label_impact": "material",
+          "reason": "Die gelieferten Quellen belegen diese zusätzlich behaupteten Voraussetzungen nicht. Da sie als Bedingungen für die Ausübung der erfragten Befugnis dargestellt werden, könnte ihre Unrichtigkeit die rechtliche Beurteilung wesentlich verändern."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Zuständigkeit und beide Befugnisse sind korrekt. Die zwei ausdrücklich verlangten gesetzlichen Vorbehalte fehlen. Stattdessen nennt die Antwort andere rechtliche Anforderungen, von denen mindestens eine entscheidende zusätzliche Behauptung nicht geklärt ist."
+    },
+    {
+      "response_id": "ren_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "ren_001",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Einsicht in das Übergabeprotokoll zu gewähren",
+          "reason": "Das Vorliegen des Rückgabeprotokolls ist bereits im Sachverhalt ausdrücklich festgelegt. Die Antwort bezieht sich auf dieses vorhandene Protokoll."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "ist der Vermieter verpflichtet, dem Mieter auf Verlangen Einsicht in das Übergabeprotokoll zu gewähren",
+          "reason": "Der Anspruch auf Einsicht wird richtig bejaht. Die Übergabesituation ergibt sich eindeutig aus der Frage."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Nach Art. 267a OR",
+          "source_id": "CH_OR_256a",
+          "basis_quote": "Art. 256 a 1 Ist bei Beendigung des vorangegangenen Mietverhältnisses ein Rückgabeprotokoll erstellt worden, so muss der Vermieter es dem neuen Mieter auf dessen Verlangen bei der Übergabe der Sache zur Einsicht vorlegen.",
+          "severity": "minor",
+          "reason": "Die Antwort nennt Art. 267a OR statt Art. 256a OR als Rechtsgrundlage. Die falsche Fundstelle verändert die inhaltlich richtige Fallentscheidung nicht."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Der Einsichtsanspruch wird korrekt bejaht. Das bereits feststehende Vorhandensein des Protokolls muss nicht erneut erläutert werden. Lediglich die Gesetzesfundstelle ist falsch."
+    },
+    {
+      "response_id": "ren_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "ren_002",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Solange die Arbeiten notwendig sind und die Mieterinteressen nicht unverhältnismässig beeinträchtigt werden, besteht eine Duldungspflicht.",
+          "reason": "Die Duldungspflicht für notwendige Reparaturarbeiten wird korrekt beschrieben. Der Zusammenhang mit dem Wasserrohrleck und der Erhaltung der Gebrauchstauglichkeit wird in der Antwort ebenfalls hergestellt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort bejaht die Duldungspflicht zutreffend und begründet sie mit der Notwendigkeit der Reparatur. Die zusätzlichen Hinweise zur Ankündigung und Rücksichtnahme sind mit der gelieferten Rechtsgrundlage vereinbar."
+    }
+  ]
+}

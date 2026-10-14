@@ -1,0 +1,172 @@
+{
+  "judgments": [
+    {
+      "response_id": "per_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "per_003",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "ein vorübergehender Ausbildungsaufenthalt begründet für sich allein keinen Wohnsitz nach Art. 23 ZGB.",
+          "reason": "Die Antwort verneint die Wohnsitzbegründung allein durch den Ausbildungsaufenthalt ausdrücklich."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "wo sie sich mit der Absicht dauernden Verbleibens aufhält.",
+          "reason": "Der Aufenthalt und die Absicht dauernden Verbleibens werden als allgemeine Wohnsitzvoraussetzungen genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Entscheidung und beide Voraussetzungen sind korrekt wiedergegeben. Die Antwort schliesst eine Wohnsitzbegründung am Ausbildungsort unter anderen Umständen nicht aus."
+    },
+    {
+      "response_id": "per_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "per_004",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Sie können weder aufgegeben noch eingeschränkt werden.",
+          "reason": "Zusammen mit der ausdrücklichen Nennung beider Fähigkeiten wird der Ausschluss eines vollständigen oder teilweisen Verzichts sinngemäss erfüllt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Der dauerhafte Verzicht wird zutreffend verneint und das gesetzliche Verzichtsverbot inhaltlich vollständig wiedergegeben."
+    },
+    {
+      "response_id": "per_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "per_005",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Die betroffene Person kann ein Feststellungsbegehren auf Beseitigung des Störungszustands stellen.",
+          "reason": "Die Antwort verwechselt die Feststellung der Widerrechtlichkeit mit der Beseitigung eines Störungszustands. Die verlangte Feststellung wird dadurch inhaltlich falsch bezeichnet."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Der Störungszustand muss weiterhin bestehen, obwohl die ursprüngliche widerrechtliche Handlung bereits beendet ist.",
+          "reason": "Die weiterhin bestehende störende Auswirkung wird als Voraussetzung erkannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Voraussetzung der fortdauernden Störung ist korrekt. Das verlangte Feststellungsbegehren wird jedoch mit einem Beseitigungsbegehren verwechselt. Dieser Kernfehler wird nicht nochmals als Zusatzfehler erfasst."
+    },
+    {
+      "response_id": "fam_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "fam_001",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "sorgen die Ehegatten gemeinsam, ein jeder nach seinen Kräften, für den gebührenden Unterhalt der Familie.",
+          "reason": "Die gemeinsame Unterhaltspflicht entsprechend den jeweiligen Kräften wird vollständig genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Es ist nicht zwingend erforderlich, dass jeder Ehegatte einen Geldbetrag leistet. Der Beitrag kann auch in natura erfolgen, etwa durch Haushaltsführung, Kinderbetreuung",
+          "reason": "Die Antwort verneint die zwingende Geldleistung und anerkennt Haushaltsführung sowie Kinderbetreuung als Unterhaltsbeiträge."
+        },
+        {
+          "criterion_id": "3",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Verständigung der Ehegatten über ihre jeweiligen Beiträge wird nicht erwähnt. Die Bezugnahme auf ihre Gesamtleistung ersetzt diese Aussage nicht."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Entscheidung und die möglichen Beitragsformen sind korrekt. Die gesetzlich vorgesehene Verständigung über die Beiträge fehlt."
+    },
+    {
+      "response_id": "fam_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "fam_002",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "hat die betreffende Person Anspruch auf einen angemessenen Betrag zur freien Verfügung.",
+          "reason": "Der Anspruch und die Angemessenheit werden ausdrücklich genannt. Dass der Betrag regelmässig auszurichten ist, fehlt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die eigenen Einkünfte der anspruchsberechtigten Person werden nicht als Gesichtspunkt der Festsetzung genannt. Die Leistungsfähigkeit des anderen Ehegatten ist nicht gleichbedeutend damit."
+        },
+        {
+          "criterion_id": "3",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Eine verantwortungsbewusste Vorsorge für Familie, Beruf oder Gewerbe wird nicht erwähnt. Die aufgezählten Bedürfnisse und Betreuungsumstände ersetzen diesen Gesichtspunkt nicht."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Die Dauer der Ehe und die Rollenverteilung",
+          "label_impact": "minor",
+          "reason": "Die Dauer der Ehe wird als eigenständiger Bemessungsgesichtspunkt genannt. Die gelieferte Quelle bestätigt dies nicht ausdrücklich. Die Behauptung betrifft eine ergänzende Bemessungsüberlegung und verändert weder den bejahten Anspruch noch die Bewertung der fehlenden gesetzlichen Kriterien."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Der grundsätzliche Anspruch wird richtig erkannt. Die Regelmässigkeit und beide ausdrücklich verlangten gesetzlichen Bemessungsgesichtspunkte fehlen. Die zusätzlichen Bemessungsüberlegungen ersetzen diese nicht."
+    },
+    {
+      "response_id": "fam_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "fam_003",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "der Ehegatte darf die Familienwohnung nach Art. 169 ZGB nicht ohne ausdrückliche Zustimmung des anderen Ehegatten verkaufen.",
+          "reason": "Die ausdrückliche Zustimmung des anderen Ehegatten wird zutreffend als Voraussetzung des Verkaufs genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "dass der verweigernde Ehegatte auf Antrag des anderen Ehegatten vom Gericht zur Erteilung der Zustimmung verpflichtet werden kann.",
+          "reason": "Die Möglichkeit der gerichtlichen Anrufung bei unbegründeter Verweigerung ist sinngemäss enthalten. Die Formulierung beschreibt zunächst eine Möglichkeit und keinen automatischen Erfolg."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Fehlt ein solcher Grund, wird die Zustimmung gerichtlich ersetzt.",
+          "label_impact": "material",
+          "reason": "Die Aussage stellt die gerichtliche Ersetzung bei fehlendem triftigem Grund als zwingende Folge dar. Art. 169 Abs. 2 ZGB nennt in der gelieferten Quelle lediglich die Möglichkeit, das Gericht anzurufen. Ob die Ersetzung unter den beschriebenen Umständen zwingend erfolgt, lässt sich daraus nicht abschliessend prüfen. Die Behauptung betrifft eine wesentliche Rechtsfolge."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Das Zustimmungserfordernis und die Möglichkeit der gerichtlichen Anrufung sind korrekt. Die weitergehende Aussage über eine zwingende gerichtliche Ersetzung benötigt eine rechtliche Überprüfung."
+    }
+  ]
+}

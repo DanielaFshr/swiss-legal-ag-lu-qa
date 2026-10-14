@@ -1,0 +1,156 @@
+{
+  "judgments": [
+    {
+      "response_id": "lab_012_20261014T072645Z_fb1d06_a1",
+      "item_id": "lab_012",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nach Art. 329d Abs. 2 OR dürfen Ferien während des Arbeitsverhältnisses nicht durch Geldleistungen oder andere Vergünstigungen abgegolten werden.",
+          "reason": "Das Verbot der Ferienabgeltung während des laufenden Arbeitsverhältnisses wird vollständig und korrekt wiedergegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verneint die Zulässigkeit korrekt und nennt die entscheidende gesetzliche Regelung. Die zusätzlichen Erläuterungen ändern die Beurteilung nicht."
+    },
+    {
+      "response_id": "ren_011_20261014T072645Z_fb1d06_a1",
+      "item_id": "ren_011",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Fehlt eine solche Vereinbarung, darf der Vermieter keine zusätzlichen Nebenkosten verlangen.",
+          "reason": "Die Antwort erkennt, dass ohne besondere Vereinbarung keine zusätzliche Zahlungspflicht für Nebenkosten besteht."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Entscheidung und die Begründung entsprechen Art. 257a Abs. 2 OR."
+    },
+    {
+      "response_id": "ren_012_20261014T072645Z_fb1d06_a1",
+      "item_id": "ren_012",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "der Vermieter verpflichtet, dem Mieter auf Verlangen Einsicht in die Belege zu gewähren",
+          "reason": "Der Anspruch auf Belegeinsicht auf Verlangen wird ausdrücklich und vollständig genannt."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Nach Art. 256b OR",
+          "source_id": "CH_OR_257b",
+          "basis_quote": "Art. 257 b 1 Bei Wohn- und Geschäftsräumen sind die Nebenkosten die tatsächlichen Aufwendungen des Vermieters",
+          "severity": "minor",
+          "reason": "Die angegebene Artikelnummer ist falsch. Die einschlägige Vorschrift ist Art. 257b OR. Der inhaltlich korrekt dargestellte Anspruch bleibt davon unberührt."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort bejaht den Anspruch zutreffend und erklärt, dass eine blosse Zusammenfassung nicht genügt. Lediglich die Gesetzesfundstelle ist falsch angegeben."
+    },
+    {
+      "response_id": "ren_013_20261014T072645Z_fb1d06_a1",
+      "item_id": "ren_013",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Da eine kleine Reinigung zum gewöhnlichen Unterhalt gehört, muss der Mieter die Reinigung vornehmen und die Kosten tragen.",
+          "reason": "Die Antwort ordnet die vorgegebene kleine Reinigung korrekt dem Mieter zu und nennt sowohl die Durchführung als auch die Kostentragung. Der Ortsgebrauch muss für diesen bereits konkretisierten Fall nicht ausdrücklich wiederholt werden."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Der Vermieter ist nur verpflichtet, grössere Mängel zu beheben, die den vertragsgemässen Gebrauch der Sache beeinträchtigen.",
+          "label_impact": "minor",
+          "reason": "Die pauschale Einschränkung der Vermieterpflichten lässt sich anhand des gelieferten Art. 259 OR nicht abschliessend überprüfen. Sie betrifft eine zusätzliche allgemeine Aussage und verändert die korrekte Zuordnung der konkret erfragten kleinen Reinigung nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die konkrete Frage wird vollständig beantwortet. Die zusätzliche allgemeine Aussage über Vermieterpflichten ist nicht Gegenstand des Bewertungskriteriums und bleibt anhand der gelieferten Quelle ungeklärt."
+    },
+    {
+      "response_id": "ren_014_20261014T072645Z_fb1d06_a1",
+      "item_id": "ren_014",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "Art. 263 OR verlangt die **Zustimmung des Vermieters** zur Übertragung des Mietvertrags auf eine Drittperson.",
+          "reason": "Die erforderliche Zustimmung des Vermieters wird genannt. Die gesetzlich vorgeschriebene Schriftlichkeit fehlt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Der Vermieter darf die Zustimmung **verweigern, wenn wichtige Gründe** gegen die Übertragung sprechen",
+          "reason": "Die Beschränkung der Verweigerung auf wichtige Gründe wird sinngemäss korrekt wiedergegeben."
+        },
+        {
+          "criterion_id": "3",
+          "status": "partial",
+          "response_quote": "Nach einer genehmigten Übertragung haftet der bisherige Mieter **höchstens für zwei Jahre** solidarisch mit der Drittperson für die Erfüllung der mietvertraglichen Pflichten.",
+          "reason": "Die solidarische Haftung und die Höchstgrenze von zwei Jahren werden korrekt genannt. Es fehlt die zusätzliche zeitliche Begrenzung auf das vertragliche oder gesetzliche Ende beziehungsweise den möglichen Beendigungszeitpunkt des Mietverhältnisses."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erfasst die Zustimmungspflicht, die wichtigen Gründe und die zweijährige Höchstgrenze. Die Schriftform und die weitere gesetzliche Begrenzung der Haftungsdauer fehlen."
+    },
+    {
+      "response_id": "ren_015_20261014T072645Z_fb1d06_a1",
+      "item_id": "ren_015",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Die Kündigungsfrist entfällt",
+          "reason": "Die Antwort behauptet ausdrücklich eine fristlose Kündigung. Art. 266g Abs. 1 OR verlangt dagegen die Einhaltung der gesetzlichen Kündigungsfrist."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "sie kann jederzeit ausgesprochen werden",
+          "reason": "Im Zusammenhang mit der beschriebenen ausserordentlichen Kündigung wird die zeitliche Flexibilität erkennbar. Die Kündigung ist auf einen beliebigen Zeitpunkt möglich. Der gesonderte Fehler zur Kündigungsfrist wird beim ersten Kriterium erfasst."
+        },
+        {
+          "criterion_id": "3",
+          "status": "partial",
+          "response_quote": "Die vermögensrechtlichen Folgen (Schadenersatz) werden durch den Richter bestimmt (Art. 266g Abs. 2 OR).",
+          "reason": "Die Zuständigkeit des Richters für die vermögensrechtlichen Folgen wird korrekt genannt. Die gesetzlich verlangte Würdigung aller Umstände fehlt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort widerspricht der gesetzlichen Kündigungsfrist ausdrücklich. Die Möglichkeit einer Kündigung auf einen beliebigen Zeitpunkt und die richterliche Zuständigkeit werden erkannt. Die Würdigung aller Umstände wird nicht erwähnt."
+    }
+  ]
+}

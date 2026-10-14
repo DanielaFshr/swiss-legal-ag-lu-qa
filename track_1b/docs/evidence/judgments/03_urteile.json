@@ -1,0 +1,263 @@
+{
+  "judgments": [
+    {
+      "response_id": "ren_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "ren_003",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Duldungspflicht wird bejaht, aber die gesetzliche Begrenzung auf für den Verkauf notwendige Besichtigungen wird nicht genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Der Vermieter muss die Besichtigung mindestens 48 Stunden im Voraus ankündigen.",
+          "reason": "Die Pflicht zur vorgängigen Ankündigung ist erfüllt. Die zusätzliche feste Frist ist gesondert zu prüfen."
+        },
+        {
+          "criterion_id": "3",
+          "status": "met",
+          "response_quote": "Die Besichtigungen dürfen den Mieter nicht unzumutbar belasten.",
+          "reason": "Die Rücksichtnahme auf die Interessen des Mieters wird durch die Zumutbarkeit und den Schutz seiner Privatsphäre sinngemäss erfasst."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "mindestens 48 Stunden im Voraus",
+          "label_impact": "material",
+          "reason": "Art. 257h OR verlangt eine rechtzeitige Ankündigung, legt aber keine feste Frist von 48 Stunden fest. Die behauptete Mindestfrist könnte die rechtlichen Voraussetzungen der Duldungspflicht wesentlich verändern."
+        },
+        {
+          "response_quote": "keine Besichtigung in Anwesenheit des Mieters, wenn dieser dies nicht wünscht, oder nur mit Einwilligung",
+          "label_impact": "material",
+          "reason": "Die Quelle enthält diese konkrete Einschränkung nicht. Ob der Mieter eine solche Bedingung stellen darf, bleibt ungeklärt und könnte die Reichweite der gesetzlichen Besichtigungspflicht wesentlich verändern."
+        },
+        {
+          "response_quote": "werktags zwischen 9 und 17 Uhr",
+          "label_impact": "minor",
+          "reason": "Das beispielhaft genannte Zeitfenster ist durch den Quellenausschnitt nicht ausdrücklich belegt. Da es als Beispiel formuliert ist, verändert es die wesentliche rechtliche Beurteilung nicht zwingend."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Duldungspflicht sowie die Ankündigung und Rücksichtnahme werden richtig beschrieben. Die Begrenzung auf notwendige Besichtigungen fehlt. Zwei zusätzliche Aussagen über konkrete Bedingungen der Besichtigung bedürfen einer rechtlichen Überprüfung."
+    },
+    {
+      "response_id": "ren_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "ren_004",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die grundsätzliche Pflicht des Mieters, notwendige Arbeiten zur Mängelbehebung zu dulden, wird nicht erwähnt."
+        },
+        {
+          "criterion_id": "2a",
+          "status": "met",
+          "response_quote": "dem Mieter rechtzeitig ankündigen",
+          "reason": "Die Pflicht zur rechtzeitigen Ankündigung wird ausdrücklich genannt."
+        },
+        {
+          "criterion_id": "2b",
+          "status": "met",
+          "response_quote": "auf dessen berechtigte Interessen Rücksicht nehmen",
+          "reason": "Die gesetzlich verlangte Rücksichtnahme wird ausdrücklich beschrieben."
+        },
+        {
+          "criterion_id": "3a",
+          "status": "met",
+          "response_quote": "Nach Art. 259d OR kann der Mieter bei einer erheblichen Beeinträchtigung des Gebrauchs eine angemessene Mietzinsherabsetzung verlangen.",
+          "reason": "Der Anspruch auf Mietzinsherabsetzung bei beeinträchtigtem Gebrauch wird richtig erkannt."
+        },
+        {
+          "criterion_id": "3b",
+          "status": "met",
+          "response_quote": "eine angemessene Mietzinsherabsetzung",
+          "reason": "Die Angemessenheit bringt die erforderliche Verhältnismässigkeit der Herabsetzung sinngemäss zum Ausdruck."
+        },
+        {
+          "criterion_id": "3c",
+          "status": "contradicted",
+          "response_quote": "Diese ist für die gesamte Dauer der Beeinträchtigung, also für die zwei Wochen der Arbeiten, geschuldet.",
+          "reason": "Die Antwort begrenzt den Anspruch auf die Dauer der Arbeiten. Nach Art. 259d OR beginnt der Anspruch bereits mit der Kenntnis des Vermieters vom Mangel. Im Sachverhalt besteht diese Kenntnis seit Längerem."
+        },
+        {
+          "criterion_id": "3d",
+          "status": "partial",
+          "response_quote": "für die gesamte Dauer der Beeinträchtigung, also für die zwei Wochen der Arbeiten",
+          "reason": "Die Dauer der Beeinträchtigung wird angesprochen. Das gesetzlich massgebende Ende bei Behebung des Mangels wird jedoch nicht ausdrücklich oder eindeutig sinngemäss bestimmt."
+        },
+        {
+          "criterion_id": "4a",
+          "status": "met",
+          "response_quote": "Anspruch auf Ersatz des durch den Mangel verursachten Schadens",
+          "reason": "Der erforderliche Schaden und dessen Zusammenhang mit dem Mangel werden ausdrücklich genannt."
+        },
+        {
+          "criterion_id": "4b",
+          "status": "partial",
+          "response_quote": "sofern der Vermieter den Mangel zu verantworten hat",
+          "reason": "Die Verschuldensfrage wird erkannt. Es fehlt jedoch die gesetzliche Möglichkeit des Vermieters, sich durch den Nachweis fehlenden Verschuldens zu entlasten."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Die Ankündigung erfolgte hier zu kurzfristig (Donnerstag für Montag)",
+          "label_impact": "material",
+          "reason": "Die Quelle schreibt keine bestimmte Ankündigungsfrist vor. Ob die Ankündigung im konkreten Fall verspätet war, lässt sich allein aus der Anzahl Tage nicht abschliessend bestimmen. Die kategorische Feststellung betrifft eine wesentliche Pflicht des Vermieters."
+        },
+        {
+          "response_quote": "Der Schadenersatzanspruch umfasst alle durch die Beeinträchtigung entstandenen Kosten, die nicht durch die Mietzinsherabsetzung abgegolten sind.",
+          "label_impact": "minor",
+          "reason": "Die genaue Abgrenzung zwischen Schadenersatz und Mietzinsherabsetzung ist aus den gelieferten Quellen nicht vollständig ersichtlich. Die zusätzliche Aussage betrifft die Umschreibung des Ersatzumfangs und verändert die ausdrücklich genannte Voraussetzung eines durch den Mangel verursachten Schadens nicht."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Pflichten zur Ankündigung und Rücksichtnahme sowie die grundsätzlichen Ansprüche auf Herabsetzung und Schadenersatz werden erkannt. Die Duldungspflicht fehlt. Der Beginn der Mietzinsherabsetzung wird falsch auf die Arbeitsdauer beschränkt und die Entlastungsmöglichkeit des Vermieters nicht vollständig dargestellt. Die kategorische Beurteilung der Ankündigungsfrist benötigt eine Überprüfung."
+    },
+    {
+      "response_id": "ren_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "ren_005",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "Ja, der Mieter muss eine Besichtigung der Wohnung zur Wiedervermietung nach der Kündigung gestatten.",
+          "reason": "Die grundsätzliche Duldungspflicht wird richtig bejaht. Es fehlt jedoch die ausdrücklich erfragte Voraussetzung, dass die Besichtigung für die Wiedervermietung notwendig sein muss. Stattdessen wird nur die Ankündigungspflicht aus Absatz 3 genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Ja-Entscheidung ist richtig. Die spezifisch nach Art. 257h Abs. 2 OR erfragte Voraussetzung der Notwendigkeit fehlt. Die zusätzlich genannte rechtzeitige Ankündigung ist gemäss Absatz 3 richtig, ersetzt die fehlende Voraussetzung jedoch nicht."
+    },
+    {
+      "response_id": "tou_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "tou_001",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Ja, ein Hotelbetreiber im Kanton Aargau muss eine Gästekontrolle führen.",
+          "reason": "Die gesetzliche Pflicht zur Gästekontrolle wird ausdrücklich und zutreffend bejaht. Die gewerbsmässige Beherbergung steht bereits im Sachverhalt fest."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Gemäss Art. 2 Abs. 1 des Bundesgesetzes über Aufenthalt und Niederlassung der Ausländer (ANAG) bzw. den kantonalen Ausführungsbestimmungen",
+          "label_impact": "minor",
+          "reason": "Die angegebene bundesrechtliche Grundlage und ihre Anwendbarkeit werden durch den gelieferten Auszug aus dem Gastgewerbegesetz nicht bestätigt. Die richtige Antwort zur Gästekontrolle ist unabhängig von dieser zusätzlichen Gesetzesangabe belegt."
+        },
+        {
+          "response_quote": "Der Hotelbetreiber muss die Personalien der Gäste erfassen und der zuständigen Behörde (Polizei) melden.",
+          "label_impact": "minor",
+          "reason": "Die gelieferte Quelle belegt die Pflicht zur Gästekontrolle, nicht aber die konkrete Meldepflicht gegenüber der Polizei. Diese zusätzliche Pflicht bleibt ungeklärt. Sie ist für die gestellte Ja-Nein-Frage nicht entscheidend."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die erfragte Pflicht zur Gästekontrolle wird vollständig und richtig beantwortet. Die zusätzlichen Ausführungen zu bundesrechtlichen Grundlagen und Polizeimeldungen sind nicht vollständig durch die gelieferten Quellen überprüfbar, beeinflussen die eigentliche Entscheidung jedoch nicht."
+    },
+    {
+      "response_id": "tou_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "tou_002",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Zudem ist keine Kostengutsprache geleistet, was eine zusätzliche Voraussetzung für eine mögliche Verpflichtung wäre.",
+          "reason": "Die Kostengutsprache wird zutreffend als erforderliche Voraussetzung erkannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Ohne Reservierung und ohne finanzielle Abgeltung besteht keine Aufnahmepflicht.",
+          "reason": "Die fehlende Kostengutsprache wird zusammen mit der richtigen Nein-Entscheidung ausdrücklich als Grund für den Wegfall der Aufnahmepflicht genannt. Die zusätzlich behauptete Reservierungspflicht ist gesondert als Fehler zu bewerten."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Nach dem Gastgewerbegesetz (GGG) besteht eine Aufnahmepflicht nur für Gäste, die ein Zimmer reserviert oder bestellt haben.",
+          "source_id": "AG_GGG_8",
+          "basis_quote": "Wer gewerbsmässig Gäste beherbergt, ist verpflichtet, Obdachlose vorübergehend aufzunehmen, wenn dafür Raum frei ist, der Gemeinderat es verlangt und Kostengutsprache leistet.",
+          "severity": "material",
+          "reason": "Die Antwort behauptet eine Reservierung als gesetzliche Voraussetzung. § 8 Abs. 1 GGG enthält keine solche Bedingung und sieht gerade eine Aufnahmepflicht für Obdachlose bei Erfüllung der drei genannten Voraussetzungen vor. Diese zusätzliche Einschränkung verändert den Anwendungsbereich der gesetzlichen Pflicht wesentlich."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Entscheidung im konkreten Fall ist richtig und die fehlende Kostengutsprache wird als entscheidende Voraussetzung erkannt. Die zusätzlich behauptete allgemeine Reservierungspflicht widerspricht jedoch dem gelieferten Gesetzestext und stellt einen wesentlichen rechtlichen Zusatzfehler dar."
+    },
+    {
+      "response_id": "tou_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "tou_003",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die gesetzliche Voraussetzung, dass für die Unterbringung Raum frei sein muss, wird nicht erwähnt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "Die Aufnahme muss auf Anordnung der Sozialhilfebehörde oder einer anderen zuständigen kantonalen Stelle erfolgen.",
+          "reason": "Eine behördlich verlangte Aufnahme wird als Voraussetzung erkannt. Die gesetzlich ausdrücklich zuständige Behörde, der Gemeinderat, wird jedoch nicht genannt. Stattdessen werden andere Behörden bezeichnet."
+        },
+        {
+          "criterion_id": "3",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die gesetzlich erforderliche Kostengutsprache des Gemeinderates wird nicht genannt."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Es muss eine akute Notlage vorliegen, die eine sofortige Unterbringung zwingend erforderlich macht",
+          "source_id": "AG_GGG_8",
+          "basis_quote": "Wer gewerbsmässig Gäste beherbergt, ist verpflichtet, Obdachlose vorübergehend aufzunehmen, wenn dafür Raum frei ist, der Gemeinderat es verlangt und Kostengutsprache leistet.",
+          "severity": "material",
+          "reason": "Die Antwort führt eine akute Notlage als zusätzliche zwingende Voraussetzung ein. Diese ist in § 8 Abs. 1 GGG nicht vorgesehen. Dadurch wird die gesetzliche Aufnahmepflicht wesentlich eingeschränkt."
+        },
+        {
+          "response_quote": "Freiwillige Aufnahme ohne behördliche Anordnung ist nicht rechtlich durchsetzbar.",
+          "source_id": "AG_GGG_8",
+          "basis_quote": "Wer gewerbsmässig Gäste beherbergt, ist verpflichtet, Obdachlose vorübergehend aufzunehmen, wenn dafür Raum frei ist, der Gemeinderat es verlangt und Kostengutsprache leistet.",
+          "severity": "minor",
+          "reason": "Die Aussage vermischt eine freiwillige Aufnahme mit der rechtlich durchsetzbaren Aufnahmepflicht. Das Gesetz regelt die Voraussetzungen der Verpflichtung und schliesst eine freiwillige Aufnahme nicht aus. Die Formulierung ist sachlich irreführend, ohne eine weitere eigenständige Voraussetzung festzulegen."
+        }
+      ],
+      "unverified_claims": [
+        {
+          "response_quote": "Ein dauerhafter Anspruch auf kostenlose oder verbilligte Unterbringung besteht nicht; die Betroffenen müssen auf eine langfristige Lösung (z. B. Sozialwohnung, betreutes Wohnen) hingewiesen werden.",
+          "label_impact": "minor",
+          "reason": "Die Quelle regelt die vorübergehende Aufnahmepflicht, enthält aber keine Bestimmung zu einer Hinweispflicht auf langfristige Unterbringungslösungen. Diese ergänzende Behauptung ist nicht belegt und für die drei ausdrücklich erfragten gesetzlichen Voraussetzungen nicht entscheidend."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Von den drei gesetzlich verlangten Voraussetzungen wird nur das behördliche Aufnahmeverlangen teilweise erkannt. Der freie Raum und die Kostengutsprache fehlen. Stattdessen werden eine akute Notlage und weitere nicht einschlägige Bedingungen aufgeführt. Die zusätzliche Notlage widerspricht dem gesetzlichen Voraussetzungskatalog."
+    }
+  ]
+}

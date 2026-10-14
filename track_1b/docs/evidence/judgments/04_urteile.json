@@ -1,0 +1,213 @@
+{
+  "judgments": [
+    {
+      "response_id": "tou_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "tou_004",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Art. 14 GGes LU verpflichtet den Betreiber zur Führung eines Gästebuchs.",
+          "reason": "Die Pflicht zur Führung einer Gästekontrolle wird sinngemäss genannt. Die falsche Fundstelle ändert daran nichts."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Pflicht zur wahrheitsgetreuen Führung der Gästekontrolle wird nicht genannt. Die Erfassung bestimmter Personalien allein erfüllt dieses Kriterium nicht."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Art. 14 GGes LU verpflichtet den Betreiber zur Führung eines Gästebuchs.",
+          "source_id": "LU_GaG_20",
+          "basis_quote": "§ 20 Gästekontrolle",
+          "severity": "minor",
+          "reason": "Die angegebene Fundstelle widerspricht der gelieferten gesetzlichen Grundlage. Die Ungenauigkeit verändert die inhaltlich zutreffend genannte Führungspflicht nicht."
+        }
+      ],
+      "unverified_claims": [
+        {
+          "response_quote": "Die Daten müssen während mindestens einem Jahr nach dem Aufenthalt aufbewahrt werden.",
+          "label_impact": "minor",
+          "reason": "Die gelieferte Quelle enthält keine Aufbewahrungsfrist. Die mögliche Unrichtigkeit betrifft eine nicht erfragte zusätzliche Pflicht."
+        },
+        {
+          "response_quote": "Es müssen Name, Vorname, Geburtsdatum, Staatsangehörigkeit, Adresse und Ausweisdaten (Pass oder ID) erfasst werden.",
+          "label_impact": "minor",
+          "reason": "Der genaue Datenumfang ist durch die gelieferte Quelle nicht überprüfbar. Er ist für die beiden bewerteten Kernpflichten nicht entscheidend."
+        },
+        {
+          "response_quote": "Diese Pflicht ist zwingend und stellt eine wesentliche Voraussetzung für die Erteilung und den Bestand der Betriebsbewilligung dar.",
+          "label_impact": "minor",
+          "reason": "Die behaupteten bewilligungsrechtlichen Folgen sind nicht belegt. Sie betreffen eine zusätzliche Rechtsfolge und nicht die erfragte Führungspflicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erkennt die Führungspflicht, lässt aber das gesetzliche Erfordernis der Wahrheitsgetreue aus. Mehrere nicht belegte Zusatzangaben betreffen nicht den Kern des Antwortauftrags."
+    },
+    {
+      "response_id": "tou_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "tou_005",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Der Hotelier muss die Anfrage prüfen und die Meldescheine nur herausgeben, wenn die Polizei einen gesetzlichen Anspruch nachweist und die Daten für den genannten Zweck erforderlich sind.",
+          "reason": "Die Antwort macht die gesetzliche Bereitstellungspflicht von zusätzlichen Nachweisen abhängig. § 20 Abs. 2 GaG sieht diese Einschränkung nicht vor. Die ausdrücklich verneinte Herausgabepflicht widerspricht dem erfragten Ergebnis."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verneint die unmittelbar gesetzlich vorgesehene Pflicht und ersetzt sie durch eine zusätzliche Einzelfallprüfung. Der Fehler ist bereits durch das Kriterium und den Entscheidungsstatus erfasst."
+    },
+    {
+      "response_id": "tou_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "tou_006",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nach Schweizer Recht ist die Nutzung einer elektronischen Plattform für die Gästedatenerfassung grundsätzlich zulässig",
+          "reason": "Die Zulässigkeit der elektronischen Datenerhebung wird ausdrücklich bestätigt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "Die Nutzung darf nicht einseitig erzwungen werden, es sei denn, sie ist gesetzlich vorgeschrieben.",
+          "reason": "Die Antwort erkennt grundsätzlich die Möglichkeit einer gesetzlich vorgesehenen obligatorischen Nutzung. Sie benennt jedoch weder die bestehende Ermächtigung des Regierungsrats noch deren Bezug zur Plattform für Tourismusabgaben und zu den Meldescheindaten."
+        },
+        {
+          "criterion_id": "3",
+          "status": "partial",
+          "response_quote": "Die Errichtung und der Betrieb der Plattform können durch den Beherbergungsbetrieb selbst, durch den Kanton/Landschaft oder durch eine öffentlich-private Partnerschaft finanziert werden.",
+          "reason": "Eine kantonale Beteiligung an Errichtung und Betrieb wird als Möglichkeit genannt. Die gesetzlich festgelegte Beteiligung des Kantons aus der kantonalen Beherbergungsabgabe fehlt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Die Errichtung und der Betrieb der Plattform können durch den Beherbergungsbetrieb selbst, durch den Kanton/Landschaft oder durch eine öffentlich-private Partnerschaft finanziert werden.",
+          "label_impact": "minor",
+          "reason": "Andere Finanzierungsmodelle neben der gesetzlich geregelten kantonalen Beteiligung sind durch den Quellenausschnitt nicht belegt. Ihre mögliche Zulässigkeit verändert die gesetzlich vorgeschriebene kantonale Beteiligung nicht."
+        },
+        {
+          "response_quote": "Gäste müssen freiwillig zustimmen oder die Nutzung muss zwingend durch Gesetz vorgeschrieben sein.",
+          "label_impact": "material",
+          "reason": "Die behauptete Zustimmungsvoraussetzung ist anhand der Quelle nicht überprüfbar. Ihre mögliche Unrichtigkeit könnte eine wesentliche zusätzliche Voraussetzung für die elektronische Meldescheinerfassung schaffen und damit die erfragte Zulässigkeit verändern."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Zulässigkeit wird richtig erkannt. Die gesetzliche Kompetenz des Regierungsrats und die Finanzierungsregelung werden nur teilweise erfasst. Eine ungeklärte zusätzliche Zustimmungsvoraussetzung ist für die Frage möglicherweise wesentlich."
+    },
+    {
+      "response_id": "tou_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "tou_007",
+      "not_attempted": false,
+      "decision_status": "missing",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Antwort behandelt die obligatorische Plattformnutzung nicht und nennt die erforderliche Erklärung durch den Regierungsrat nicht."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Die elektronische Erfassung über die Plattform zur Erhebung der Tourismusabgaben entbindet nicht automatisch von der Pflicht, den Meldeschein den Polizeiorganen zur Verfügung zu stellen.",
+          "reason": "Die fortbestehende Pflicht zur Bereitstellung der Meldescheine wird im Zusammenhang mit der elektronischen Erfassung eindeutig bestätigt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Die elektronische Übermittlung ersetzt lediglich die physische Abgabe, nicht aber die Meldepflicht an die Polizei.",
+          "label_impact": "material",
+          "reason": "§ 20 regelt die Bereitstellung der Meldescheine, aber keinen direkten technischen Polizeizugriff und keinen bestimmten elektronischen Übermittlungsweg. Ob eine elektronische Übermittlung die physische Abgabe ersetzen darf, ist anhand der Quelle nicht entscheidbar. Die Aussage betrifft die Erfüllung der erfragten Polizeipflicht."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Antwort bestätigt die fortbestehende Bereitstellungspflicht. Sie beantwortet jedoch nicht, unter welchen Voraussetzungen die Plattformnutzung obligatorisch wird. Die zusätzliche Aussage zur elektronischen Übermittlung bleibt ungeklärt."
+    },
+    {
+      "response_id": "ban_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "ban_001",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1a",
+          "status": "contradicted",
+          "response_quote": "Nach Schweizer Recht haftet der Kanton Aargau grundsätzlich nicht für Verbindlichkeiten der Aargauischen Kantonalbank.",
+          "reason": "Die Aussage widerspricht unmittelbar der Staatsgarantie nach § 5 AKBG."
+        },
+        {
+          "criterion_id": "1b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die subsidiäre Haftung bei unzureichenden eigenen Mitteln wird nicht als bestehende gesetzliche Regelung erkannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Der Ausschluss nachrangiger Darlehen wird nicht erwähnt."
+        },
+        {
+          "criterion_id": "3",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Der Ausschluss von Verbindlichkeiten der Tochtergesellschaften wird nicht erwähnt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort bestreitet die gesetzlich ausdrücklich bestehende Staatsgarantie. Weder die subsidiäre Haftung noch die beiden gesetzlichen Ausnahmen werden richtig dargestellt."
+    },
+    {
+      "response_id": "ban_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "ban_002",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nach Schweizer Recht haftet der Kanton Aargau für die Verbindlichkeiten der Aargauischen Kantonalbank",
+          "reason": "Der haftende Kanton wird eindeutig und richtig bezeichnet."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Die gesetzliche Staatsgarantie (Kantonsgarantie) greift, wenn die eigenen Mittel der Anstalt nicht ausreichen, um ihre Verbindlichkeiten zu erfüllen.",
+          "reason": "Die Antwort erkennt die subsidiäre Staatsgarantie. Die eigene nicht nachrangige Anleihe ist im Sachverhalt bereits festgelegt und muss nicht erneut bezeichnet werden."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "der Kanton haftet also nur, wenn die Anstalt selbst insolvent ist und ihre Mittel nicht ausreichen.",
+          "label_impact": "material",
+          "reason": "Die Antwort ergänzt Insolvenz als Voraussetzung. § 5 AKBG verlangt lediglich, dass die eigenen Mittel nicht ausreichen. Ob Insolvenz hier bloss umgangssprachlich gemeint ist oder als zusätzliche rechtliche Voraussetzung verstanden wird, bleibt unklar. Eine zusätzliche Voraussetzung könnte den Umfang der erfragten Staatsgarantie wesentlich einschränken."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Der Kanton Aargau und die subsidiäre Haftung werden richtig genannt. Die zusätzliche Insolvenzaussage erfordert eine Überprüfung, weil sie die gesetzliche Haftung möglicherweise zu eng beschreibt."
+    }
+  ]
+}

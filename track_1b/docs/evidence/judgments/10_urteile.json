@@ -1,0 +1,178 @@
+{
+  "judgments": [
+    {
+      "response_id": "mob_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_008",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Da der Abschnitt der Gemeindestrasse im Verzweigungsbereich mit einer Kantonsstrasse liegt",
+          "reason": "Die Antwort erkennt den massgebenden Verzweigungsbereich und weist die Verkehrsanordnung dem Kanton Aargau zu."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Für die Verkehrsanordnung und die Signalisation ist der Kanton Aargau zuständig.",
+          "reason": "Die kantonale Zuständigkeit wird ausdrücklich auch auf die Signalisation bezogen. Markierungen müssen im konkreten Fall nicht zusätzlich genannt werden."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "sind die Kantone für den Strassenverkehr auf Kantonsstrassen sowie auf Gemeindestrassen innerhalb von Ortschaften zuständig.",
+          "source_id": "AG_SVG_1",
+          "basis_quote": "Verkehrsanordnungen gemäss Art. 3 Abs. 2–4 des Strassenverkehrsgesetzes (SVG) vom 19. Dezember 1958 [3] werden für Kantonsstrassen sowie Gemeindestrassen im Bereiche von Verzweigungen mit Kantonsstrassen durch die kantonale Behörde und für Gemeindestrassen sowie private Strassen durch den Gemeinderat erlassen.",
+          "severity": "material",
+          "reason": "Die Antwort behauptet eine allgemeine kantonale Zuständigkeit für innerörtliche Gemeindestrassen. Die Quelle weist Gemeindestrassen grundsätzlich dem Gemeinderat zu und macht für Verzweigungsbereiche eine Ausnahme. Die falsche Verallgemeinerung verändert die Zuständigkeitsregel wesentlich."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die konkret erfragte Zuständigkeit für Verkehrsanordnung und Signalisation wird richtig bestimmt. Die zusätzliche allgemeine Begründung zur Zuständigkeit für innerörtliche Gemeindestrassen widerspricht jedoch der gelieferten Zuständigkeitsregel."
+    },
+    {
+      "response_id": "mob_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "mob_009",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "kann der Anwohner gegen den abschlägigen Einspracheentscheid Beschwerde erheben.",
+          "reason": "Die Beschwerdemöglichkeit gegen den Einspracheentscheid wird ausdrücklich erkannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "In der Regel 30 Tage ab Eröffnung der Verfügung",
+          "reason": "Die verlangte Frist von 30 Tagen wird genannt. Die relativierende Formulierung ändert nichts daran, dass die richtige Frist angegeben wird."
+        },
+        {
+          "criterion_id": "3",
+          "status": "contradicted",
+          "response_quote": "**Instanz:** Kantonales Verwaltungsgericht des Kantons Aargau.",
+          "reason": "Die Antwort bezeichnet das Verwaltungsgericht als Beschwerdeinstanz. Gemäss § 2 der gelieferten kantonalen Regelung ist jedoch der Regierungsrat zuständig."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Rechtsmittel und Beschwerdefrist werden richtig genannt. Die ausdrücklich erfragte Beschwerdeinstanz ist falsch. Die fehlerhafte rechtliche Begründung zur Instanz wird nicht nochmals als Zusatzfehler gezählt."
+    },
+    {
+      "response_id": "agr_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "agr_001",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "sind die Kantone verpflichtet, einen Pflanzenschutzdienst zu unterhalten.",
+          "reason": "Die gesetzliche Pflicht der Kantone wird ausdrücklich und vollständig wiedergegeben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Dieser Dienst muss insbesondere die korrekte Durchführung der inländischen Bekämpfungsmassnahmen sicherstellen",
+          "reason": "Die zentrale Aufgabe des Pflanzenschutzdienstes wird sinngemäss vollständig beschrieben. Der Zusammenhang mit Schadorganismen ergibt sich aus dem anschliessenden Satzteil."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort entspricht in beiden verlangten Punkten Art. 150 LwG. Die zusätzlichen Erläuterungen zum Zweck des Pflanzenschutzes sind mit der Quelle vereinbar."
+    },
+    {
+      "response_id": "agr_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "agr_002",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "besteht eine Meldepflicht bei dem Verdacht oder dem Nachweis von besonders gefährlichen Schadorganismen.",
+          "reason": "Die Meldepflicht für besonders gefährliche Schadorganismen wird erkannt. Aus der gesamten Antwort geht hervor, dass diese auch den mit Pflanzenmaterial handelnden Betrieb betrifft."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Ja, der Gärtnerhandel verstösst gegen eine Pflicht.",
+          "reason": "Die Pflichtverletzung wird ausdrücklich bejaht und mit der unterlassenen Meldung des Befalls begründet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Wer solches Pflanzenmaterial besitzt oder verhandelt, muss dies unverzüglich dem zuständigen kantonalen Pflanzenschutzdienst melden (Art. 15 PGes).",
+          "label_impact": "minor",
+          "reason": "Die gelieferte Quelle belegt die Meldepflicht nach Art. 152 Abs. 2bis LwG. Die zusätzliche Ausdehnung auf sämtliche Besitzer sowie die konkrete Frist, Meldestelle und zitierte Rechtsgrundlage lassen sich aus dem Ausschnitt nicht bestätigen. Für die Beurteilung des importierenden Gärtnerhandels sind diese zusätzlichen Angaben nicht entscheidend."
+        },
+        {
+          "response_quote": "kann zu verwaltungsrechtlichen Sanktionen (z. B. Verbote, Bussgelder) führen",
+          "label_impact": "minor",
+          "reason": "Die gelieferten Quellen enthalten keine Sanktionsregelung. Diese Nebenbemerkung verändert die erfragte Feststellung der Pflichtverletzung nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Meldepflicht und ihre Verletzung durch den importierenden Gärtnerhandel werden richtig erkannt. Mehrere zusätzliche rechtliche Angaben sind durch den gelieferten Quellenausschnitt nicht überprüfbar, bleiben aber für die konkrete Entscheidung nebensächlich."
+    },
+    {
+      "response_id": "agr_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "agr_004",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "trägt der Bund die Kosten der Bekämpfungsmassnahmen, wenn diese vom Kanton durchgeführt werden.",
+          "reason": "Die Antwort weist die Durchführungskosten dem Bund zu. Nach Art. 154 LwG führen die Kantone die ihnen übertragenen Massnahmen auf eigene Rechnung durch."
+        },
+        {
+          "criterion_id": "2a",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die reguläre Bundesbeteiligung von 50 Prozent wird nicht genannt."
+        },
+        {
+          "criterion_id": "2b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die mögliche Bundesbeteiligung von bis zu 75 Prozent in ausserordentlichen Situationen fehlt."
+        },
+        {
+          "criterion_id": "2c",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Bemessung anhand der anerkannten kantonalen Kosten für Massnahmen nach Art. 153 wird nicht angegeben. Die pauschale Aussage zur Kostentragung durch den Bund ersetzt diese Information nicht."
+        },
+        {
+          "criterion_id": "3a",
+          "status": "partial",
+          "response_quote": "Der Bauer erhält für die vernichtete Kultur eine Entschädigung",
+          "reason": "Die Antwort erkennt eine Entschädigung im Zusammenhang mit der Vernichtung der Kultur. Sie stellt deren Ausrichtung jedoch als sicher dar und nennt die gesetzlich vorgesehene Abfindung nach Billigkeit nicht."
+        },
+        {
+          "criterion_id": "3b",
+          "status": "met",
+          "response_quote": "jedoch nicht automatisch eine volle Entschädigung",
+          "reason": "Der fehlende automatische Anspruch auf volle Entschädigung wird ausdrücklich und korrekt festgestellt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verkennt die primäre Kostentragung durch den Kanton und nennt weder die reguläre noch die ausserordentliche Bundesbeteiligung. Bei der Entschädigung erkennt sie den fehlenden Anspruch auf vollen Ersatz, stellt aber eine Entschädigungsleistung zu verbindlich dar und berücksichtigt den Billigkeitsvorbehalt nicht ausreichend."
+    }
+  ]
+}

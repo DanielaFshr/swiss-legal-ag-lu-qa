@@ -1,0 +1,174 @@
+{
+  "judgments": [
+    {
+      "response_id": "dat_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "dat_006",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "sowohl den Verantwortlichen als auch den Auftragsbearbeiter",
+          "reason": "Die Antwort nennt beide gesetzlich verpflichteten Personen ausdrücklich."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Die angemessenen Massnahmen zur Gewährleistung der Datensicherheit umfassen technische und organisatorische Vorkehrungen",
+          "reason": "Technische und organisatorische Massnahmen werden ausdrücklich genannt. Der abschliessende Satz verlangt zudem eine Angemessenheit gegenüber den spezifischen Risiken."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide Kriterien sind vollständig erfüllt. Die zusätzlichen Beispiele für Sicherheitsmassnahmen stehen nicht im Widerspruch zur gelieferten Rechtsgrundlage."
+    },
+    {
+      "response_id": "dat_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "dat_007",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "Die Datenbearbeitung muss nach den Vorschriften des DSG und den Weisungen des Auftraggebers erfolgen.",
+          "reason": "Die Einhaltung der Weisungen des Auftraggebers beschreibt einen richtigen Teil der zulässigen Auftragsbearbeitung. Es fehlt jedoch die entscheidende gesetzliche Begrenzung, dass die Daten nur so bearbeitet werden dürfen, wie der Verantwortliche selbst es tun dürfte."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Voraussetzung, dass keine gesetzliche oder vertragliche Geheimhaltungspflicht die Übertragung verbieten darf, wird nicht erwähnt."
+        },
+        {
+          "criterion_id": "3",
+          "status": "partial",
+          "response_quote": "dass der Dienstleister angemessene technische und organisatorische Massnahmen zum Schutz der Daten implementiert hat",
+          "reason": "Die Antwort verlangt eine Vergewisserung über bereits implementierte Sicherheitsmassnahmen. Sie erfasst damit einen wesentlichen Teil, formuliert aber nicht ausdrücklich die umfassendere gesetzliche Anforderung, dass der Auftragsbearbeiter zur Gewährleistung der Datensicherheit in der Lage sein muss."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Der Auftragsbearbeiter muss hinreichende Garantien bieten, insbesondere hinsichtlich der technischen und organisatorischen Massnahmen sowie des bestehenden oder vorgesehenen Verfahrens zur Datenbearbeitung.",
+          "label_impact": "material",
+          "reason": "Die Aussage wird als erste der zwei Voraussetzungen nach Art. 9 Abs. 1 DSG präsentiert. Die gelieferte Quelle enthält diese Voraussetzung nicht in dieser Form. Ob sie als zusätzliche rechtliche Anforderung zutrifft, lässt sich anhand des Quellenausschnitts nicht abschliessend entscheiden. Ihre mögliche Unrichtigkeit betrifft unmittelbar die erfragten Übertragungsvoraussetzungen."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verfehlt eine der zwei ausdrücklich verlangten Voraussetzungen und beschreibt die andere nur teilweise. Die Vergewisserung hinsichtlich der Datensicherheit wird inhaltlich weitgehend behandelt. Eine zusätzliche als gesetzliche Voraussetzung dargestellte Behauptung bleibt überprüfungsbedürftig."
+    },
+    {
+      "response_id": "wel_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "wel_009",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "wird die Elternschaftsbeihilfe in erster Linie der Mutter gewährt",
+          "reason": "Die Antwort beschränkt den gesetzlichen Adressatenkreis auf eine vorrangige Begünstigung der Mutter. § 26 SPG nennt hingegen wirtschaftlich schwache Eltern beziehungsweise Elternteile ohne eine solche Vorrangstellung. Die wirtschaftliche Schwäche als entscheidendes Merkmal fehlt zusätzlich."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Der Anspruch besteht für einen Zeitraum von 14 Wochen nach der Geburt.",
+          "reason": "Die angegebene Dauer von 14 Wochen widerspricht den gesetzlich vorgesehenen ersten sechs Monaten nach der Geburt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort nennt sowohl einen unzutreffend eingeschränkten Adressatenkreis als auch einen falschen Zeitraum. Beide Kernkriterien stehen im Widerspruch zur gelieferten Gesetzesbestimmung."
+    },
+    {
+      "response_id": "wel_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "wel_010",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "kann die wirtschaftliche Sozialhilfe gekürzt oder eingestellt werden, wenn Auflagen verletzt werden. Es besteht jedoch kein Automatismus zur vollständigen Einstellung.",
+          "reason": "Die Antwort verneint die automatische vollständige Einstellung und bezeichnet Kürzung oder Einstellung zutreffend als mögliche Rechtsfolgen."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Die Behörde muss eine Verhältnismässigkeitsprüfung vornehmen",
+          "reason": "Die erforderliche Angemessenheit der Massnahme gegenüber dem Fehlverhalten wird sinngemäss und im Zusammenhang mit dem Umfang der Kürzung wiedergegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Entscheidung Nein ist richtig begründet. Beide gesetzlich verlangten Elemente sind inhaltlich erfüllt."
+    },
+    {
+      "response_id": "dat_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "dat_008",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Die Information der betroffenen Person entfällt nicht, weil die Daten nicht bei ihr beschafft wurden.",
+          "reason": "Die Antwort stellt eindeutig klar, dass auch bei indirekter Beschaffung eine Informationspflicht besteht."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Die Information muss spätestens bei der ersten Bekanntgabe an Dritte erfolgen.",
+          "reason": "Für den geschilderten Fall einer Bekanntgabe vor Ablauf der Monatsfrist wird der späteste Informationszeitpunkt zutreffend angegeben."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Nach Art. 14 des Schweizer Datenschutzgesetzes (DSG)",
+          "source_id": "CH_DSG_19",
+          "basis_quote": "Art. 19 Informationspflicht bei der Beschaffung von Personendaten",
+          "severity": "minor",
+          "reason": "Die Antwort verweist auf Art. 14 statt auf den einschlägigen Art. 19 DSG. Die falsche Fundstelle ändert die inhaltlich richtige Beantwortung der beiden Fragen nicht."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide Kernkriterien sind erfüllt. Die falsche Artikelnummer ist ein belegter, nicht entscheidender Zusatzfehler."
+    },
+    {
+      "response_id": "dat_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "dat_009",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "muss ein privates Unternehmen eine Datenschutz-Folgenabschätzung erstellen, wenn es eine Bearbeitung besonders schützenswerter Personendaten oder Profile mit hohem Risiko plant und keine gesetzliche Ausnahme greift.",
+          "reason": "Die Pflicht zur Datenschutz-Folgenabschätzung für die geplante risikoreiche Bearbeitung wird richtig erkannt. Der verlangte Zeitpunkt vor Beginn der Bearbeitung wird jedoch nicht ausdrücklich oder eindeutig sinngemäss genannt. Das Wort plant beschreibt den Sachverhalt, legt den Zeitpunkt der Erstellung aber nicht zweifelsfrei fest."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Eine Identifikation und Beschreibung der Risiken für die Rechte und Freiheiten der betroffenen Personen sowie der vorgesehenen Massnahmen zur Risikominderung.",
+          "reason": "Zusammen mit dem ersten Aufzählungspunkt zur Beschreibung der geplanten Datenbearbeitung sind alle drei verlangten Inhaltsgruppen vorhanden. Die Risikobewertung und die Schutzmassnahmen werden durch die Beschreibung der Risiken und der vorgesehenen Risikominderung sinngemäss abgedeckt. Die zusätzliche Prüfung von Notwendigkeit und Verhältnismässigkeit ist für die Erfüllung unschädlich."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erkennt die Pflicht zur Datenschutz-Folgenabschätzung und nennt alle drei wesentlichen Inhaltsgruppen. Der ausdrücklich erfragte vorgängige Erstellungszeitpunkt bleibt jedoch offen."
+    }
+  ]
+}

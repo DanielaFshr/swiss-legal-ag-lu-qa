@@ -1,0 +1,187 @@
+{
+  "judgments": [
+    {
+      "response_id": "imp_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "imp_004",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Die Unlauterkeit setzt nicht voraus, dass der Täter das Geheimnis selbst wirtschaftlich nutzt.",
+          "reason": "Die Antwort bestätigt ausdrücklich, dass die Mitteilung unlauter ist und keine eigene wirtschaftliche Verwertung voraussetzt."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "nach Art. 5 lit. a UWG",
+          "source_id": "CH_UWG_6",
+          "basis_quote": "Art. 6 Verletzung von Fabrikations- und Geschäftsgeheimnissen",
+          "severity": "minor",
+          "reason": "Die Antwort nennt Art. 5 lit. a statt Art. 6 UWG. Der inhaltliche Kern ist dennoch richtig. Die falsche Fundstelle verändert die Fallbeurteilung nicht."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die entscheidende Rechtsfolge und die fehlende Voraussetzung einer eigenen Verwertung werden korrekt erklärt. Lediglich die Gesetzesfundstelle ist falsch."
+    },
+    {
+      "response_id": "imp_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "imp_005",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Unterlassung",
+          "reason": "Unterlassung bezeichnet sinngemäss das Verbot einer drohenden Verletzung."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Beseitigung",
+          "reason": "Die Beseitigung einer bestehenden Verletzung ist ausdrücklich genannt."
+        },
+        {
+          "criterion_id": "3",
+          "status": "contradicted",
+          "response_quote": "Unterlassung, Beseitigung und Widerruf. Für das Feststellungsbegehren gilt die besondere Voraussetzung, dass ein rechtliches Interesse an der Feststellung besteht.",
+          "reason": "Die Antwort nennt Widerruf anstelle der Feststellung als drittes Begehren. Zudem ersetzt sie die gesetzliche Voraussetzung der weiterhin störenden Auswirkung durch ein allgemeines rechtliches Interesse. Die verlangte besondere Voraussetzung wird damit falsch angegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Zwei Begehren sind korrekt. Das dritte Begehren und seine besondere gesetzliche Voraussetzung werden falsch wiedergegeben. Diese Fehler sind bereits im dritten Kriterium erfasst."
+    },
+    {
+      "response_id": "pos_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "pos_001",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Das Unternehmen muss dies der PostCom (Postkommission) melden.",
+          "reason": "Die zuständige Meldebehörde wird richtig genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "entscheidet über die Zulassung von Anbieterinnen und Anbietern von Postdiensten.",
+          "reason": "Gefragt ist die Registrierung durch die PostCom. Stattdessen beschreibt die Antwort eine Zulassungsentscheidung. Das setzt ein anderes Verfahren an die Stelle der gesetzlich vorgesehenen Registrierung."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Meldung an die PostCom ist korrekt. Die anschliessende Registrierung wird jedoch durch eine unzutreffende Beschreibung als Zulassungsentscheidung ersetzt."
+    },
+    {
+      "response_id": "pos_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "pos_002",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Eine reine Staffelung allein nach Transportdistanz ist daher nicht zulässig, wenn sie diese Grundsätze verletzt",
+          "reason": "Die Antwort macht die Unzulässigkeit einer Distanzstaffelung von einer Verletzung anderer Grundsätze abhängig. Art. 16 Abs. 2 PG verlangt jedoch unabhängig davon distanzunabhängige Preise. Die konditionale Aussage widerspricht diesem zwingenden Grundsatz."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "Alle Kunden müssen gleichbehandelt werden; es dürfen keine ungerechtfertigten Unterschiede gemacht werden.",
+          "reason": "Die Gleichbehandlung beschreibt einen erkennbaren Teil des Gedankens einheitlicher Grundsätze. Die Antwort nennt diesen gesetzlichen Preisgrundsatz jedoch nicht ausdrücklich und reduziert ihn auf das Verbot ungerechtfertigter Unterschiede."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Die Preise dürfen die tatsächlichen Kosten der Leistung nicht unterschreiten.",
+          "label_impact": "material",
+          "reason": "Die Behauptung einer zwingenden Kostendeckung jeder einzelnen Leistung wird durch Art. 16 der gelieferten Quelle nicht bestätigt. Sie wird als eigenständiger Preisgrundsatz dargestellt und könnte die rechtliche Beurteilung der zulässigen Preisgestaltung wesentlich verändern."
+        },
+        {
+          "response_quote": "wenn sie zu überhöhten Preisen in abgelegenen Regionen oder zu Quersubventionen führt",
+          "label_impact": "minor",
+          "reason": "Die genannten Beispiele werden durch den Quellenausschnitt nicht als Voraussetzungen für die Unzulässigkeit einer Distanzstaffelung belegt. Sie sind erläuternde Nebenbeispiele. Der zentrale Fehler der bedingten statt zwingenden Distanzunabhängigkeit ist bereits im ersten Kriterium erfasst."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Das einleitende Nein ist richtig. Die anschliessende Begründung macht das Verbot jedoch von zusätzlichen Bedingungen abhängig und verfehlt damit die zwingende Distanzunabhängigkeit. Der Gedanke einheitlicher Grundsätze wird teilweise getroffen. Eine zusätzliche wesentliche Preisbehauptung bleibt anhand der Quellen ungeklärt."
+    },
+    {
+      "response_id": "pos_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "pos_003",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "eine Gewichtsgrenze von **1 kg**",
+          "reason": "Die angegebene Gewichtsgrenze von 1 kg widerspricht der gesetzlichen Grenze von 50 Gramm."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die gesetzliche Ausnahme für abgehende Briefe im internationalen Verkehr wird nicht erwähnt."
+        },
+        {
+          "criterion_id": "3",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die gesetzliche Ausnahme bei Bezahlung des Zweieinhalbfachen des massgebenden Postpreises wird nicht genannt."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Diese Ausnahmen ermöglichen die Zustellung schwererer Briefe im reservierten Dienst, wenn besondere Sicherheits- oder Zahlungsmodalitäten bestehen.",
+          "source_id": "CH_PG_18",
+          "basis_quote": "Die Post hat das ausschliessliche Recht, Briefe bis 50 Gramm zu befördern (reservierter Dienst).",
+          "severity": "material",
+          "reason": "Die Antwort behauptet eine Ausdehnung des reservierten Dienstes auf schwerere Briefe aufgrund besonderer Modalitäten. Die gesetzliche Gewichtsgrenze wird dadurch nicht erweitert. Dies verändert den Umfang des ausschliesslichen Beförderungsrechts."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Gewichtsgrenze ist falsch und beide ausdrücklich verlangten Ausnahmen fehlen. Stattdessen werden Wertangabe und Nachnahme genannt. Die abschliessende Erklärung enthält zusätzlich eine falsche Ausdehnung des reservierten Dienstes."
+    },
+    {
+      "response_id": "pos_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "pos_004",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "die Fernmeldeverbindungen herstellt oder vermittelt, über die die überwachte Kommunikation abgewickelt wird.",
+          "reason": "Die Antwort bezeichnet eine an der betreffenden Kommunikation beteiligte Anbieterin. Die gesetzlich entscheidende Zuständigkeit für die Verwaltung der Fernmeldedienstleistung oder der geringste technische Vollzugsaufwand wird jedoch nicht ausreichend beschrieben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Er orientiert sich dabei an den Angaben der Anbieterin, die die Verbindung zur überwachten Rufnummer oder Adresse bereitstellt.",
+          "reason": "Die Antwort nennt Angaben einer Anbieterin statt der Angaben der Behörde, welche die Überwachung angeordnet hat. Damit wird die massgebliche Informationsquelle falsch bezeichnet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erkennt den Bezug zur beteiligten Fernmeldedienstanbieterin. Die gesetzlichen Auswahlkriterien bleiben jedoch unzureichend. Die Orientierung an den Angaben der anordnenden Behörde wird ausdrücklich durch eine andere Informationsquelle ersetzt."
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "judgments": [
+    {
+      "response_id": "ban_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "ban_003",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "oft im Bereich von 10–20 % des Gewinns",
+          "reason": "Die Antwort nennt eine gewinnabhängige Abgeltung statt des gesetzlich festgelegten Satzes von 1 %."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "richtet sich nach den jeweiligen Gewinnverhältnissen der Bank",
+          "reason": "Die Bemessungsgrundlage ist gemäss § 5 Abs. 2 das banken- und börsenrechtlich erforderliche Eigenkapital und nicht der Jahresgewinn."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "wird im Rahmen der vertraglichen Vereinbarungen zwischen dem Kanton und der Bank festgelegt",
+          "label_impact": "minor",
+          "reason": "Eine zusätzliche vertragliche Festlegung ist durch den gelieferten Gesetzesauszug nicht belegt. Die Behauptung betrifft einen weiteren Festlegungsmechanismus. Der wesentliche Fehler zur gesetzlichen Bemessungsgrundlage ist bereits durch die Kriterien erfasst."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort nennt weder den gesetzlich festgelegten Prozentsatz noch die richtige Bemessungsgrundlage. Stattdessen beschreibt sie ausdrücklich eine gewinnabhängige Abgeltung und widerspricht damit § 5 Abs. 2 des Aargauer Kantonalbankgesetzes."
+    },
+    {
+      "response_id": "ban_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "ban_004",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Der Kanton haftet nur subsidiär und ausnahmsweise, wenn die Bank aufgelöst wird und ihre eigenen Mittel zur Deckung der Verbindlichkeiten nicht ausreichen",
+          "reason": "Die Antwort erkennt ausdrücklich, dass das Vorhandensein eigener Mittel die Haftung nicht ausschliesst. Entscheidend ist deren ausreichende Deckung."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "Der Kanton haftet nur subsidiär und ausnahmsweise, wenn die Bank aufgelöst wird und ihre eigenen Mittel zur Deckung der Verbindlichkeiten nicht ausreichen",
+          "reason": "Die subsidiäre Haftung bei unzureichenden Mitteln wird erkannt. Die Antwort beschreibt jedoch keine ausdrückliche Beschränkung auf den ungedeckten Teil und fügt die Auflösung der Bank als weitere Voraussetzung hinzu."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "wenn die Bank aufgelöst wird und ihre eigenen Mittel zur Deckung der Verbindlichkeiten nicht ausreichen",
+          "source_id": "LU_Bank_5",
+          "basis_quote": "Der Kanton Luzern haftet im Sinn der Bundesgesetzgebung über die Banken und Sparkassen für alle Verbindlichkeiten der Luzerner Kantonalbank, soweit deren eigene Mittel nicht ausreichen.",
+          "severity": "material",
+          "reason": "Die Antwort macht die Auflösung der Bank zu einer zusätzlichen Voraussetzung der Staatshaftung. § 5 knüpft die Haftung jedoch an die unzureichende Deckung durch eigene Mittel und verlangt keine Auflösung der Bank. Dies schränkt die gesetzliche Haftung wesentlich ein."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die bedingte Haftung des Kantons wird im Kern erkannt. Die zusätzliche Voraussetzung einer Bankauflösung widerspricht jedoch dem gesetzlichen Haftungsumfang. Die einleitende Verneinung ist im Zusammenhang mit der späteren subsidiären Haftung zu beurteilen und begründet allein keine falsche Entscheidung."
+    },
+    {
+      "response_id": "ban_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "ban_005",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "bemisst sich nach dem **Bilanzvolumen** der Bank",
+          "reason": "Die Antwort bezeichnet das Bilanzvolumen als Bemessungsgrundlage. Gesetzlich vorgesehen sind jedoch 0,2 % des gesetzlichen Eigenmittelbedarfs."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "das Bilanzvolumen als massgebliche Grösse dient",
+          "reason": "Die Antwort stellt das Bilanzvolumen als massgebende Grösse dar und widerspricht damit der gesetzlichen zweiten Komponente von 2 % des Zwischenergebnisses."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort nennt ausschliesslich das Bilanzvolumen als Bemessungsgrundlage und widerspricht damit der gesetzlichen Berechnung aus Eigenmittelbedarf und Zwischenergebnis. Beide vorgeschriebenen Komponenten fehlen."
+    },
+    {
+      "response_id": "ban_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "ban_006",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "erstattet die Luzerner Kantonalbank den jährlichen Bericht",
+          "reason": "Als Berichterstatter wird die Bank selbst bezeichnet. § 7 Abs. 1 bestimmt ausdrücklich die aktienrechtliche Revisionsstelle als berichtspflichtige Instanz."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Der Bericht wird an den Regierungsrat des Kantons Luzern erstattet.",
+          "reason": "Der Regierungsrat wird zutreffend als Empfänger des Berichts genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "da dieser die Aufsicht über die Kantonalbank ausübt",
+          "label_impact": "minor",
+          "reason": "Die gelieferte Quelle bestimmt den Regierungsrat als Berichtsempfänger, beschreibt aber nicht den Umfang seiner Aufsicht. Diese zusätzliche Begründung ist für die erfragten Rollen nicht entscheidend."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Der Empfänger des Berichts wird richtig angegeben. Die Antwort verwechselt jedoch die Luzerner Kantonalbank mit der gesetzlich zuständigen aktienrechtlichen Revisionsstelle."
+    },
+    {
+      "response_id": "civ_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "civ_001",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "bestellt die Kantonsregierung die Aufsichtsbehörde im Zivilstandswesen",
+          "reason": "Die Antwort ordnet die Bestellung der Aufsichtsbehörde der kantonalen Ebene zu. Damit ist die nach Art. 45 Abs. 1 ZGB erfragte Zuständigkeit sinngemäss erfüllt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "liegt die Kompetenz zur Einsetzung der Aufsichtsbehörde bei der jeweiligen Kantonsregierung",
+          "label_impact": "minor",
+          "reason": "Art. 45 Abs. 1 ZGB weist die Zuständigkeit dem Kanton zu, nennt aber nicht ausdrücklich die Kantonsregierung als zuständiges Organ. Die zusätzliche organisatorische Festlegung ist durch den gelieferten Auszug nicht bestätigt. Die erfragte kantonale Zuständigkeit bleibt davon unberührt."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Zuständigkeit des Kantons wird sinngemäss richtig wiedergegeben. Die zusätzliche Konkretisierung auf die Kantonsregierung ist aus der gelieferten Bundesnorm allein nicht überprüfbar und für die gestellte Frage nicht erforderlich."
+    },
+    {
+      "response_id": "civ_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "civ_002",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "**Aufsicht über die Zivilstandsämter**",
+          "reason": "Die gesetzliche Aufsicht über die Zivilstandsämter wird ausdrücklich genannt und zutreffend erläutert."
+        },
+        {
+          "criterion_id": "2a",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Unterstützung der Zivilstandsämter als eigenständige Aufgabe wird nicht genannt."
+        },
+        {
+          "criterion_id": "2b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Beratung der Zivilstandsämter wird nicht erwähnt."
+        },
+        {
+          "criterion_id": "3a",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Mitwirkung bei der Registerführung wird nicht beschrieben. Die Entscheidung über Einsprachen gegen Registereintragungen ist nicht mit der gesetzlichen Mitwirkung bei der Registerführung gleichzusetzen."
+        },
+        {
+          "criterion_id": "3b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Mitwirkung beim Vorbereitungsverfahren der Eheschliessung wird nicht genannt."
+        },
+        {
+          "criterion_id": "4a",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Verfügungen über die Anerkennung und Eintragung ausländischer Zivilstandstatsachen werden nicht erwähnt."
+        },
+        {
+          "criterion_id": "4b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Verfügungen über ausländische Entscheidungen zum Personenstand werden nicht genannt."
+        },
+        {
+          "criterion_id": "5a",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Ausbildung der im Zivilstandswesen tätigen Personen wird nicht erwähnt."
+        },
+        {
+          "criterion_id": "5b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Weiterbildung dieser Personen wird nicht erwähnt."
+        },
+        {
+          "criterion_id": "6",
+          "status": "met",
+          "response_quote": "erstattet dem Bundesamt für Justiz Bericht über die Durchführung der Zivilstandsangelegenheiten",
+          "reason": "Die Berichterstattung an das Bundesamt für Justiz wird im Kontext als Berichterstattung an das dort angesiedelte Eidgenössische Amt für das Zivilstandswesen anerkannt. Die Berichtstätigkeit zum Vollzug ist sinngemäss erfasst."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "**Entscheidung über Einsprachen**: Sie entscheidet über Einsprachen gegen Eintragungen oder Änderungen im Zivilstandsregister, wenn keine Einigung zwischen den Beteiligten erzielt werden kann.",
+          "label_impact": "material",
+          "reason": "Diese konkrete Entscheidungszuständigkeit ist durch die gelieferten Quellen nicht belegt. Da die Frage mindestens vier Aufgaben verlangt und die gesetzliche Aufzählung nicht abschliessend ist, könnte eine rechtlich zutreffende zusätzliche Aufgabe für die Erfüllung der Mindestzahl wesentlich sein."
+        },
+        {
+          "response_quote": "**Genehmigung von Namensänderungen**: Sie prüft und genehmigt Gesuche um Namensänderungen, sofern die gesetzlichen Voraussetzungen erfüllt sind.",
+          "label_impact": "material",
+          "reason": "Die behauptete Zuständigkeit zur Genehmigung von Namensänderungen wird durch die gelieferten Quellen nicht bestätigt. Ihre mögliche Anerkennung als zusätzliche Aufgabe könnte die Erfüllung der verlangten Mindestzahl beeinflussen."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": true,
+      "reason": "Die Aufsicht und die Berichterstattung sind als zwei verschiedene Aufgaben belegt. Die allgemeine Koordination wird nicht nochmals als eigenständige Aufgabe gezählt, da sie hier die Aufsicht beschreibt. Zwei weitere ausdrücklich genannte Aufgaben sind mit den gelieferten Quellen nicht überprüfbar. Da die Frage mindestens vier Aufgaben aus einer nicht abschliessenden Aufgabenliste verlangt, ist eine Überprüfung dieser zusätzlichen Zuständigkeiten erforderlich."
+    }
+  ]
+}

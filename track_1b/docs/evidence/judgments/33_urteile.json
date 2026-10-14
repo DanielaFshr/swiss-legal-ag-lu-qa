@@ -1,0 +1,177 @@
+{
+  "judgments": [
+    {
+      "response_id": "tax_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "tax_002",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "grundsätzlich auf 60 % der mittleren Marktmiete festgelegt",
+          "reason": "Die Antwort nennt ausdrücklich 60 Prozent statt der gesetzlich vorgeschriebenen 70 Prozent."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "den durchschnittlichen Mietzins, der für vergleichbare Objekte in der gleichen Lage und mit ähnlichen Eigenschaften auf dem freien Markt erzielt wird",
+          "reason": "Die mittlere Marktmiete wird sinngemäss zutreffend als erzielbarer durchschnittlicher Mietzins vergleichbarer Objekte an vergleichbarer Lage beschrieben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Definition der mittleren Marktmiete ist korrekt. Der gesetzliche Prozentsatz wird jedoch ausdrücklich falsch angegeben."
+    },
+    {
+      "response_id": "tax_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "tax_003",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die notwendige Fortdauer der Steuerpflicht in der Schweiz wird nicht genannt. Die Fortführung des wirtschaftlichen Zwecks ersetzt diese Voraussetzung nicht."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Die Buchwerte der übertragenen Aktiven und Passiven müssen unverändert in die Bilanz der neuen juristischen Person übernommen werden.",
+          "reason": "Die unveränderte Übernahme der Buchwerte beschreibt im Zusammenhang mit der steuerneutralen Umstrukturierung sinngemäss die Fortführung der bisher für die Gewinnsteuer massgeblichen Werte."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Die umgewandelte juristische Person muss den gleichen wirtschaftlichen Zweck wie die ursprüngliche juristische Person verfolgen.",
+          "label_impact": "material",
+          "reason": "Die Antwort stellt die unveränderte wirtschaftliche Zweckbestimmung als allgemeine gesetzliche Voraussetzung dar. § 75 Abs. 1 nennt diese Voraussetzung nicht. Ob sie sich aus weiteren Rechtsgrundlagen ergeben könnte, lässt sich anhand der gelieferten Quelle nicht abschliessend beurteilen. Ihre mögliche Unrichtigkeit betrifft unmittelbar die erfragten Voraussetzungen der Steuerneutralität."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Fortführung der steuerlich massgeblichen Werte ist sinngemäss enthalten. Die Fortdauer der schweizerischen Steuerpflicht fehlt. Stattdessen nennt die Antwort eine zusätzliche nicht hinreichend verifizierte Voraussetzung zur wirtschaftlichen Zweckbestimmung."
+    },
+    {
+      "response_id": "tax_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "tax_004",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "Nach Art. 19 Abs. 2 DBG erfolgt eine Nachbesteuerung, wenn innerhalb der nachfolgenden fünf Jahre Beteiligungsrechte zu einem Preis veräussert werden, der über dem übertragenen steuerlichen Eigenkapital liegt.",
+          "reason": "Die Nachbesteuerung und ihre zeitlichen sowie preislichen Voraussetzungen werden richtig genannt. Es fehlt jedoch die ausdrückliche Zuordnung der Nachbesteuerung zu den übertragenen stillen Reserven. Die anschliessende Beschreibung einer Erlösdifferenz ersetzt diese Zuordnung nicht vollständig."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die gesetzliche Möglichkeit der juristischen Person, entsprechend als Gewinn versteuerte stille Reserven geltend zu machen, wird nicht erwähnt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Die Nachbesteuerung umfasst die Differenz zwischen dem Veräusserungserlös und dem übertragenen steuerlichen Eigenkapital, die als Einkommen aus selbständiger Erwerbstätigkeit erfasst wird.",
+          "label_impact": "material",
+          "reason": "Die Antwort beschreibt den Umfang der Nachbesteuerung unmittelbar als Differenz zwischen Veräusserungserlös und übertragenem steuerlichem Eigenkapital. Die Quelle bestimmt dagegen eine Nachbesteuerung der übertragenen stillen Reserven insoweit. Ob die behauptete Differenz in jedem Fall der massgeblichen Bemessungsgrundlage entspricht, ist anhand des gelieferten Ausschnitts nicht abschliessend geklärt. Dies betrifft die wesentliche erfragte Rechtsfolge."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erkennt den Nachbesteuerungsfall und dessen Voraussetzungen. Sie benennt die übertragenen stillen Reserven nicht ausdrücklich als Gegenstand der Nachbesteuerung und lässt das gesetzliche Recht der juristischen Person zur Geltendmachung der versteuerten stillen Reserven vollständig aus."
+    },
+    {
+      "response_id": "edu_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "edu_001",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "in der Regel an den kantonalen Berufsschulen angeboten",
+          "reason": "Die Antwort beschreibt den regelmässigen Ausbildungsort sinngemäss zutreffend. Kantonale Berufsschulen sind im vorliegenden Kontext als öffentliche Berufsfachschulen zu verstehen."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "Die Aufnahme, der Unterricht sowie der Abschluss werden durch die Verordnung über die Berufsmaturität im Kanton Aargau (BMV AG) in Erlassform geregelt.",
+          "reason": "Die Regelung von Aufnahme, Unterricht und Abschluss durch eine Verordnung wird genannt. Die gesetzlich zuständige Behörde, der Regierungsrat, wird jedoch nicht bezeichnet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "obliegt die Organisation und Durchführung der Berufsmaturität den kantonalen Berufsschulen",
+          "label_impact": "minor",
+          "reason": "Die Quelle nennt die öffentlichen Berufsfachschulen als regelmässigen Ausbildungsort. Ob ihnen damit auch die gesamte Organisation und Durchführung in der behaupteten Form obliegt, lässt sich daraus nicht abschliessend ableiten. Die Zusatzbehauptung betrifft nicht die entscheidende Zuständigkeit für den Verordnungserlass."
+        },
+        {
+          "response_quote": "Verordnung über die Berufsmaturität im Kanton Aargau (BMV AG)",
+          "label_impact": "minor",
+          "reason": "Die genaue Bezeichnung und Abkürzung dieser Verordnung sind durch die gelieferte Quelle nicht überprüfbar. Die Frage verlangt lediglich die Erlassform. Eine mögliche Ungenauigkeit des Titels verändert die erfragte Regelungskompetenz nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Der regelmässige Ausbildungsort und die Erlassform werden sinngemäss richtig angegeben. Die ausdrückliche Nennung des Regierungsrats als zuständige Behörde fehlt."
+    },
+    {
+      "response_id": "edu_002_20261014T072645Z_fb1d06_a1",
+      "item_id": "edu_002",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "einen Beitragssatz von **50 %** der anrechenbaren Ausgaben",
+          "reason": "§ 54 Abs. 2 GBW schreibt 60 Prozent vor. Entsprechend beträgt der Beitrag bei zwei Millionen Franken anrechenbaren Ausgaben 1,2 Millionen Franken statt der ebenfalls falsch genannten einen Million Franken."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Sowohl der Beitragssatz von 50 statt 60 Prozent als auch der daraus berechnete Betrag von einer Million statt 1,2 Millionen Franken sind falsch."
+    },
+    {
+      "response_id": "edu_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "edu_003",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "legt der Regierungsrat die Leistungsaufträge im Bereich des kantonalen Berufsbildungsangebots fest",
+          "reason": "Nach § 33 Abs. 2 legt das Bildungs- und Kulturdepartement die Leistungsaufträge fest und nicht der Regierungsrat."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "der Genehmigung durch das Staatssekretariat für Bildung, Forschung und Innovation (SBFI) bedürfen",
+          "reason": "Für die erfragten kantonalen Leistungsaufträge schreibt § 33 Abs. 2 eine Genehmigung durch den Regierungsrat vor. Die Antwort nennt stattdessen das SBFI und bezieht sich auf Angebote der höheren Berufsbildung."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Leistungsaufträge für Angebote der höheren Berufsbildung der Genehmigung durch das Staatssekretariat für Bildung, Forschung und Innovation (SBFI) bedürfen",
+          "label_impact": "minor",
+          "reason": "Ob für andere Angebote der höheren Berufsbildung tatsächlich eine Genehmigung durch das SBFI vorgeschrieben ist, lässt sich anhand der gelieferten Quelle nicht beurteilen. Für die konkret erfragten kantonalen Leistungsaufträge steht die falsche Zuständigkeitsangabe bereits im Widerspruch zum Bewertungskriterium. Eine mögliche zusätzliche Regelung für andere Angebote verändert diese Beurteilung nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verwechselt die Zuständigkeiten. Das Bildungs- und Kulturdepartement legt die kantonalen Leistungsaufträge fest und der Regierungsrat genehmigt sie. Beide erfragten Behördenfunktionen werden falsch zugeordnet."
+    }
+  ]
+}

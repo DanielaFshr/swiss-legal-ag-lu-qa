@@ -1,0 +1,166 @@
+{
+  "judgments": [
+    {
+      "response_id": "tou_016_20261014T072645Z_fb1d06_a1",
+      "item_id": "tou_016",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Der Betrieb darf somit frühestens um 04:00 Uhr öffnen",
+          "reason": "Die angegebene früheste Öffnungszeit von 04:00 Uhr widerspricht der gesetzlichen Grenze von 5.00 Uhr."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "muss spätestens um 24:00 Uhr schliessen",
+          "reason": "Die genannte Schliessungszeit von 24:00 Uhr widerspricht der regulären Sperrstunde um 0.30 Uhr."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide ausdrücklich erfragten Uhrzeiten sind falsch. Die Antwort widerspricht in beiden Kernpunkten § 24 Abs. 1 GaG."
+    },
+    {
+      "response_id": "tou_017_20261014T072645Z_fb1d06_a1",
+      "item_id": "tou_017",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "den zuständigen Aufsichtsorganen jederzeit Zutritt zu den Betriebsräumen zu gewähren",
+          "reason": "Die Zutrittsgewährung zu den Betriebsräumen setzt die Kontrollbefugnis der zuständigen Aufsichtsorgane eindeutig voraus."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Eine Verweigerung oder Erschwerung des Zutritts ist unzulässig",
+          "reason": "Das Verbot der Verhinderung und Erschwerung der Kontrolle wird sinngemäss vollständig wiedergegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "jederzeit Zutritt zu den Betriebsräumen zu gewähren und die Kontrolle zu erleichtern",
+          "label_impact": "minor",
+          "reason": "Die Quelle nennt die Kontrollbefugnis und das Verbot der Verhinderung oder Erschwerung. Ob darüber hinaus ein zeitlich uneingeschränktes Zutrittsrecht und eine eigenständige aktive Erleichterungspflicht bestehen, lässt sich aus dem gelieferten Ausschnitt nicht abschliessend beurteilen. Diese Zusätze verändern die korrekt wiedergegebenen Kernregeln nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide erfragten Regeln werden zutreffend wiedergegeben. Die weitergehenden Aussagen zur zeitlichen Reichweite des Zutrittsrechts und zur aktiven Erleichterungspflicht bleiben ungeklärt, sind für die Kernbewertung aber nicht entscheidend."
+    },
+    {
+      "response_id": "pol_013_20261014T072645Z_fb1d06_a1",
+      "item_id": "pol_013",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "liegt die Verantwortung und Befehlsgewalt bei der Kantonspolizei Aargau",
+          "reason": "Die Antwort weist sowohl Verantwortung als auch Befehlsgewalt ausdrücklich der Kantonspolizei zu."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort entspricht der eindeutigen Zuständigkeitsregel für gemeinsame Einsätze gemäss § 2 Abs. 3 PolG AG."
+    },
+    {
+      "response_id": "pol_014_20261014T072645Z_fb1d06_a1",
+      "item_id": "pol_014",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "erlässt die Vollzugsbestimmungen in Form einer Verordnung (Regierungsratsverordnung)",
+          "reason": "Die gesetzlich vorgeschriebene Erlassform wird korrekt angegeben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Antwort nennt die für diesen Fall zwingende vorgängige Anhörung der Gemeinden nicht. Die allgemeine Einschränkung für spezialgesetzliche Regelungen ersetzt die konkrete Anwendung von § 7a Abs. 2 PolG AG nicht. Die Formulierung schliesst solche Ausnahmen jedoch nicht ausdrücklich aus."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Gemäss Art. 66 der Verfassung des Kantons Aargau (KV AG) erlässt der Regierungsrat die zum Vollzug der Gesetze notwendigen Verordnungen.",
+          "label_impact": "minor",
+          "reason": "Die genaue Verfassungsgrundlage ist in den gelieferten Quellen nicht enthalten. Ihre mögliche Unrichtigkeit würde die durch § 7a Abs. 1 PolG AG belegte Verordnungskompetenz nicht verändern."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Verordnungsform ist richtig. Die speziell für Vollzugsbestimmungen mit Bezug zu Gemeindepolizeikräften vorgeschriebene Anhörung der Gemeinden fehlt. Die allgemeinen Ausführungen zu möglichen spezialgesetzlichen Ausnahmen genügen dafür nicht."
+    },
+    {
+      "response_id": "pol_015_20261014T072645Z_fb1d06_a1",
+      "item_id": "pol_015",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die erforderliche Glaubhaftigkeit des Bestands der privaten Rechte wird nicht genannt. Eine unmittelbare Gefahr für private Rechte ist keine gleichwertige Aussage über deren glaubhaften Bestand."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Der betroffene Private kann seine Rechte nicht selbst wirksam und rechtzeitig durch zivilrechtliche Mittel (z. B. Klage, einstweilige Verfügung) schützen.",
+          "reason": "Zusammen mit dem Hinweis auf das Abwarten einer gerichtlichen Entscheidung bringt die Antwort sinngemäss zum Ausdruck, dass rechtzeitiger gerichtlicher Schutz nicht erlangt werden kann. Die fehlende ausdrückliche Nennung des verwaltungsbehördlichen Schutzes schadet nicht, da die genannten Schutzwege Alternativen darstellen."
+        },
+        {
+          "criterion_id": "3",
+          "status": "partial",
+          "response_quote": "Es muss eine unmittelbare Gefahr für private Rechte bestehen, die nicht abgewartet werden kann",
+          "reason": "Die zeitliche Dringlichkeit und die drohende Gefährdung privater Rechte werden angesprochen. Es fehlt jedoch die konkrete Voraussetzung, dass ohne vorsorgliche Massnahmen die Ausübung des Rechts vereitelt oder unverhältnismässig erschwert würde."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort beschreibt die Dringlichkeit und fehlenden rechtzeitigen Rechtsschutz sinngemäss zutreffend. Sie ersetzt jedoch die Glaubhaftigkeit des Rechtsbestands und die spezifische drohende Beeinträchtigung der Rechtsausübung durch eine allgemeine Gefahren- und Verhältnismässigkeitsprüfung. Damit sind die drei gesetzlichen Voraussetzungen nicht vollständig wiedergegeben."
+    },
+    {
+      "response_id": "pol_016_20261014T072645Z_fb1d06_a1",
+      "item_id": "pol_016",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Da die Identität vor Ort nicht gesichert werden konnte und dies für die weitere Abwicklung (z. B. zur Verhinderung von Identitätsmissbrauch oder zur Klärung der Umstände der Anhaltung) erforderlich ist, erfüllt der Transport auf den Polizeiposten die Voraussetzungen dieser Bestimmung.",
+          "reason": "Die Antwort erkennt die unsichere Identitätsfeststellung vor Ort als Grundlage für das Führen auf den Polizeiposten an und bejaht die Massnahme ausdrücklich."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "wenn dies für die Abklärung eines Sachverhalts oder zur Verhinderung einer Straftat notwendig ist",
+          "label_impact": "material",
+          "reason": "Die Antwort stellt zusätzliche Voraussetzungen als Inhalt von § 9 Abs. 3 PolG dar, obwohl die gelieferte Bestimmung andere konkrete Voraussetzungen nennt. Unklar bleibt, ob die behauptete allgemeine Notwendigkeit für Sachverhaltsabklärungen oder die Verhinderung einer Straftat aus anderen Rechtsgrundlagen abgeleitet werden könnte. Als zusätzliche Voraussetzung verstanden würde sie die gesetzliche Befugnis wesentlich einschränken. Deshalb ist eine Überprüfung erforderlich."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die konkrete Fallentscheidung und die entscheidende Begründung sind richtig. Die Antwort schreibt § 9 Abs. 3 PolG zusätzlich eine allgemeine Notwendigkeitsvoraussetzung zu, deren rechtliche Tragweite anhand der gelieferten Quellen nicht abschliessend beurteilt werden kann."
+    }
+  ]
+}

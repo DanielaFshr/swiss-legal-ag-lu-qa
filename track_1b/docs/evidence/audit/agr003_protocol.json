@@ -1,0 +1,66 @@
+{
+  "run_id": "20261014T212852Z_7e47ec",
+  "api_model": "swiss-ai/Apertus-v1.5-70B:featherless-ai",
+  "settings": {
+    "temperature": 0,
+    "max_tokens": 1200
+  },
+  "responses": [
+    {
+      "response_id": "agr_003_20261014T212852Z_7e47ec_a1",
+      "item_id": "agr_003",
+      "model_id": "swiss-ai/Apertus-v1.5-70B",
+      "provider": "featherless-ai",
+      "model_response": "Nach Art. 153 des Bundesgesetzes über die Landwirtschaft (LwG) kann der Bundesrat zur Bekämpfung besonders gefährlicher Schadorganismen drei Massnahmengruppen anordnen:  \n1. **Einfuhrbeschränkungen** (Verbot oder Einschränkung der Einfuhr von Pflanzen, Pflanzenteilen oder anderen Objekten, die Schadorganismen übertragen können);  \n2. **Verbringungsbeschränkungen** (Verbot oder Einschränkung des innerstaatlichen Verbringens von betroffenen Objekten);  \n3. **Beseitigungs- oder Vernichtungsmassnahmen** (Pflicht zur Vernichtung oder Behandlung von befallenen Objekten).  \n\n**Isolation:** Befallene Pflanzen, Pflanzenteile oder andere Objekte, die Träger des Schadorganismus sein können, dürfen isoliert werden. Die Isolation darf **höchstens 10 Jahre** dauern, sofern dies zur Verhinderung der Ausbreitung notwendig ist.",
+      "prompt": "Beantworte die folgende Frage nach Schweizer Recht. Antworte kurz und begründe mit den wesentlichen Voraussetzungen.\n\nWelche drei Massnahmengruppen kann der Bundesrat nach Art. 153 LwG zur Bekämpfung besonders gefährlicher Schadorganismen anordnen? Erläutern Sie auch, welche Objekte isoliert werden können und wie lange die Isolation dauern darf.",
+      "started_at_utc": "2026-10-14T21:28:57.839552+00:00",
+      "completed_at_utc": "2026-10-14T21:29:10.107413+00:00",
+      "duration_seconds": 12.268,
+      "finish_reason": "stop",
+      "needs_technical_review": false,
+      "effective_settings": {
+        "temperature": 0,
+        "max_tokens": 1200
+      },
+      "generation_attempt": 1,
+      "usage": {
+        "completion_tokens": 220,
+        "prompt_tokens": 146,
+        "total_tokens": 366,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": null,
+        "cached_tokens": 0
+      }
+    }
+  ],
+  "attempts": [
+    {
+      "response_id": "agr_003_20261014T212852Z_7e47ec_a1",
+      "item_id": "agr_003",
+      "model_id": "swiss-ai/Apertus-v1.5-70B",
+      "provider": "featherless-ai",
+      "model_response": "Nach Art. 153 des Bundesgesetzes über die Landwirtschaft (LwG) kann der Bundesrat zur Bekämpfung besonders gefährlicher Schadorganismen drei Massnahmengruppen anordnen:  \n1. **Einfuhrbeschränkungen** (Verbot oder Einschränkung der Einfuhr von Pflanzen, Pflanzenteilen oder anderen Objekten, die Schadorganismen übertragen können);  \n2. **Verbringungsbeschränkungen** (Verbot oder Einschränkung des innerstaatlichen Verbringens von betroffenen Objekten);  \n3. **Beseitigungs- oder Vernichtungsmassnahmen** (Pflicht zur Vernichtung oder Behandlung von befallenen Objekten).  \n\n**Isolation:** Befallene Pflanzen, Pflanzenteile oder andere Objekte, die Träger des Schadorganismus sein können, dürfen isoliert werden. Die Isolation darf **höchstens 10 Jahre** dauern, sofern dies zur Verhinderung der Ausbreitung notwendig ist.",
+      "prompt": "Beantworte die folgende Frage nach Schweizer Recht. Antworte kurz und begründe mit den wesentlichen Voraussetzungen.\n\nWelche drei Massnahmengruppen kann der Bundesrat nach Art. 153 LwG zur Bekämpfung besonders gefährlicher Schadorganismen anordnen? Erläutern Sie auch, welche Objekte isoliert werden können und wie lange die Isolation dauern darf.",
+      "started_at_utc": "2026-10-14T21:28:57.839552+00:00",
+      "completed_at_utc": "2026-10-14T21:29:10.107413+00:00",
+      "duration_seconds": 12.268,
+      "finish_reason": "stop",
+      "needs_technical_review": false,
+      "effective_settings": {
+        "temperature": 0,
+        "max_tokens": 1200
+      },
+      "generation_attempt": 1,
+      "usage": {
+        "completion_tokens": 220,
+        "prompt_tokens": 146,
+        "total_tokens": 366,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": null,
+        "cached_tokens": 0
+      }
+    }
+  ],
+  "errors": [],
+  "client_version": "2.54.0"
+}

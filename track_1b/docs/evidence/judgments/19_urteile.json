@@ -1,0 +1,154 @@
+{
+  "judgments": [
+    {
+      "response_id": "ins_012_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_012",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Ja, dies ist nach dem kantonalen Einführungsgesetz zum SchKG möglich.",
+          "reason": "Die Möglichkeit, mehrere Gemeinden zu einem gemeinsamen Betreibungskreis zusammenzufassen, wird ausdrücklich bestätigt und erläutert."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "eine Genehmigung durch die kantonale Aufsichtsbehörde (im Kanton Luzern das Obergericht als Aufsichtsbehörde in Schuldbetreibungs- und Konkurssachen) erforderlich",
+          "reason": "Die Antwort nennt die kantonale Aufsichtsbehörde beziehungsweise das Obergericht als Genehmigungsinstanz. Nach § 1 Abs. 2 EGSchKG ist jedoch die Genehmigung des Regierungsrates erforderlich."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Gemäss Art. 2 Abs. 1 des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG) können die Kantone mehrere Gemeinden zu einem Betreibungskreis zusammenfassen.",
+          "label_impact": "minor",
+          "reason": "Der genaue Inhalt der angeführten bundesrechtlichen Bestimmung ist durch die gelieferten Quellen nicht überprüfbar. Die kantonale Rechtsgrundlage bestätigt die grundsätzliche Möglichkeit der Vereinigung. Die zusätzliche bundesrechtliche Begründung ist für die Entscheidung nicht ausschlaggebend."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die grundsätzliche Zulässigkeit wird richtig beantwortet. Die ausdrücklich erfragte Genehmigungsbehörde wird jedoch falsch bezeichnet. Dieser Kernfehler ist bereits im zweiten Kriterium erfasst."
+    },
+    {
+      "response_id": "ins_013_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_013",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "die unteren Aufsichtsbehörden die Bezirksgerichte",
+          "reason": "Die Bezirksgerichte werden korrekt als untere Aufsichtsbehörden bezeichnet."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Die obere kantonale Aufsichtsbehörde ist das Kantonsgericht Luzern.",
+          "reason": "Das Kantonsgericht wird korrekt als obere kantonale Aufsichtsbehörde bezeichnet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide Aufsichtsebenen werden vollständig und entsprechend § 4 EGSchKG richtig zugeordnet."
+    },
+    {
+      "response_id": "per_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "per_006",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "die Zustimmung auch stillschweigend oder durch konkludentes Verhalten erteilt werden",
+          "reason": "Die Möglichkeit einer stillschweigenden Zustimmung wird ausdrücklich genannt. Zusammen mit der Verneinung der Pflicht zur vorgängigen ausdrücklichen Zustimmung ist die zulässige formfreie Zustimmung sinngemäss erfasst."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Möglichkeit einer nachträglichen Genehmigung wird nicht erwähnt. Die Aussage zur stillschweigenden Zustimmung deckt diesen eigenständigen Inhalt nicht ab."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "sofern sie eindeutig und unmissverständlich ist",
+          "label_impact": "minor",
+          "reason": "Die zusätzliche Anforderung wird im gelieferten Art. 19a ZGB nicht ausdrücklich erläutert. Ob sie eine zulässige Präzisierung darstellt, lässt sich anhand des Quellenausschnitts nicht abschliessend beurteilen. Sie verändert die zutreffende Verneinung der ausdrücklich vorgängigen Zustimmungspflicht nicht wesentlich."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verneint die Frage zutreffend und erkennt die Möglichkeit einer stillschweigenden Zustimmung. Die ebenfalls zulässige nachträgliche Genehmigung fehlt. Die abweichende Gesetzesfundstelle begründet für sich allein keinen wesentlichen Zusatzfehler."
+    },
+    {
+      "response_id": "per_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "per_007",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nach Art. 24 Abs. 1 ZGB verliert eine Person ihren Wohnsitz nicht, solange sie keinen neuen begründet hat.",
+          "reason": "Der Fortbestand des bisherigen Wohnsitzes bis zum Erwerb eines neuen wird vollständig und korrekt erklärt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort entspricht der gesetzlichen Regelung in Art. 24 Abs. 1 ZGB und beantwortet die Fallfrage vollständig."
+    },
+    {
+      "response_id": "fam_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "fam_006",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "dem ordentlichen Güterstand der Errungenschaftsbeteiligung (Art. 181 ZGB)",
+          "reason": "Die Errungenschaftsbeteiligung wird ausdrücklich und korrekt als anwendbarer gesetzlicher Güterstand bezeichnet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort benennt den richtigen Güterstand und berücksichtigt die im Sachverhalt vorgegebenen Voraussetzungen."
+    },
+    {
+      "response_id": "inh_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "inh_004",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "Da keine besonderen Gründe für einen Entzug des Pflichtteils vorliegen und es sich um ein einziges Kind handelt, steht dem Kind die Hälfte der Erbschaft zu.",
+          "reason": "Die Antwort berücksichtigt, dass nur ein Kind vorhanden ist und leitet den Pflichtteil korrekt ab. Sie hält jedoch nicht ausdrücklich oder eindeutig fest, dass der gesetzliche Erbanspruch des Kindes die gesamte Erbschaft beträgt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Nach Art. 471 ZGB hat der Nachkomme (Kind) Anspruch auf die Hälfte seines gesetzlichen Erbteils als Pflichtteil.",
+          "reason": "Die gesetzliche Pflichtteilsquote wird korrekt genannt. Zusammen mit der Aussage, dass der Pflichtteil die Hälfte der Erbschaft beträgt, ist auch die konkrete Anwendung vollständig erfüllt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die konkrete Pflichtteilsquote von einem Halb wird richtig bestimmt und begründet. Der gesetzliche Erbanspruch auf die ganze Erbschaft wird allerdings nur indirekt über die Berechnung erkennbar und nicht als eigenständige Aussage vollständig dargestellt."
+    }
+  ]
+}

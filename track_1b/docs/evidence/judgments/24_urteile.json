@@ -1,0 +1,189 @@
+{
+  "judgments": [
+    {
+      "response_id": "civ_014_20261014T072645Z_fb1d06_a1",
+      "item_id": "civ_014",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Die Zivilstandsbehörde muss den Fehler von Amtes wegen beheben.",
+          "reason": "Die Antwort bestätigt die Pflicht zur Berichtigung von Amtes wegen bei einem offensichtlichen Versehen und verneint ausdrücklich das Abwarten einer gerichtlichen Klage."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Die Berichtigung erfolgt durch eine Verfügung der zuständigen Behörde, die den fehlerhaften Eintrag entsprechend anpasst.",
+          "label_impact": "minor",
+          "reason": "Die vorgeschriebene Verfügungsform ist aus dem gelieferten Art. 43 ZGB nicht überprüfbar. Die Aussage betrifft lediglich die Verfahrensform und verändert die richtige Entscheidung zur Berichtigung von Amtes wegen nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die entscheidende Rechtsfolge wird vollständig und richtig wiedergegeben. Die zusätzliche Aussage zur Verfügungsform ist anhand der Quelle nicht verifizierbar, beeinflusst die Fallentscheidung jedoch nicht."
+    },
+    {
+      "response_id": "civ_015_20261014T072645Z_fb1d06_a1",
+      "item_id": "civ_015",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Entgegennahme und Prüfung der Ehevoraussetzungen",
+          "reason": "Die Prüfung der Ehevoraussetzungen beschreibt einen wesentlichen Inhalt des Vorbereitungsverfahrens. Zusammen mit der Erläuterung zur Kontrolle der gesetzlichen Voraussetzungen ist die Aufgabe sinngemäss erkennbar."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Durchführung der Eheschliessung",
+          "reason": "Die Durchführung der Eheschliessung einschliesslich der Abnahme der Eheversprechen entspricht sinngemäss dem Vollzug der Trauung."
+        },
+        {
+          "criterion_id": "3",
+          "status": "met",
+          "response_quote": "Entgegennahme und Beurkundung von Erklärungen zum Personenstand",
+          "reason": "Die gesetzlich vorgesehene Entgegennahme von Erklärungen zum Personenstand wird ausdrücklich genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Eheauflösungserklärungen",
+          "label_impact": "minor",
+          "reason": "Ob Eheauflösungserklärungen zu den hier entgegenzunehmenden Erklärungen gehören, lässt sich anhand des gelieferten Art. 44 ZGB nicht überprüfen. Es handelt sich um ein zusätzliches Beispiel und nicht um eine tragende Voraussetzung der drei erfragten Aufgaben."
+        },
+        {
+          "response_quote": "Der Artikel verankert die ausschliessliche Zuständigkeit der Zivilstandsbehörden",
+          "label_impact": "minor",
+          "reason": "Eine ausschliessliche Zuständigkeit lässt sich aus dem gelieferten Gesetzesauszug nicht allgemein ableiten. Die Behauptung betrifft eine zusätzliche Einordnung und ändert nichts an der zutreffenden Nennung der drei Aufgaben."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Alle drei erfragten Aufgaben sind sinngemäss enthalten. Die zusätzlichen rechtlichen Aussagen sind nicht vollständig durch die gelieferte Quelle überprüfbar, verändern die Bewertung der Kernaufgaben aber nicht."
+    },
+    {
+      "response_id": "civ_016_20261014T072645Z_fb1d06_a1",
+      "item_id": "civ_016",
+      "not_attempted": false,
+      "decision_status": "missing",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "Die Gemeinde hat einen Anspruch auf Auskunft.",
+          "reason": "Die Antwort erkennt einen Auskunftsanspruch der Gemeinde und bezieht sich ausdrücklich auf die Liste ihrer Bürgerinnen und Bürger beziehungsweise Ortsbürgerinnen und Ortsbürger. Sie nennt jedoch keinen unmittelbaren Anspruch auf Herausgabe dieser Liste auf Verlangen. Stattdessen stellt sie den Anspruch unter die Voraussetzung eines glaubhaft gemachten schützenswerten Interesses. Der gesetzlich vorgesehene Listenanspruch wird damit nicht vollständig wiedergegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Gemäss Art. 44 ZGB können Personen, die ein Interesse glaubhaft machen, Einsicht in das Personenstandsregister nehmen.",
+          "label_impact": "material",
+          "reason": "Die angeführte bundesrechtliche Grundlage und die behauptete Voraussetzung einer Glaubhaftmachung sind durch den gelieferten Auszug nicht überprüfbar. Die Aussage ist wesentlich, weil sie als rechtliche Begründung für den erfragten Anspruch dient. § 10 EG ZGB sieht dagegen ausdrücklich einen Listenanspruch auf Verlangen vor."
+        },
+        {
+          "response_quote": "Die Einsichtnahme ist jedoch auf die im Register enthaltenen Daten beschränkt und unterliegt den datenschutzrechtlichen Bestimmungen (DSG).",
+          "label_impact": "minor",
+          "reason": "Die zusätzlichen datenschutzrechtlichen Einschränkungen lassen sich anhand des gelieferten Quellenauszugs nicht überprüfen. Sie betreffen eine ergänzende Aussage und verändern für sich allein den Anspruch auf die gesetzlich vorgesehene Liste nicht."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Modellantwort versucht die Frage zu beantworten und erkennt einen Auskunftsanspruch im Zusammenhang mit dem Personenstandsregister. Sie gibt den in § 10 EG ZGB geregelten unmittelbaren Anspruch der Gemeinde auf eine Liste ihrer Bürgerinnen und Bürger beziehungsweise Ortsbürgerinnen und Ortsbürger auf Verlangen jedoch nicht zutreffend wieder. Die behauptete zusätzliche Voraussetzung eines schützenswerten Interesses ist für diesen Anspruch nicht vorgesehen. Die weiteren bundesrechtlichen Behauptungen sind anhand der gelieferten Quelle nicht abschliessend überprüfbar."
+    },
+    {
+      "response_id": "per_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "per_008",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Ein neugeborenes Kind ist daher bereits rechtsfähig, auch wenn es noch nicht selbstständig Verträge abschliessen kann.",
+          "reason": "Die Rechtsfähigkeit des neugeborenen Kindes wird ausdrücklich bestätigt. Die Antwort unterscheidet zudem zutreffend zwischen Rechtsfähigkeit und Handlungsfähigkeit."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Die Fähigkeit, Verträge abzuschliessen (Handlungsfähigkeit), ist von der Rechtsfähigkeit zu unterscheiden und entsteht erst mit der Volljährigkeit oder durch Mündigkeit.",
+          "label_impact": "minor",
+          "reason": "Die zusätzlichen Voraussetzungen und die Formulierung zur Entstehung der Handlungsfähigkeit sind durch den gelieferten Art. 11 ZGB nicht vollständig überprüfbar. Diese Nebenbemerkung ändert die zutreffende Aussage zur Rechtsfähigkeit des Kindes nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Frage wird klar verneint und die Rechtsfähigkeit des neugeborenen Kindes korrekt bestätigt. Die zusätzliche Darstellung der Handlungsfähigkeit ist für die Fallentscheidung nicht ausschlaggebend."
+    },
+    {
+      "response_id": "per_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "per_009",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Die umfassende Beistandschaft entzieht der betroffenen Person die Handlungsfähigkeit vollständig.",
+          "reason": "Die Rechtsfolge der umfassenden Beistandschaft wird eindeutig und in Übereinstimmung mit Art. 17 ZGB beschrieben. Die Antwort hält zudem fest, dass die Urteilsfähigkeit daran nichts ändert."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Nach Art. 17 ZGB ist handlungsfähig, wer volljährig und urteilsfähig ist.",
+          "source_id": "CH_ZGB_17",
+          "basis_quote": "Art. 17 12 Handlungsunfähig sind urteilsunfähige Personen, Minderjährige sowie Personen unter umfassender Beistandschaft.",
+          "severity": "minor",
+          "reason": "Die Antwort ordnet Art. 17 ZGB eine positive Definition der Handlungsfähigkeit zu, obwohl dieser die Handlungsunfähigkeit regelt. Die spätere Darstellung der Wirkung der umfassenden Beistandschaft ist dennoch korrekt."
+        }
+      ],
+      "unverified_claims": [
+        {
+          "response_quote": "Sie kann ohne Zustimmung des Beistands keine rechtswirksamen Geschäfte mehr abschliessen.",
+          "label_impact": "minor",
+          "reason": "Die Aussage zur Möglichkeit einer Zustimmung und deren rechtlichen Wirkung ist aus dem gelieferten Art. 17 ZGB nicht abschliessend überprüfbar. Sie betrifft eine zusätzliche Beschreibung der praktischen Rechtsfolgen und verändert die ausdrücklich richtige Entscheidung zur Handlungsunfähigkeit nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verneint die Handlungsfähigkeit zutreffend und erläutert die Rechtsfolge der umfassenden Beistandschaft klar. Die ungenaue Zuordnung der gesetzlichen Definition ist für die Fallentscheidung nicht ausschlaggebend."
+    },
+    {
+      "response_id": "per_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "per_010",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Im Kanton Aargau ist das **Departement Volkswirtschaft und Inneres (DVI)** die zuständige Behörde, um eine Klage auf Aufhebung einer juristischen Person wegen Widerrechtlichkeit oder Unsittlichkeit ihres Zwecks anzuheben.",
+          "reason": "Die Antwort bezeichnet ausdrücklich das Departement Volkswirtschaft und Inneres als klageberechtigte Behörde. Gemäss § 11 EG ZGB ist dafür jedoch der Regierungsrat zuständig."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Im Kanton Aargau ist die Aufsicht über die privatrechtlichen juristischen Personen (z. B. Vereine, Stiftungen) dem Departement Volkswirtschaft und Inneres übertragen",
+          "label_impact": "minor",
+          "reason": "Die behauptete allgemeine Aufsichtszuständigkeit ist anhand des gelieferten § 11 EG ZGB nicht überprüfbar. Die unzutreffende Ableitung der Klagezuständigkeit aus dieser Aussage wird bereits durch das Kriterium erfasst."
+        },
+        {
+          "response_quote": "Dieses Departement entscheidet über die Auflösung bei Zweckverletzungen.",
+          "label_impact": "material",
+          "reason": "Die Aussage schreibt dem Departement zusätzlich die Entscheidung über die Auflösung zu. Die gelieferte Quelle regelt nur die Zuständigkeit zur Klageanhebung und erlaubt keine abschliessende Prüfung der Entscheidkompetenz. Eine falsche Zuweisung dieser Kompetenz würde eine wesentliche rechtliche Zuständigkeit verändern."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die erfragte Zuständigkeit wird ausdrücklich falsch beantwortet. Zuständig zur Klageanhebung ist der Regierungsrat und nicht das Departement Volkswirtschaft und Inneres. Die zusätzliche Behauptung einer Entscheidkompetenz des Departements erfordert eine gesonderte rechtliche Prüfung."
+    }
+  ]
+}

@@ -1,6 +1,8 @@
-.PHONY: run
-
-# Replace with the command that starts the project in a Docker container,
-# e.g. `docker compose up`. It must work from a clean checkout.
+.PHONY: run run-local infer
 run:
-	@echo "make run is not implemented yet — edit this Makefile"; exit 1
+	docker build -t swiss-legal-qa .
+	docker run --rm swiss-legal-qa
+run-local:
+	python3 src/reproduce.py
+infer:
+	python3 src/inference.py

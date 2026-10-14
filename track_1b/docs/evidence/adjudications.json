@@ -1,0 +1,452 @@
+[
+  {
+    "response_id": "pol_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_006",
+    "label": "correct",
+    "reason": "Alle drei Pflichtkriterien sind sinngemäss erfüllt. Die aktive Verifizierung oder Entkräftung erfüllt die Richtigkeitsprüfung. Die Löschung entspricht der Vernichtung. Gefahr und Straftatverdacht werden als Beispiele eines hinreichenden Anlasses genannt und nicht ausdrücklich als abschliessende Voraussetzungen. Die Einstellung der Bearbeitung lässt sich im Zusammenhang mit Löschung oder Berichtigung auf die weitere Verwendung des unrichtigen Hinweises beziehen. Für den konkreten Antwortauftrag wird kein wesentlicher Zusatzfehler festgestellt.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": null,
+    "original_human_label": null,
+    "original_content_score_percent": 100,
+    "legal_basis_url": "https://srl.lu.ch/api/de/versions/4279/pdf_file",
+    "legal_basis_article": "§ 4 Abs. 2 PolG",
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "ban_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "ban_002",
+    "label": "correct",
+    "reason": "Der Kanton Aargau und die subsidiäre Haftung bei nicht ausreichenden eigenen Mitteln werden korrekt genannt. Im Zusammenhang der Antwort wird insolvent als unpräzise Umschreibung der fehlenden eigenen Mittel gelesen. Eine zusätzliche formelle Insolvenz- oder Konkursvoraussetzung wird nicht ausdrücklich verlangt. Es wird kein wesentlicher Zusatzfehler für den konkreten Antwortauftrag festgestellt.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": null,
+    "original_human_label": null,
+    "original_content_score_percent": 100,
+    "legal_basis_url": "https://gesetzessammlungen.ag.ch/api/de/versions/3777/pdf_file",
+    "legal_basis_article": "§ 5 AKBG",
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "civ_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_002",
+    "label": "incorrect",
+    "reason": "Die Frage verlangt mindestens vier unterschiedliche Aufgaben. Aufsicht und Berichterstattung sind eindeutig genannt. Die pauschale Zuständigkeit für Einsprachen gegen Registereinträge bei fehlender Einigung ist nicht zutreffend beschrieben. Die Genehmigung von Namensänderungen ist kantonal unterschiedlich zugeordnet und keine allgemein vorauszusetzende Aufgabe jeder Aufsichtsbehörde. Allgemeine Koordination wird neben der Aufsicht nicht nochmals gezählt. Selbst bei zusätzlicher Anerkennung der Namensänderungen wird die Mindestzahl vier nicht erreicht.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": null,
+    "original_human_label": null,
+    "original_content_score_percent": 50,
+    "legal_basis_urls": [
+      "https://www.gerichte-zh.ch/de/themen/person/registerbereinigung",
+      "https://www.bj.admin.ch/dam/de/sd-web/yWzSLjmL-BHR/10-22-01-02.pdf"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "agr_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_007",
+    "label": "correct",
+    "reason": "Der Gefährdungsnachweis ist im Sachverhalt bereits gegeben. Anordnungsbefugnis und dauerhafte Nutzungsbeschränkung als Grund für die Grundbuchanmerkung sind erfüllt. Die rechtliche Klassifizierung bleibt teilweise unpräzise und ist im Inhaltsscore berücksichtigt. Die zusätzlichen Aussagen zu anderen Massnahmen werden als allgemeine Verhältnismässigkeitserwägung gelesen. Die falsche Gesetzesbezeichnung wird für den konkreten Antwortauftrag als nicht wesentliche Quellenungenauigkeit eingeordnet.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": null,
+    "original_human_label": "correct",
+    "original_content_score_percent": 87.5,
+    "legal_basis_urls": [
+      "https://srl.lu.ch/api/de/versions/3801/pdf_file",
+      "https://www.bj.admin.ch/dam/bj/de/data/staat/legistik/hauptinstrumente/gleitf-d.pdf.download.pdf/gleitf-d.pdf"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "fam_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "fam_003",
+    "label": "correct",
+    "reason": "Ausdrückliche Zustimmung des anderen Ehegatten und gerichtliches Vorgehen bei unbegründeter Verweigerung sind vollständig erfüllt. Die Antwort erwähnt Antrag und gerichtliche Prüfung. Die anschliessende Ersetzung der Zustimmung wird deshalb nicht als voraussetzungsloser automatischer Erfolg gelesen. Zur Erteilung der Zustimmung verpflichtet ist juristisch unpräzise. Die anschliessend beschriebene gerichtliche Ersetzung erfasst die erfragte Möglichkeit sinngemäss.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": null,
+    "original_human_label": null,
+    "original_content_score_percent": 100,
+    "legal_basis_urls": [
+      "https://www.gerichte-zh.ch/fileadmin/user_upload/entscheide/oeffentlich/LE190012-O6.pdf"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "fam_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "fam_005",
+    "label": "incorrect",
+    "reason": "Beide Pflichtkriterien sind erfüllt. Der Zusatzsatz stellt mit jedoch und muss eine unverzügliche Mitteilungspflicht und die Verhältnismässigkeit der Trennung als verbindliche weitere Anforderungen dar. Diese werden in der gemeinsamen Durchsicht als für die praktische Berechtigung wesentlich eingeordnet. Art. 175 ZGB nennt die ernstliche Gefährdung durch das Zusammenleben und deren Dauer. Bei erfüllter Voraussetzung wird keine zusätzliche selbstständige Verhältnismässigkeitshürde anerkannt. Die behauptete allgemeine unverzügliche Mitteilungspflicht wurde nicht bestätigt. Der zuerst vorgeschlagene Umgang als nicht entscheidende Nebenbemerkung wurde nach dem Einwand der Nutzerin verworfen.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": null,
+    "original_human_label": null,
+    "original_content_score_percent": 100,
+    "legal_basis_urls": [
+      "https://obergerichtsentscheide.sh.ch/CMS/get/file/6534b055-9691-444e-ada5-b8b99e1578cd",
+      "https://www.gerichte-zh.ch/de/themen/ehe-und-familie/eheschutz/getrenntleben"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "fam_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "fam_010",
+    "label": "correct",
+    "reason": "Die Antwort verneint die Zulässigkeit der Bürgschaftsübernahme durch die Eltern im Namen des Kindes eindeutig und stellt den Zusammenhang mit der begrenzten elterlichen Vertretungsmacht her. Die zusätzliche Verknüpfung von Kindeszustimmung und Formvorschriften ist fehlerhaft. Sie wird im Gesamtzusammenhang nicht als ausdrücklich behauptete Ausnahme vom bereits verneinten Vertretungsverbot gelesen. Insbesondere wird nicht erklärt, dass die Bürgschaft mit Kindeszustimmung zulässig sei. Der Fehler in der Zusatzbegründung bleibt dokumentiert und wird hier als nicht labelentscheidend eingeordnet.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": null,
+    "original_human_label": null,
+    "original_content_score_percent": 100,
+    "legal_basis_urls": [
+      "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_304",
+      "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_493"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "pol_016_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_016",
+    "label": "correct",
+    "reason": "Die Antwort bejaht das Führen auf den Polizeiposten und nennt die unsichere Identitätsfeststellung vor Ort als tragenden Grund. Die rechtmässige Anhaltung ist vorgegeben. Die weiteren Ausführungen werden im Kontext als allgemeine Erläuterung des legitimen Abklärungszwecks und der Erforderlichkeit eingeordnet. Es wird keine ausschliessliche Voraussetzung einer Straftat oder eines Straftatverdachts behauptet. Die Wiedergabe als genauer Inhalt von § 9 Abs. 3 ist unpräzise und wird dokumentiert, verändert die konkrete richtige Fallbeurteilung aber nicht wesentlich.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": null,
+    "original_human_label": null,
+    "original_content_score_percent": 100,
+    "legal_basis_url": "https://srl.lu.ch/api/de/versions/4279/pdf_file",
+    "legal_basis_article": "§ 9 Abs. 1 und 3 sowie § 5 PolG",
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "imp_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "imp_003",
+    "label": "correct",
+    "reason": "Die unbefugte Verwertung des anvertrauten Arbeitsergebnisses wird vollständig und zutreffend als unlauter beurteilt. Der Sachverhalt nennt ausdrücklich vertrauliche Überlassung zur Prüfung und das Anvertrauen. Die entsprechenden Ausführungen der Modellantwort werden deshalb als Bezugnahme auf die bereits vorgegebenen Fallmerkmale eingeordnet und nicht als entscheidende zusätzliche Tatbestandsvoraussetzungen. Eine generelle rechtliche Gleichsetzung der Begriffe anvertraut und vertraulich wird damit nicht vorgenommen.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": null,
+    "original_human_label": null,
+    "original_content_score_percent": 100,
+    "legal_basis_url": "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/de#art_5",
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "con_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "con_008",
+    "label": "incorrect",
+    "reason": "Die Kernantwort ist vollständig richtig. Die Behauptung eines allgemeinen Vorrangs korrekt erlassener und genehmigter Sondernutzungspläne gegenüber dem kantonalen PBG ist jedoch ein wesentlicher Zusatzfehler. § 68 erlaubt Abweichungen von der Bau- und Zonenordnung. Daraus folgt kein allgemeiner Vorrang vor dem PBG.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": null,
+    "original_human_label": "correct",
+    "original_content_score_percent": 100.0,
+    "legal_basis_urls": [
+      "https://srl.lu.ch/api/de/versions/4298/pdf_file"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "imp_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "imp_009",
+    "label": "correct",
+    "reason": "Die Verletzung auch dem Mitbewerber auferlegter Arbeitsbedingungen wird zutreffend als möglicherweise unlauter erkannt. Die Erläuterung zur Eignung einer Wettbewerbsbeeinflussung wird im Kontext als allgemeiner Wettbewerbsbezug gelesen. Dieser ist in der bundesgerichtlichen Rechtsprechung anerkannt und wird nicht allein wegen fehlender Erwähnung im gelieferten Art. 7 als falsche Zusatzvoraussetzung gewertet. Die Verwechslungsvorschrift im ersten Satz gehört nicht zu Art. 7. Die falsche Zuordnung und der sachfremde Einstieg bleiben als nicht tragende Ungenauigkeiten dokumentiert. Für die konkrete Kannfrage wird kein wesentlicher Zusatzfehler festgestellt.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": null,
+    "original_human_label": null,
+    "original_content_score_percent": 100.0,
+    "legal_basis_urls": [
+      "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/de#art_7",
+      "https://search.bger.ch/ext/eurospider/live/it/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F12-04-2016-4A_443-2015&lang=fr&print=yes&type=show_document"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "lab_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "lab_002",
+    "label": "incorrect",
+    "reason": "Die konkrete Fallentscheidung ist richtig. Die abschliessende Beschränkung der Freizeitkompensation auf schriftliche Abrede, NAV, GAV oder betriebliche Übung ist jedoch zu eng. Eine mündliche Einigung beider Parteien genügt ebenfalls. Die Antwort vermischt die Kompensationsregel von Art. 321c Abs. 2 mit den Formen abweichender Vergütung nach Abs. 3. Das erste Kriterium bleibt deshalb nur teilweise erfüllt. Dieser Kernfehler wird nicht zusätzlich als Zusatzfehler gezählt.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": "incorrect",
+    "original_human_label": "correct",
+    "original_content_score_percent": 75.0,
+    "legal_basis_urls": [
+      "https://www.seco.admin.ch/de/faq-ueberstunden"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "tou_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_004",
+    "label": "incorrect",
+    "reason": "Die Führung einer Gästekontrolle wird erkannt. Streng bezeichnet jedoch den Kontrollmassstab und gewährleistet nicht sinngemäss die ausdrücklich verlangte Wahrheitsgetreue der Einträge. Das zweite Pflichtkriterium fehlt. Damit verbleiben 50 Prozent Kernabdeckung unter dem unveränderten Schwellenwert von 80 Prozent. Es wird kein neues absolutes Ausschlusskriterium eingeführt. Die ungeprüften Zusatzangaben werden nicht als nachgewiesene wesentliche Fehler gewertet.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": "incorrect",
+    "original_human_label": "correct",
+    "original_content_score_percent": 50.0,
+    "legal_basis_urls": [
+      "https://srl.lu.ch/api/de/versions/4917/pdf_file"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "tou_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_007",
+    "label": "incorrect",
+    "reason": "Die Bereitstellungspflicht gegenüber der Polizei wird richtig erkannt. Die ausdrücklich gestellte Teilfrage nach einer in jedem Fall bestehenden Plattformpflicht bleibt unbeantwortet. Die Existenz einer Plattform setzt deren rechtliche Verbindlichkeit nicht voraus. Die Obligatorischerklärung durch den Regierungsrat fehlt. Daher 50 Prozent Kernabdeckung unter dem unveränderten Schwellenwert. Die ungeklärte Zusatzbehauptung über den Ersatz physischer Abgabe wird nicht als nachgewiesener Fehler eingestuft.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": "incorrect",
+    "original_human_label": "correct",
+    "original_content_score_percent": 50.0,
+    "legal_basis_urls": [
+      "https://srl.lu.ch/data/980/de"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "ins_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_002",
+    "label": "incorrect",
+    "reason": "Die zusätzliche Aufgabenübertragung durch das Nachlassgericht ist erfüllt. Die übrigen vier gleich gewichteten Aufgabenbereiche sind nicht hinreichend beschrieben. Allgemeine Vertretung von Gläubigerinteressen ersetzt weder die Überwachung des Schuldners noch die Information der Gläubiger. Damit verbleiben 20 Prozent Kernabdeckung. Ungeklärte Zusatzbehauptungen zur Vermögensverwertung sind für dieses Ergebnis nicht ausschlaggebend.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": "incorrect",
+    "original_human_label": "correct",
+    "original_content_score_percent": 20.0,
+    "legal_basis_urls": [
+      "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/de#art_295"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "agr_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_005",
+    "label": "incorrect",
+    "reason": "Die erfragte Behörde und ihre Befugnis werden richtig genannt. Die gesamte zusätzliche Begründung ordnet die Kompetenz jedoch dem Gesundheitsgesetz und dem Schutz der öffentlichen Gesundheit zu. Die konkrete Kompetenz stammt aus § 77 des kantonalen Landwirtschaftsgesetzes im Bereich Pflanzenschutz. Es handelt sich um eine inhaltliche Verwechslung von Rechtsgebiet und Schutzzweck und nicht lediglich um eine falsche Fundstellenangabe. Dies wird in der gemeinsamen Durchsicht als wesentlicher Zusatzfehler eingestuft. Die Kernabdeckung von 100 Prozent bleibt davon unberührt.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": "correct",
+    "original_human_label": "incorrect",
+    "original_content_score_percent": 100.0,
+    "legal_basis_urls": [
+      "https://srl.lu.ch/api/de/versions/3801/pdf_file"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "per_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "per_002",
+    "label": "incorrect",
+    "reason": "Die konkrete Zustimmungslosigkeit wird richtig bejaht. Die tragende gesetzliche Ausnahme für unentgeltliche Vorteile wird jedoch durch die Geringfügigkeit und eine allgemeine Befähigung ersetzt. Geringfügige Alltagsangelegenheiten sind eine eigenständige gesetzliche Ausnahme und nicht mit wenig komplexen Handlungen gleichzusetzen. Die Geschenkannahme ist als unentgeltlicher Vorteil unabhängig von dieser Abgrenzung zulässig. Das erste Kriterium bleibt nur teilweise erfüllt und die Kernabdeckung beträgt 75 Prozent.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": "incorrect",
+    "original_human_label": "correct",
+    "original_content_score_percent": 75.0,
+    "legal_basis_urls": [
+      "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_19",
+      "https://ws-old.parlament.ch/affairs/20121041"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "tou_012_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_012",
+    "label": "correct",
+    "reason": "Beide Pflichtkriterien werden im konkreten Fall sinngemäss erfüllt. Die Antwort nennt ausdrücklich den Aussenbereich vor dem Restaurant und den räumlichen Einflussbereich sowie das Wegweisungsrecht nach erfolgloser Aufforderung. Daraus wird im Kontext keine eindeutige Beschränkung auf Grundstücksgrenzen abgeleitet. Die pauschale Verantwortung für Dritte bleibt als Ungenauigkeit dokumentiert, verändert die Beurteilung der vorgegebenen gastverursachten Störungen aber nicht wesentlich. Der erste Inhalt wird in der gemeinsamen Durchsicht als met statt partial bewertet.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": "incorrect",
+    "original_human_label": "correct",
+    "original_content_score_percent": 75.0,
+    "adjudicated_content_score_percent": 100,
+    "adjudicated_criteria": [
+      {
+        "criterion_id": "1",
+        "status": "met"
+      },
+      {
+        "criterion_id": "2",
+        "status": "met"
+      }
+    ],
+    "legal_basis_urls": [
+      "https://srl.lu.ch/data/980/de"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "per_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "per_006",
+    "label": "correct",
+    "reason": "Die Frage verlangt nicht eindeutig die vollständige Aufzählung sämtlicher Zustimmungsformen und Zeitpunkte. Die zutreffend genannte stillschweigende Zustimmung widerlegt bereits die behauptete zwingend ausdrückliche vorgängige Zustimmung. Die fehlende nachträgliche Genehmigung ist deshalb im konkreten Antwortauftrag nicht zwingend als unvollständige Antwort zu werten. Die gemeinsame Entscheidung beruht auf einem Konflikt zwischen Frage und Bewertungsraster und nicht auf einer nachträglichen Erhöhung des ursprünglichen Scores. Die falsche Fundstelle Art. 19 Abs. 2 statt Art. 19a Abs. 1 wird als nicht wesentliche Ungenauigkeit dokumentiert.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": "incorrect",
+    "original_human_label": "correct",
+    "original_content_score_percent": 50.0,
+    "adjudicated_rubric_conflict": true,
+    "legal_basis_urls": [
+      "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_19_a"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "ren_014_20261014T072645Z_fb1d06_a1",
+    "item_id": "ren_014",
+    "label": "incorrect",
+    "reason": "Zustimmung und Ablehnungsgründe werden erkannt. Die Schriftform fehlt und das erste wesentliche Kriterium ist nur teilweise erfüllt. Die Frage verlangt ausdrücklich die maximale Haftungsdauer. Die genannte Höchstgrenze von zwei Jahren wird deshalb für diesen Frageauftrag vollständig anerkannt. Bei unveränderter Gewichtung 50/25/25 ergibt dies 75 Prozent. Das Label bleibt wegen Schwellenunterschreitung und unvollständiger wesentlicher Formvoraussetzung incorrect.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": "incorrect",
+    "original_human_label": "correct",
+    "original_content_score_percent": 62.5,
+    "legal_basis_urls": [
+      "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_263"
+    ],
+    "grading_rules_changed": false,
+    "adjudicated_content_score_percent": 75,
+    "adjudicated_criteria": [
+      {
+        "criterion_id": "1",
+        "status": "partial"
+      },
+      {
+        "criterion_id": "2",
+        "status": "met"
+      },
+      {
+        "criterion_id": "3",
+        "status": "met"
+      }
+    ]
+  },
+  {
+    "response_id": "civ_016_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_016",
+    "label": "incorrect",
+    "reason": "Ein Auskunftsanspruch der Gemeinde wird erkannt. Der konkrete unmittelbare Anspruch auf die verlangte Bürgerliste wird jedoch durch allgemeine Einsicht unter Glaubhaftmachung eines schützenswerten Interesses ersetzt. Das einzige Kriterium ist daher nur teilweise erfüllt und die Kernabdeckung beträgt 50 Prozent. Die zusätzlichen bundesrechtlichen Aussagen werden für die Entscheidung nicht als abschliessend geprüfte Fehler benötigt. Die Nutzerin hat die Prozentbewertung zur Entscheidung delegiert.",
+    "source": "joint_review_user_delegated",
+    "original_judge_label": "incorrect",
+    "original_human_label": "correct",
+    "original_content_score_percent": 50.0,
+    "legal_basis_urls": [
+      "https://gesetzessammlungen.ag.ch/api/de/versions/3614/pdf_file"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "pol_015_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_015",
+    "label": "incorrect",
+    "reason": "Die Glaubhaftigkeit des Bestands des behaupteten privaten Rechts fehlt. Die Gefährdung eines Rechts ersetzt die Glaubhaftigkeit des Anspruchs nicht. Fehlender rechtzeitiger Rechtsschutz ist sinngemäss erfüllt. Die drohende Vereitelung oder unverhältnismässige Erschwerung der Rechtsausübung ist nur teilweise durch die allgemeine Dringlichkeit beschrieben. Bei unveränderter Gewichtung 25/50/25 verbleiben 62,5 Prozent. Auch bei vollständiger Anerkennung des dritten Kriteriums wären lediglich 75 Prozent erreicht.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": "incorrect",
+    "original_human_label": "correct",
+    "original_content_score_percent": 62.5,
+    "legal_basis_urls": [
+      "https://srl.lu.ch/api/de/versions/4279/pdf_file"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "mob_019_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_019",
+    "label": "incorrect",
+    "reason": "Mahnung und nachfolgende Zahlungsverfügung sind korrekt. Die ausdrücklich erfragte feste Bearbeitungsgebühr von 50 Franken wird durch eine aufwandsabhängige Bandbreite von 20 bis 50 Franken ersetzt. Die Nennung des richtigen Betrags nur als Obergrenze erfüllt das Gebührenkriterium nicht. Bei unveränderter Gewichtung 25/50/25 verbleiben 75 Prozent. Der Gebührenfehler wird nicht zusätzlich als Zusatzfehler gezählt.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": "incorrect",
+    "original_human_label": "correct",
+    "original_content_score_percent": 75.0,
+    "legal_basis_urls": [
+      "https://srl.lu.ch/api/de/versions/4617/pdf_file"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "ins_023_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_023",
+    "label": "incorrect",
+    "reason": "Zuständigkeit und Einstellung bei Stundung sind vollständig erfüllt. Bei urkundlich nachgewiesener Tilgung verlangt die Antwort hingegen Löschung statt der ausdrücklich erfragten gesetzlichen Aufhebung. Eine vollständige Registerlöschung ist von der gerichtlichen Aufhebung und der Einschränkung der Einsicht durch Dritte zu unterscheiden. Diese konkrete Rechtsfolgenfrage wird daher nicht nur als sprachliche Ungenauigkeit behandelt. Es verbleiben 75 Prozent Kernabdeckung. Der falsche Verweis auf Art. 85a für die Einstellung wird nicht nochmals abgezogen.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": "incorrect",
+    "original_human_label": "correct",
+    "original_content_score_percent": 75.0,
+    "legal_basis_urls": [
+      "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/de#art_85",
+      "https://www.gerichte-zh.ch/fileadmin/user_upload/entscheide/oeffentlich/PS200233-O1.pdf"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "cop_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "cop_003",
+    "label": "incorrect",
+    "reason": "Sicherungskopie und Unabdingbarkeit sind vollständig erfüllt. Die Formulierung sofern dies für die bestimmungsgemässe Benutzung erforderlich ist führt jedoch eine zusätzliche rechtliche Bedingung ein und beschreibt nicht lediglich den Sicherungszweck. Diese Einschränkung wird als wesentlicher Zusatzfehler gewertet. Der unpassende Begriff numerus clausus ist für sich allein nicht labelentscheidend. Die Kernabdeckung bleibt 100 Prozent.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": "incorrect",
+    "original_human_label": "correct",
+    "original_content_score_percent": 100.0,
+    "legal_basis_urls": [
+      "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de?version=20250701"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "dat_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "dat_009",
+    "label": "correct",
+    "reason": "Die Pflicht wird ausdrücklich an die Planung der risikoreichen Bearbeitung geknüpft. Im Gesamtzusammenhang wird dies als Erstellung in der Planungsphase und damit vorgängig anerkannt. Alle drei Inhaltsgruppen sind sinngemäss vorhanden. Die Ausnahmefreiheit ist eine Vorgabe des konkreten Sachverhalts und keine Behauptung, das Gesetz kenne keine Ausnahmen. Das erste Kriterium wird in der gemeinsamen Durchsicht als met statt partial gewertet.",
+    "source": "joint_review_user_confirmed",
+    "original_judge_label": "incorrect",
+    "original_human_label": "correct",
+    "original_content_score_percent": 75.0,
+    "adjudicated_content_score_percent": 100,
+    "adjudicated_criteria": [
+      {
+        "criterion_id": "1",
+        "status": "met"
+      },
+      {
+        "criterion_id": "2",
+        "status": "met"
+      }
+    ],
+    "legal_basis_urls": [
+      "https://www.edoeb.admin.ch/de/das-neue-datenschutzgesetz-aus-sicht-des-edob"
+    ],
+    "grading_rules_changed": false
+  },
+  {
+    "response_id": "agr_003_20261014T212852Z_7e47ec_a1",
+    "item_id": "agr_003",
+    "label": "incorrect",
+    "reason": "Die ausdruecklich erfragte Isolationsdauer wird mit hoechstens zehn Jahren falsch angegeben. Nach dem gelieferten Art. 153 Bst. b LwG richtet sie sich danach, ob ein Befall ausgeschlossen werden kann. Dieser belegte Kernfehler entscheidet das Label unabhaengig davon, ob weitere Massnahmengruppen ausserhalb der Referenz ebenfalls zulaessig sein koennen. Der Rasterkonflikt wird fuer das Endlabel daher als nicht entscheidend aufgeloest. Die Liste gesetzlicher Alternativen muss nicht kumulativ wiedergegeben werden. Das Kriterium 3a wird fuer Behandlung oder Vernichtung als erfuellt anerkannt. Dies erhoeht die Kernabdeckung von 25 auf 33,33 Prozent, aendert das Endlabel aber nicht.",
+    "source": "manual_review_after_targeted_rerun",
+    "original_judge_label": null,
+    "original_human_label": null,
+    "original_content_score_percent": 25,
+    "adjudicated_content_score_percent": 33.33,
+    "adjudicated_criteria": [
+      {
+        "criterion_id": "1",
+        "status": "missing",
+        "response_quote": "",
+        "reason": "Die Überwachung der phytosanitären Lage wird nicht erwähnt. Einfuhrbeschränkungen sind keine sinngemässe Entsprechung."
+      },
+      {
+        "criterion_id": "2a",
+        "status": "partial",
+        "response_quote": "Befallene Pflanzen, Pflanzenteile oder andere Objekte, die Träger des Schadorganismus sein können, dürfen isoliert werden.",
+        "reason": "Die Isolation von Pflanzenmaterial und anderen möglicherweise betroffenen Objekten wird erkannt. Befallsverdächtige Gegenstände werden nur allgemein erfasst und Parzellen fehlen."
+      },
+      {
+        "criterion_id": "2b",
+        "status": "contradicted",
+        "response_quote": "Die Isolation darf **höchstens 10 Jahre** dauern, sofern dies zur Verhinderung der Ausbreitung notwendig ist.",
+        "reason": "Art. 153 LwG sieht keine Höchstdauer von zehn Jahren vor. Die Isolation darf so lange dauern, als der Befall nicht ausgeschlossen werden kann."
+      },
+      {
+        "criterion_id": "3a",
+        "status": "met",
+        "response_quote": "**Beseitigungs- oder Vernichtungsmassnahmen** (Pflicht zur Vernichtung oder Behandlung von befallenen Objekten).",
+        "reason": "Vernichtung und Behandlung werden ausdrücklich genannt. Die ebenfalls vorgesehene Desinfizierung fehlt."
+      },
+      {
+        "criterion_id": "3b",
+        "status": "partial",
+        "response_quote": "Pflicht zur Vernichtung oder Behandlung von befallenen Objekten",
+        "reason": "Befallene Objekte werden als Gegenstand der Massnahmen erkannt. Die gesetzlich erfassten Kulturen, Pflanzenmaterialien, Produktionsmittel und Gegenstände werden nicht hinreichend differenziert. Zudem fehlt die Möglichkeit von Massnahmen bei bloss möglichem Befall."
+      }
+    ],
+    "adjudicated_rubric_conflict_affects_label": false,
+    "grading_rules_changed": false,
+    "legal_basis_url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20260101/de/html/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20260101-de-html.html"
+  }
+]

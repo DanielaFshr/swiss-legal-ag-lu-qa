@@ -1,0 +1,193 @@
+{
+  "judgments": [
+    {
+      "response_id": "tou_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "tou_008",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "nicht nur die theoretische Prüfung bestehen, sondern auch den Nachweis praktischer Erfahrung erbringen",
+          "reason": "Die Antwort nennt die theoretische Prüfung und die praktische Erfahrung ausdrücklich als kumulative Voraussetzungen."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die gesetzlich vorgeschriebene Mindestdauer der praktischen Tätigkeit von einem halben Jahr wird nicht genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die ablehnende Entscheidung und die kumulativen Voraussetzungen sind korrekt. Die Mindestdauer der praktischen Tätigkeit fehlt."
+    },
+    {
+      "response_id": "tou_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "tou_009",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Da der Jahresumsatz von 7'500 Franken unter der Schwelle von 10'000 Franken liegt, kommt die Mindestabgabe zur Anwendung.",
+          "reason": "Die Antwort setzt die geschuldete Abgabe fälschlich mit dem Mindestbetrag gleich. Nach § 11 GGG beträgt sie 2 Prozent von 7500 Franken und damit 150 Franken. Eine Umsatzschwelle von 10'000 Franken ist nicht vorgesehen."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "mindestens 100 Franken pro Jahr",
+          "reason": "Der gesetzliche jährliche Mindestbetrag wird korrekt angegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Der Mindestbetrag ist korrekt. Die Berechnung der tatsächlich geschuldeten Abgabe ist falsch. Die erfundene Umsatzschwelle ist bereits bei Kriterium 1 berücksichtigt."
+    },
+    {
+      "response_id": "tou_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "tou_010",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nein, dies ist nicht zulässig.",
+          "reason": "Die Antwort verneint den Ausschank an die 17-jährige Person korrekt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Der Verkauf und Ausschank von gebrannten Wassern (Alkoholika) an Personen unter 18 Jahren ist nach Bundesrecht verboten.",
+          "reason": "Die Altersgrenze von 18 Jahren für gebrannte Wasser wird korrekt genannt. Der fragliche Cocktail fällt als Getränk auf dieser Basis unter dieselbe Grenze."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "weshalb das Mindestalter von 18 Jahren für den Ausschank von Alkohol gilt",
+          "source_id": "LU_GaG_17",
+          "basis_quote": "1 Die Abgabe und der Ausschank von alkoholischen Getränken an Jugendliche unter 16 Jahren sind verboten.",
+          "severity": "minor",
+          "reason": "Die pauschale Formulierung überträgt die Altersgrenze von 18 Jahren auf sämtliche alkoholischen Getränke. Das Luzerner Gesetz unterscheidet jedoch zwischen der allgemeinen Grenze von 16 Jahren und der besonderen Grenze von 18 Jahren für gebrannte Wasser und darauf basierende Getränke. Der konkrete Fallentscheid bleibt korrekt."
+        }
+      ],
+      "unverified_claims": [
+        {
+          "response_quote": "insbesondere Art. 110 der Bundesverfassung und Art. 41 des Alkoholgesetzes",
+          "label_impact": "minor",
+          "reason": "Die angeführten bundesrechtlichen Fundstellen werden durch die gelieferten Quellen nicht überprüfbar bestätigt. Ihre Richtigkeit ist für die konkrete Entscheidung nicht ausschlaggebend, da § 17 GaG die Antwort unmittelbar trägt."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die konkrete Entscheidung und die Altersgrenze für gebrannte Wasser sind korrekt. Zusätzlich wird die Altersgrenze unzulässig auf alkoholische Getränke allgemein ausgedehnt."
+    },
+    {
+      "response_id": "tou_011_20261014T072645Z_fb1d06_a1",
+      "item_id": "tou_011",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Das Restaurant bietet zwei alkoholfreie Getränke günstiger an als das billigste alkoholhaltige Getränk. Damit wird die Mindestanforderung erfüllt",
+          "reason": "Die Antwort erklärt zwei günstigere alkoholfreie Getränke ausdrücklich für ausreichend. § 19 GaG verlangt mindestens drei."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "alkoholfreie Getränke nicht teurer sein dürfen als die billigsten alkoholhaltigen Getränke gleicher Menge",
+          "reason": "Der Vergleich mit alkoholhaltigen Getränken gleicher Menge ist vorhanden und das billigste Getränk wird im Antwortkontext genannt. Die Antwort erlaubt jedoch gleiche Preise, obwohl § 19 GaG einen niedrigeren Preis verlangt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort bejaht die Gesetzeskonformität zu Unrecht. Sie verkennt sowohl die vorgeschriebene Anzahl von drei alkoholfreien Getränken als auch die Anforderung eines tatsächlich niedrigeren Preises."
+    },
+    {
+      "response_id": "tou_012_20261014T072645Z_fb1d06_a1",
+      "item_id": "tou_012",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "Dies umfasst auch den Aussenbereich vor dem Restaurant, solange er zum räumlichen Einflussbereich des Betriebs gehört.",
+          "reason": "Die Verantwortung für den unmittelbaren Aussenbereich und die durch Gäste verursachten Störungen wird sinngemäss erkannt. Die Antwort bindet die Pflicht jedoch an das Betriebsgelände beziehungsweise den räumlichen Einflussbereich statt an die unmittelbare Umgebung bei gastverursachten Immissionen. Der gesetzliche Umfang wird dadurch nicht vollständig und präzise wiedergegeben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Wenn Gäste trotz Aufforderung des Personals die Unruhe fortsetzen und keine Ruhe halten, ist die Bewilligungsinhaberin (bzw. ihr beauftragtes Personal) berechtigt, die betreffenden Personen wegzuweisen.",
+          "reason": "Das Wegweisungsrecht bei Missachtung einer Aufforderung wird vollständig und korrekt beschrieben."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Sie muss sicherstellen, dass Gäste und Dritte die öffentliche Ruhe und Ordnung nicht stören.",
+          "source_id": "LU_GaG_21",
+          "basis_quote": "Bewilligungsinhaber und -inhaberinnen sind verpflichtet zur Aufrechterhaltung von Ruhe, Ordnung und Anstand im Betrieb und in dessen unmittelbarer Umgebung, soweit die Immissionen durch Gäste des Betriebs verursacht werden.",
+          "severity": "minor",
+          "reason": "Die Aussage bezieht die Verantwortung pauschal auch auf Dritte. Die gelieferte Bestimmung begrenzt die Verantwortung für Immissionen in der unmittelbaren Umgebung auf solche, die durch Gäste des Betriebs verursacht werden. Für den konkreten Fall mit Gästen ändert diese Ausweitung die Entscheidung nicht."
+        }
+      ],
+      "unverified_claims": [
+        {
+          "response_quote": "Dies ist ein zulässiger Eingriff in die persönliche Freiheit, der durch das Interesse an der Aufrechterhaltung der öffentlichen Ordnung gerechtfertigt ist.",
+          "label_impact": "minor",
+          "reason": "Die grundrechtliche Einordnung wird durch den gelieferten Gesetzesausschnitt nicht geprüft. Sie ist für die konkrete Antwort nicht erforderlich, da das Wegweisungsrecht unmittelbar in § 21 Abs. 3 GaG geregelt ist."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Das Wegweisungsrecht wird korrekt erkannt. Die räumliche Verantwortung wird teilweise zutreffend beschrieben, aber enger an das Betriebsgelände geknüpft als im Gesetz. Die zusätzliche Verantwortung für Dritte ist zu weit formuliert."
+    },
+    {
+      "response_id": "pol_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "pol_009",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nein, diese Verwendungen sind nach dem Aargauer Polizeigesetz nicht zulässig.",
+          "reason": "Die Antwort verneint die Verwendung des Aargauer Wappens durch den privaten Sicherheitsdienst eindeutig. Auch die weitere Begründung erklärt die Wappenverwendung im vorliegenden Fall für unzulässig."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "verbieten es privaten Sicherheitsdiensten, Uniformen zu tragen, die mit jenen der Polizei verwechselt werden können.",
+          "reason": "Das Verbot von Uniformen mit Verwechslungsgefahr wird ausdrücklich und vollständig genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Private dürfen es ohne Bewilligung nicht verwenden, um Verwechslungen mit staatlichen Organen zu vermeiden.",
+          "label_impact": "minor",
+          "reason": "Die Aussage deutet eine Bewilligungsmöglichkeit für die Wappenverwendung an. Eine solche Ausnahme ist in der gelieferten Bestimmung nicht vorgesehen. Die Formulierung behauptet jedoch nicht ausdrücklich, dass private Sicherheitsdienste mit Bewilligung das Wappen verwenden dürften. Der konkrete Verbotsentscheid bleibt eindeutig."
+        },
+        {
+          "response_quote": "gemäss Art. 11 des Bundesgesetzes über den Schutz von Namen und Zeichen (SR 232.21) und kantonalem Recht (z.B. Aargauer Gesetz über das Wappen und die Flagge)",
+          "label_impact": "minor",
+          "reason": "Die zusätzlichen Gesetzesbezeichnungen und Fundstellen sind anhand des gelieferten Auszugs nicht überprüfbar. Für den Fallentscheid sind sie nicht erforderlich, da § 6 PolG beide Verbote ausdrücklich enthält."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide Verwendungen werden korrekt als unzulässig beurteilt. Die zusätzlichen rechtlichen Verweise und die angedeutete Bewilligungsmöglichkeit bleiben ungeprüft, verändern aber den eindeutigen konkreten Fallentscheid nicht."
+    }
+  ]
+}

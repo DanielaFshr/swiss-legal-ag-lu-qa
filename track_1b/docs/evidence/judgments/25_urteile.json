@@ -1,0 +1,171 @@
+{
+  "judgments": [
+    {
+      "response_id": "per_011_20261014T072645Z_fb1d06_a1",
+      "item_id": "per_011",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Die Rechtspersönlichkeit entsteht nicht automatisch mit dem Beschluss der Statuten durch die Genossenschaftsversammlung, sondern erst durch die behördliche Genehmigung.",
+          "reason": "Die konstitutive Wirkung der Statutengenehmigung wird eindeutig beschrieben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "in der Regel die Direktion oder das Departement, das für das entsprechende Sachgebiet zuständig ist",
+          "reason": "Das zuständige Departement wird sinngemäss als Genehmigungsstelle bezeichnet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide gesetzlichen Voraussetzungen sind sinngemäss erfüllt. Die zusätzlichen Beispiele für Departemente sind für die Beurteilung nicht entscheidend."
+    },
+    {
+      "response_id": "per_012_20261014T072645Z_fb1d06_a1",
+      "item_id": "per_012",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "erlangt eine Allmendgenossenschaft ihre Rechtspersönlichkeit durch die **Genehmigung der kantonalen Behörde**.",
+          "reason": "Die Genehmigung als rechtsbegründender Vorgang wird genannt. Dass die Statuten Gegenstand der Genehmigung sind, fehlt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Die Rechtspersönlichkeit wird durch die **Genehmigung der zuständigen kantonalen Behörde** verliehen.",
+          "reason": "Die Antwort nennt eine kantonale Behörde statt der gesetzlich zuständigen Gemeinde."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Der Genehmigungsvorgang wird grundsätzlich erkannt. Der Genehmigungsgegenstand bleibt ungenannt und die zuständige Stelle wird ausdrücklich falsch bezeichnet."
+    },
+    {
+      "response_id": "fam_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "fam_007",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "partial",
+          "response_quote": "Das Gericht kann auf Begehren des anderen Ehegatten ein Verfügungsverbot über das Grundstück anordnen (Art. 178 ZGB).",
+          "reason": "Die gerichtliche Beschränkung der Verfügungsmacht wird richtig angesprochen. Die Möglichkeit, Verfügungen von der Zustimmung des anderen Ehegatten abhängig zu machen, wird nicht beschrieben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Das Gericht veranlasst die Eintragung dieses Verbots im Grundbuch",
+          "reason": "Die vom Gericht veranlasste Grundbuchanmerkung wird sinngemäss wiedergegeben. Eine gesonderte Nennung von Amtes wegen ist dafür nicht erforderlich."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erkennt das gerichtliche Verfügungsverbot und die Grundbuchmassnahme. Die spezifisch erfragte Zustimmungslösung wird jedoch nicht vollständig erläutert."
+    },
+    {
+      "response_id": "fam_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "fam_008",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "fallen die für das Getrenntleben angeordneten Massnahmen mit der Wiederaufnahme des Zusammenlebens automatisch dahin.",
+          "reason": "Die allgemeine Rechtsfolge der Wiederaufnahme des Zusammenlebens wird korrekt beschrieben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Gütertrennung wird nicht als gesetzliche Ausnahme genannt."
+        },
+        {
+          "criterion_id": "3",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Kindesschutzmassnahmen werden nicht als gesetzliche Ausnahme genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Ausgenommen sind jedoch die vorsorglichen Massnahmen im Scheidungsverfahren (Art. 276 ZPO) und die Unterhaltsbeiträge, die bereits rechtskräftig festgelegt wurden und weiterhin gelten, bis sie durch eine Abänderungsklage aufgehoben oder abgeändert werden.",
+          "label_impact": "minor",
+          "reason": "Die zusätzlich behauptete Fortgeltung bestimmter Massnahmen ist durch den gelieferten Art. 179 Abs. 2 ZGB nicht geklärt. Sie ersetzt die beiden ausdrücklich erfragten Ausnahmen nicht. Ihr Wahrheitsgehalt ändert deshalb die Bewertung der fehlenden Pflichtinhalte nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die allgemeine Rechtsfolge ist richtig. Beide ausdrücklich verlangten gesetzlichen Ausnahmen fehlen und werden durch andere Massnahmen ersetzt."
+    },
+    {
+      "response_id": "fam_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "fam_009",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Die Norm dient dem Schutz des Kindeswohls und der Persönlichkeitsentwicklung, indem sie die Autonomie des Kindes im Rahmen seiner individuellen Fähigkeiten stärkt.",
+          "reason": "Zusammen mit der ausdrücklichen Bezugnahme auf Reife und Lebensgestaltung wird die reifeabhängige Freiheit des Kindes sinngemäss beschrieben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "bei der Lebensgestaltung und bei wichtigen Angelegenheiten auf die Reife und die Meinung des Kindes Rücksicht zu nehmen, **soweit es nach dessen Alter und Entwicklung tunlich ist**.",
+          "reason": "Die Rücksichtnahme auf die Meinung des Kindes in wichtigen Angelegenheiten und deren Zumutbarkeitsgrenze werden ausdrücklich genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide Pflichten werden im Gesamtzusammenhang sinngemäss richtig erläutert. Ein uneingeschränktes Entscheidungsrecht des Kindes wird nicht behauptet."
+    },
+    {
+      "response_id": "fam_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "fam_010",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Nein, dies ist nicht zulässig.",
+          "reason": "Die Frage nach der Zulässigkeit der Bürgschaftsübernahme durch die Eltern wird eindeutig verneint. Der Zusammenhang mit der begrenzten elterlichen Vertretungsmacht wird zusätzlich hergestellt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Zudem bedarf eine Bürgschaft nach Art. 493 OR der Schriftform und der Angabe des Höchstbetrags der Haftung",
+          "label_impact": "minor",
+          "reason": "Diese zusätzlichen Formvorschriften lassen sich anhand des gelieferten Art. 304 ZGB nicht überprüfen. Sie sind für das gesetzliche Vertretungsverbot nicht entscheidend."
+        },
+        {
+          "response_quote": "Voraussetzungen, die bei einer Vertretung des Kindes durch die Eltern ohne dessen Einwilligung (bei urteilsfähigen Kindern) nicht erfüllt sind.",
+          "label_impact": "material",
+          "reason": "Die zusätzliche Behauptung verbindet die Unzulässigkeit mit einer fehlenden Einwilligung des Kindes. Dadurch könnte der Eindruck entstehen, eine Einwilligung ermögliche die Bürgschaft trotz des gesetzlichen Vertretungsverbots. Diese zusätzliche rechtliche Begründung ist anhand der gelieferten Quelle nicht vollständig überprüfbar und betrifft eine wesentliche Voraussetzung der Fallbeurteilung."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Entscheidung und der erfragte Kerninhalt sind richtig. Die zusätzliche Begründung zur Einwilligung des Kindes ist rechtlich überprüfungsbedürftig, da Art. 304 Abs. 3 ZGB das Bürgschaftsverbot ausdrücklich vorsieht."
+    }
+  ]
+}

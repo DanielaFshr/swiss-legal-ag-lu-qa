@@ -1,0 +1,164 @@
+{
+  "judgments": [
+    {
+      "response_id": "fam_011_20261014T072645Z_fb1d06_a1",
+      "item_id": "fam_011",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "die Pflicht, das Kindesvermögen zu verwalten",
+          "reason": "Die Verwaltungspflicht bei bestehender elterlicher Sorge wird ausdrücklich genannt. Das Verwaltungsrecht ist im Zusammenhang mit der beschriebenen Stellung als sorgeberechtigter Elternteil sinngemäss mitumfasst."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "dem zuständigen Zivilstandsamt einreichen",
+          "reason": "Das Inventar über das Kindesvermögen wird richtig genannt. Als Empfänger wird jedoch ausdrücklich das Zivilstandsamt statt der Kindesschutzbehörde bezeichnet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "innerhalb eines Monats nach dem Tod des anderen Elternteils",
+          "label_impact": "minor",
+          "reason": "Die gelieferte Quelle nennt keine Monatsfrist. Die Richtigkeit dieser zusätzlichen Frist ist nicht überprüfbar. Sie betrifft eine nicht ausdrücklich erfragte zeitliche Einzelheit und verändert die bewertete Zuständigkeit nicht."
+        },
+        {
+          "response_quote": "Art. 405 ZGB",
+          "label_impact": "minor",
+          "reason": "Die angeführte Bestimmung ist nicht als Quellenpassage geliefert. Der belegte Antwortauftrag ergibt sich aus Art. 318 ZGB. Die zusätzliche Fundstelle ist nicht überprüft und ihr Einfluss auf die Bewertung ist gering."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Verwaltungspflicht und das Inventar werden erkannt. Die gesetzlich vorgeschriebene Einreichung bei der Kindesschutzbehörde wird durch die ausdrückliche Nennung des Zivilstandsamts falsch beantwortet."
+    },
+    {
+      "response_id": "inh_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "inh_006",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Art. 467 ZGB setzt für die Errichtung eines Testaments lediglich die Urteilsfähigkeit der Person voraus.",
+          "reason": "Art. 467 ZGB verlangt ausdrücklich zusätzlich das zurückgelegte 18. Altersjahr. Die Antwort bestreitet diese Altersvoraussetzung."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Da die 17-Jährige als urteilsfähig beschrieben wird, erfüllt sie die wesentliche Voraussetzung von Art. 467 ZGB. Ein Mindestalter ist nicht erforderlich.",
+          "reason": "Die Antwort erklärt die 17-jährige Person für testierfähig, obwohl sie die gesetzliche Altersvoraussetzung nicht erfüllt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort bejaht die Testierfähigkeit ausdrücklich und verneint die gesetzlich erforderliche Altersgrenze. Beide Kriterien und die erwartete Entscheidung werden widersprochen."
+    },
+    {
+      "response_id": "inh_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "inh_007",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Art. 468 Abs. 2 ZGB verlangt die Zustimmung der Erwachsenenschutzbehörde.",
+          "reason": "Die Antwort nennt ausdrücklich die Erwachsenenschutzbehörde als zustimmende Stelle. Art. 468 Abs. 2 ZGB verlangt hingegen die Zustimmung der gesetzlichen Vertretung."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die erforderliche Zustimmung wird der falschen Stelle zugeordnet. Damit ist die zentrale erfragte Voraussetzung falsch beantwortet."
+    },
+    {
+      "response_id": "inh_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "inh_008",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "zwei Zeugen",
+          "reason": "Die gesetzlich vorgeschriebene Anzahl von zwei Zeugen wird ausdrücklich richtig genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "vor einem **Notar** (oder einer anderen hierzu befugten Person nach kantonalem Recht)",
+          "reason": "Ein Notar ist eine der in Art. 499 ZGB genannten zuständigen Urkundspersonen. Die zusätzliche Bezugnahme auf das kantonale Recht ist ebenfalls zutreffend."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide verlangten Angaben sind vollständig und sinngemäss korrekt enthalten."
+    },
+    {
+      "response_id": "inh_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "inh_009",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Nein, Art. 509 ZGB erlaubt keinen Teilwiderruf eines Testaments.",
+          "reason": "Art. 509 Abs. 2 ZGB erlaubt ausdrücklich einen vollständigen oder teilweisen Widerruf. Die Antwort bestreitet den Teilwiderruf."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "durch ein neues Testament oder durch eine schriftliche, mit Datum versehene und unterschriebene Erklärung",
+          "reason": "Die Antwort nennt mit dem neuen Testament und einer formgerechten eigenhändigen Erklärung zulässige Möglichkeiten. Sie vermittelt jedoch nicht die allgemeine Regel, dass der Widerruf in einer der für die Errichtung vorgeschriebenen Formen erfolgen kann, und formuliert die Möglichkeiten als abschliessende Vorgabe."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Der ausdrücklich erfragte Teilwiderruf wird entgegen Art. 509 ZGB verneint. Bei den Formvorschriften enthält die Antwort richtige Beispiele, stellt diese jedoch zu eng dar."
+    },
+    {
+      "response_id": "inh_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "inh_010",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Vater und Mutter erben je zur Hälfte (je ½).",
+          "reason": "Die gesetzliche Erbquote beider lebenden Elternteile wird vollständig und korrekt angegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Gemäss Art. 457 ZGB erben die Eltern neben dem überlebenden Ehegatten.",
+          "label_impact": "minor",
+          "reason": "Die zusätzliche Aussage über Art. 457 ZGB und einen überlebenden Ehegatten lässt sich anhand des gelieferten Art. 458 ZGB nicht abschliessend prüfen. Sie betrifft eine für den unverheirateten Erblasser nicht entscheidende Nebenerklärung."
+        },
+        {
+          "response_quote": "da sie beide zur ersten Parentel gehören",
+          "label_impact": "minor",
+          "reason": "Die Einordnung als erste Parentel wird durch die gelieferte Quelle nicht gestützt. Ob die zusätzliche Bezeichnung zutrifft, wird ohne weitere Quellen nicht entschieden. Die ausdrücklich richtige hälftige Erbquote bleibt davon unberührt."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die verlangten Erbquoten sind korrekt. Zwei zusätzliche rechtliche Einordnungen sind anhand der gelieferten Quelle nicht verifiziert, ändern aber die richtige Fallentscheidung nicht."
+    }
+  ]
+}

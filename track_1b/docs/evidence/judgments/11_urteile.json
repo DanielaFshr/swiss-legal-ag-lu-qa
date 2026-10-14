@@ -1,0 +1,215 @@
+{
+  "judgments": [
+    {
+      "response_id": "agr_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "agr_005",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Im Kanton Luzern kann der Regierungsrat Krankheiten und Schädlinge von lokaler Bedeutung als gemeingefährlich erklären.",
+          "reason": "Die zuständige Behörde und ihre Kompetenz werden vollständig und zutreffend genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Gemäss dem Luzerner Gesundheitsgesetz (GesG) obliegt dem Regierungsrat die Kompetenz, Massnahmen zum Schutz der öffentlichen Gesundheit zu treffen.",
+          "label_impact": "minor",
+          "reason": "Die angegebene gesetzliche Grundlage ist durch die gelieferte Quelle nicht belegt. Die zuständige Behörde wird dennoch richtig identifiziert. Die mögliche Ungenauigkeit betrifft die zusätzliche Begründung und verändert die erfragte Zuständigkeit nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Frage wird korrekt beantwortet. Die zusätzliche gesetzliche Begründung ist nicht verifiziert, beeinflusst die richtige Zuständigkeitsangabe aber nicht."
+    },
+    {
+      "response_id": "agr_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "agr_006",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Die zuständige Dienststelle kann die Vernichtung (Abschuss oder Rodung) der befallenen Rebstöcke anordnen.",
+          "reason": "Die Vernichtung befallener Pflanzen als mögliche Massnahme der zuständigen Dienststelle wird zutreffend genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Wenn keine andere geeignete und wirtschaftlich tragbare Bekämpfungsmassnahme zur Verfügung steht, um die Verbreitung der Krankheit zu verhindern, ist die Vernichtung der infizierten Pflanzen die ultima ratio.",
+          "reason": "Die gesetzliche Voraussetzung wird vollständig wiedergegeben. Die Antwort bezeichnet die Vernichtung als letztes Mittel und formuliert die Anordnungsbefugnis ausdrücklich als Kannbestimmung."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Gemäss dem Bundesgesetz über den Schutz von Pflanzen (Pflanzengesundheitsgesetz, PGesG; SR 916.20) und den dazugehörigen Verordnungen (insbesondere der Pflanzengesundheitsverordnung, PGesV; SR 916.201) ist die Bekämpfung von meldepflichtigen, gemeingefährlichen Krankheiten zwingend vorgeschrieben.",
+          "label_impact": "minor",
+          "reason": "Die angeführten bundesrechtlichen Gesetzesbezeichnungen, Fundstellen und die allgemeine Bekämpfungspflicht sind anhand der gelieferten Quellen nicht überprüfbar. Die kantonale Kompetenz zur Anordnung der Vernichtung wird unabhängig davon zutreffend beschrieben."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die mögliche Vernichtung und ihre entscheidende Voraussetzung werden richtig genannt. Die zusätzlichen bundesrechtlichen Angaben bleiben ungeprüft, sind für die erfragte letzte Massnahme aber nicht entscheidend."
+    },
+    {
+      "response_id": "agr_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "agr_007",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1a",
+          "status": "met",
+          "response_quote": "darf die zuständige Dienststelle eine spezielle Bodennutzung zum Schutz des Bodens anordnen",
+          "reason": "Die Befugnis zur Anordnung einer speziellen Bodennutzung zum Bodenschutz wird ausdrücklich genannt. Im gegebenen Erosionsfall ist der Bezug ausreichend."
+        },
+        {
+          "criterion_id": "1b",
+          "status": "met",
+          "response_quote": "wenn eine erhebliche Gefährdung des Bodens vorliegt",
+          "reason": "Die Gefährdung ist im Sachverhalt bereits nachgewiesen. Sie muss gemäss Bewertungshinweis nicht erneut ausdrücklich als nachgewiesen bezeichnet werden."
+        },
+        {
+          "criterion_id": "2a",
+          "status": "partial",
+          "response_quote": "wenn sie dingliche Wirkung entfalten soll, also beispielsweise wenn sie auch für Rechtsnachfolger gilt",
+          "reason": "Die Antwort erkennt die grundstücksbezogene Wirkung einer Beschränkung. Die Einordnung als für ein bestimmtes Grundstück verfügte öffentlich-rechtliche Eigentumsbeschränkung bleibt jedoch unausgesprochen."
+        },
+        {
+          "criterion_id": "2b",
+          "status": "met",
+          "response_quote": "wenn sie auch für Rechtsnachfolger gilt und die Nutzungsbeschränkung dauerhaft ist",
+          "reason": "Die dauerhafte Nutzungsbeschränkung wird als Grund für die Grundbuchanmerkung ausdrücklich genannt. Eine gesetzliche Alternative genügt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "wenn eine erhebliche Gefährdung des Bodens vorliegt und andere Massnahmen nicht ausreichen oder nicht zweckmässig sind",
+          "label_impact": "material",
+          "reason": "Die Antwort nennt zusätzliche Voraussetzungen für die Anordnungsbefugnis. § 72 der gelieferten Quelle verlangt einen Gefährdungsnachweis. Ob die zusätzlich genannten Anforderungen im konkreten Fall aus übergeordnetem Recht folgen und die Anordnungsbefugnis tatsächlich einschränken, lässt sich mit den gelieferten Quellen nicht entscheiden. Eine solche Einschränkung wäre für die erfragte Voraussetzung wesentlich."
+        },
+        {
+          "response_quote": "insbesondere dem Bundesgesetz über den Schutz des Bodens (Bodenschutzgesetz, BSchG)",
+          "label_impact": "minor",
+          "reason": "Die angeführte Bundesgesetzesbezeichnung ist durch die gelieferten Quellen nicht belegt. Die mögliche Ungenauigkeit betrifft die zusätzliche Rechtsgrundlagenangabe."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die Anordnungsbefugnis und die dauerhafte Nutzungsbeschränkung als Grundbuchvoraussetzung werden erkannt. Die rechtliche Einordnung bleibt teilweise unvollständig. Die zusätzlich behaupteten Voraussetzungen für die Anordnung sind entscheidungsrelevant und bedürfen einer Prüfung."
+    },
+    {
+      "response_id": "agr_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "agr_008",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "im Rahmen der Abteilung Landwirtschaft des Departements Finanzen und Ressourcen",
+          "reason": "Die Aufgabenerfüllung wird im Kontext der kantonalen Landwirtschaftsverwaltung verortet. Dies ist sinngemäss als Angabe von Landwirtschaft Aargau erkennbar."
+        },
+        {
+          "criterion_id": "2a",
+          "status": "met",
+          "response_quote": "bei Themen von gemeinsamem Interesse zusammen",
+          "reason": "Der Anlass der Zusammenarbeit wird ausdrücklich und zutreffend genannt."
+        },
+        {
+          "criterion_id": "2b",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die zuständigen kantonalen Organisationseinheiten für Gewässer-, Natur- und Landschaftsschutz werden nicht genannt. Die erwähnten Bundesämter sind nicht mit diesen Organisationseinheiten gleichzusetzen."
+        },
+        {
+          "criterion_id": "2c",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Organisationseinheiten für Fliessgewässerunterhalt und Wald fehlen."
+        },
+        {
+          "criterion_id": "2d",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die zuständige Organisationseinheit für Lebensmittelkontrolle wird nicht genannt. Die Erwähnung des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen genügt nicht."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Sie arbeitet insbesondere mit dem **Bundesamt für Landwirtschaft (BLW)**, dem **Bundesamt für Umwelt (BAFU)**, dem **Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV)** sowie mit den Nachbarkantonen und der **Schweizerischen Pflanzenschutzorganisation (SPO)** bei Themen von gemeinsamem Interesse zusammen.",
+          "label_impact": "minor",
+          "reason": "Die zusätzlichen Zusammenarbeitsbeziehungen sind durch die gelieferten Quellen nicht belegt. Ihre mögliche Unrichtigkeit betrifft ergänzende Angaben. Die fehlenden gesetzlich erfragten Organisationseinheiten werden bereits über die Kriterien erfasst."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die kantonale Landwirtschaftsverwaltung wird sinngemäss erkannt. Die gesetzlich vorgesehenen Zusammenarbeitsstellen werden hingegen weitgehend durch andere Institutionen ersetzt."
+    },
+    {
+      "response_id": "agr_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "agr_009",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "da die ALaV (Aargauer Landwirtschaftsverordnung) dies nicht explizit regelt. Es gilt daher der Stundenansatz, der im Auftragsverhältnis zwischen dem Pflanzenschutzdienst und der Gemeinde vereinbart wurde",
+          "reason": "Die Antwort bestreitet eine ausdrückliche kantonale Regelung und verweist auf Vereinbarungen. Tatsächlich legt § 14a Abs. 2 ALaV für solche Kontrollen ausdrücklich 38 Franken pro Stunde fest."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die ausdrücklich festgelegte Entschädigung von 38 Franken pro Stunde wird nicht genannt. Stattdessen widerspricht die Antwort der vorhandenen Tarifregelung."
+    },
+    {
+      "response_id": "agr_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "agr_010",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Der massgebliche Verweis von § 17 Abs. 1 ALaV auf die Haftungsgesetzgebung wird nicht erwähnt. Stattdessen werden allgemeine Haftungsvoraussetzungen und andere Rechtsgrundlagen angeführt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "besteht kein Anspruch auf automatischen, vollen Schadenersatz für jeden durch rechtmässige Pflanzenschutzmassnahmen verursachten Schaden.",
+          "reason": "Die fehlende automatische Garantie eines vollen Schadenersatzes für jeden Fall wird zutreffend festgestellt."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "Ein Anspruch könnte nur bestehen, wenn die Massnahme unverhältnismässig war oder grobfahrlässig bzw. vorsätzlich falsch durchgeführt wurde",
+          "source_id": "AG_HG_7",
+          "basis_quote": "Erscheint dies als unzumutbar, weil der Schaden Einzelne schwer trifft, ist eine angemessene Entschädigung zuzusprechen, insbesondere wenn die geschädigte Person die schädigende Handlung oder Unterlassung weder veranlasst noch davon profitiert hat.",
+          "severity": "material",
+          "reason": "Die Antwort beschränkt mögliche Ansprüche pauschal auf fehlerhaftes oder unverhältnismässiges Handeln. § 7 Haftungsgesetz sieht aber auch für rechtmässig verursachten Schaden unter bestimmten Voraussetzungen eine angemessene Entschädigung vor. Dies verändert die rechtliche Beurteilung wesentlich."
+        }
+      ],
+      "unverified_claims": [
+        {
+          "response_quote": "insbesondere dem Bundesgesetz über den Pflanzenschutz (Pflanzenschutzgesetz, PSG)",
+          "label_impact": "minor",
+          "reason": "Die angeführte bundesrechtliche Gesetzesbezeichnung ist durch die gelieferten Quellen nicht verifizierbar. Ihre mögliche Unrichtigkeit betrifft eine zusätzliche Fundstellenangabe und nicht die erfragte Bedeutung von § 17 Abs. 1 ALaV."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Das Nein ist korrekt. Der Verweis auf die Haftungsgesetzgebung fehlt jedoch. Zudem wird die Möglichkeit einer Entschädigung bei rechtmässig verursachtem Schaden durch eine falsche pauschale Einschränkung auf fehlerhafte Massnahmen wesentlich verkannt."
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "judgments": [
+    {
+      "response_id": "ins_019_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_019",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "muss ein Betreibungsbegehren **schriftlich** eingereicht werden",
+          "reason": "Art. 67 Abs. 1 SchKG erlaubt ausdrücklich die schriftliche oder mündliche Einreichung. Die behauptete Schriftlichkeitspflicht widerspricht dem Gesetz."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "bei dem zuständigen Betreibungsamt am Betreibungsort des Schuldners",
+          "reason": "Das Betreibungsamt wird zutreffend als zuständige Stelle genannt."
+        },
+        {
+          "criterion_id": "3",
+          "status": "partial",
+          "response_quote": "Der Gläubiger hat Anspruch auf eine **Eingangsbestätigung** durch das Betreibungsamt",
+          "reason": "Der Anspruch auf eine Eingangsbestätigung wird genannt. Es fehlen die Angaben, dass die Bescheinigung auf Verlangen und gebührenfrei auszustellen ist."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort bezeichnet das Betreibungsamt korrekt und erkennt den Anspruch auf eine Eingangsbestätigung. Sie behauptet jedoch entgegen Art. 67 SchKG eine zwingende schriftliche Einreichung und lässt zwei wesentliche Modalitäten der Eingangsbescheinigung aus."
+    },
+    {
+      "response_id": "ins_020_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_020",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "trägt grundsätzlich der Schuldner die Betreibungskosten",
+          "reason": "Die gesetzliche Kostentragung durch den Schuldner wird korrekt angegeben."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Diese Kosten müssen vom Gläubiger vorgestreckt werden",
+          "reason": "Die Vorschusspflicht des Gläubigers wird ausdrücklich genannt."
+        },
+        {
+          "criterion_id": "3",
+          "status": "partial",
+          "response_quote": "darf das Betreibungsamt die gewünschte Betreibungshandlung nicht vornehmen",
+          "reason": "Die Möglichkeit der vorläufigen Nichtvornahme wird im Zusammenhang mit dem fehlenden Vorschuss erkannt. Die erforderliche Anzeige an den Gläubiger fehlt. Zudem wird die gesetzliche Ermessensbefugnis zu zwingend dargestellt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Kostentragung und Vorschusspflicht werden richtig unterschieden. Die Rechtsfolge des fehlenden Vorschusses wird teilweise richtig beschrieben. Die gesetzlich erforderliche Anzeige fehlt und die Kann-Bestimmung wird als zwingende Verfahrensblockierung dargestellt."
+    },
+    {
+      "response_id": "ins_021_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_021",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Der Gläubiger kann die definitive Rechtsöffnung verlangen.",
+          "reason": "Das nach Art. 80 Abs. 1 SchKG zulässige Begehren wird ausdrücklich und korrekt bezeichnet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort nennt die definitive Rechtsöffnung und begründet sie mit dem vollstreckbaren gerichtlichen Entscheid. Sie erwähnt mögliche Einwendungen des Schuldners und behauptet damit keinen vorbehaltlosen automatischen Erfolg."
+    },
+    {
+      "response_id": "ins_022_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_022",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Der Gläubiger kann die provisorische Rechtsöffnung nach Art. 82 SchKG verlangen.",
+          "reason": "Die zulässige provisorische Rechtsöffnung wird korrekt genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Der Schuldner muss entkräftende Einwendungen sofort glaubhaft machen",
+          "reason": "Die Pflicht zur sofortigen Glaubhaftmachung entkräftender Einwendungen wird vollständig und ausdrücklich wiedergegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide erfragten Voraussetzungen werden zutreffend beantwortet. Die ergänzenden Beispiele verändern die gesetzliche Anforderung der sofortigen Glaubhaftmachung nicht."
+    },
+    {
+      "response_id": "ins_023_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_023",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "die Löschung der Betreibung verlangen",
+          "reason": "Art. 85 SchKG sieht bei urkundlich nachgewiesener Tilgung die Aufhebung der Betreibung vor. Die verlangte Löschung bezeichnet eine andere Rechtsfolge und ist nicht mit der gesetzlichen Aufhebung gleichzusetzen."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "beim Gericht des Betreibungsortes",
+          "reason": "Die zuständige gerichtliche Stelle wird korrekt genannt."
+        },
+        {
+          "criterion_id": "3",
+          "status": "met",
+          "response_quote": "Bei urkundlich nachgewiesener Stundung kann der Betriebene beim Gericht des Betreibungsortes die Einstellung der Betreibung verlangen",
+          "reason": "Die Einstellung der Betreibung bei urkundlich nachgewiesener Stundung wird korrekt angegeben."
+        }
+      ],
+      "extra_errors": [
+        {
+          "response_quote": "(Art. 85a SchKG)",
+          "source_id": "CH_SchKG_85",
+          "basis_quote": "so kann er jederzeit beim Gericht des Betreibungsortes im ersteren Fall die Aufhebung, im letzteren Fall die Einstellung der Betreibung verlangen.",
+          "severity": "minor",
+          "reason": "Die dargestellte Einstellung bei urkundlich nachgewiesener Stundung ist in Art. 85 SchKG geregelt. Die Antwort verweist dafür auf Art. 85a SchKG. Die erfragte Rechtsfolge bleibt korrekt, weshalb die falsche Fundstelle nur eine untergeordnete Ungenauigkeit darstellt."
+        }
+      ],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Zuständigkeit und die Einstellung bei Stundung werden richtig beantwortet. Bei vollständiger Tilgung wird hingegen Löschung statt Aufhebung verlangt. Zusätzlich wird für die Einstellung eine unzutreffende Gesetzesfundstelle angegeben."
+    },
+    {
+      "response_id": "tax_001_20261014T072645Z_fb1d06_a1",
+      "item_id": "tax_001",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "in der Steuerperiode, in der die Überführung erfolgt, besteuert wird",
+          "reason": "§ 23 Abs. 1 lit. b StG sieht unter den im Sachverhalt bereits erfüllten Voraussetzungen einen Steueraufschub bis zum Ableben der steuerpflichtigen Person vor. Die behauptete unmittelbare Besteuerung widerspricht dieser Regelung."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort verkennt die zentrale Rechtsfolge des Steueraufschubs. Statt die Besteuerung bis zum Ableben hinauszuschieben, behauptet sie eine unmittelbare Besteuerung bei Überführung ins Privatvermögen. Ausserdem deutet sie die schriftliche Erklärung entgegen dem geschilderten Sachverhalt als Bestätigung einer endgültigen Überführung."
+    }
+  ]
+}

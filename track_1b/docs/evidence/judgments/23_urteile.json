@@ -1,0 +1,189 @@
+{
+  "judgments": [
+    {
+      "response_id": "agr_012_20261014T072645Z_fb1d06_a1",
+      "item_id": "agr_012",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Die Verwendungsanweisungen sind somit keine unverbindlichen Empfehlungen, sondern verbindliche Vorgaben, die eingehalten werden müssen.",
+          "reason": "Die verbindliche Beachtung der Verwendungsanweisungen wird ausdrücklich bestätigt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "da sie Teil der Zulassung und des Inverkehrbringens von Pflanzenschutzmitteln und Düngern sind.",
+          "label_impact": "minor",
+          "reason": "Die behauptete Verbindung mit Zulassung und Inverkehrbringen ist durch den gelieferten Art. 159 LwG nicht hinreichend belegt. Sie betrifft lediglich eine zusätzliche Begründung und ändert die korrekt beantwortete Verbindlichkeitsfrage nicht."
+        },
+        {
+          "response_quote": "da Verstösse gegen die Anweisungen zu Sanktionen führen können (z. B. nach dem Landwirtschaftsgesetz, dem Umweltschutzgesetz oder dem Lebensmittelgesetz).",
+          "label_impact": "minor",
+          "reason": "Die konkreten Sanktionsmöglichkeiten und gesetzlichen Grundlagen sind durch die gelieferte Quelle nicht überprüfbar. Die Aussage ist für die erfragte Pflicht zur Beachtung nicht entscheidend."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erfüllt das einzige Kriterium vollständig und trifft die erwartete Entscheidung. Die nicht verifizierten Zusatzbehauptungen sind nicht entscheidend."
+    },
+    {
+      "response_id": "agr_013_20261014T072645Z_fb1d06_a1",
+      "item_id": "agr_013",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "untersagt die Verwendung von Antibiotika als Leistungsförderer in der Nutztierhaltung.",
+          "reason": "Das Verbot der Verwendung von Antibiotika als Leistungsförderer wird ausdrücklich genannt. Die fehlende Erwähnung ähnlicher Stoffe verhindert hier keine sinngemässe Erfüllung des Kerninhalts."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die gesetzliche Meldepflicht für den therapeutischen Einsatz wird nicht erwähnt."
+        },
+        {
+          "criterion_id": "3",
+          "status": "partial",
+          "response_quote": "die vorgeschriebenen Wartezeiten sowie Dokumentationspflichten einzuhalten",
+          "reason": "Dokumentationspflichten werden angesprochen. Die konkret verlangte Belegung durch ein Behandlungsjournal fehlt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "die Anwendung tierärztlich anordnen zu lassen und die vorgeschriebenen Wartezeiten",
+          "label_impact": "minor",
+          "reason": "Die genannten Anforderungen sind aus dem gelieferten Art. 160 Abs. 8 LwG nicht überprüfbar. Sie ersetzen die ausdrücklich verlangten Pflichten nicht. Ihre mögliche Unrichtigkeit verändert die Bewertung der erfragten Meldepflicht und Journalpflicht nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Das Verbot wird korrekt wiedergegeben. Die Meldepflicht fehlt vollständig und die Dokumentationspflicht wird nur allgemein beschrieben."
+    },
+    {
+      "response_id": "agr_014_20261014T072645Z_fb1d06_a1",
+      "item_id": "agr_014",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Lebensmittelhygiene wird nicht genannt. Die aufgeführten Ziele lassen keine eindeutige sinngemässe Erfüllung erkennen."
+        },
+        {
+          "criterion_id": "2",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Erhaltung der Bodenfruchtbarkeit wird nicht ausdrücklich oder eindeutig sinngemäss genannt."
+        },
+        {
+          "criterion_id": "3",
+          "status": "partial",
+          "response_quote": "die Erhaltung und Förderung der Artenvielfalt, die Schonung der natürlichen Lebensgrundlagen sowie die Reduktion des Einsatzes von Pflanzenschutzmitteln.",
+          "reason": "Die Schonung natürlicher Lebensgrundlagen und die Reduktion von Pflanzenschutzmitteln weisen einen klaren Bezug zur Umweltschonung auf. Der gesetzliche Oberbegriff wird jedoch nicht ausdrücklich genannt und die Formulierung bleibt auf einzelne Aspekte ausgerichtet."
+        },
+        {
+          "criterion_id": "4",
+          "status": "met",
+          "response_quote": "dass die Förderung nur gewährt wird, wenn die betreffenden Methoden wirtschaftlich tragfähig sind.",
+          "reason": "Die wirtschaftliche Tragfähigkeit entspricht hier sinngemäss dem Vorbehalt wirtschaftlicher Vertretbarkeit."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort nennt andere Förderziele als die Bestimmung. Die Umweltschonung wird teilweise sinngemäss erfasst und der wirtschaftliche Vorbehalt korrekt wiedergegeben."
+    },
+    {
+      "response_id": "agr_015_20261014T072645Z_fb1d06_a1",
+      "item_id": "agr_015",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Nein, sie muss **nicht** melden, solange der Verdacht **nicht bestätigt** ist.",
+          "reason": "Die Antwort widerspricht § 78 des Luzerner Landwirtschaftsgesetzes ausdrücklich. Bereits die vermutete Wahrnehmung eines gemeingefährlichen Schädlings löst die Meldepflicht aus."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "bei konkreten Anzeichen (z. B. sichtbare Schäden, Expertenmeinung) **umgehend** die zuständige kantonale Stelle (z. B. Amt für Landwirtschaft oder Pflanzenschutz) informieren.",
+          "reason": "Die unverzügliche Information wird mit umgehend sinngemäss angesprochen. Sie wird jedoch nur als Empfehlung bei zusätzlichen Anzeichen formuliert und nicht als unmittelbar geltende gesetzliche Pflicht."
+        },
+        {
+          "criterion_id": "3",
+          "status": "met",
+          "response_quote": "die zuständige kantonale Stelle (z. B. Amt für Landwirtschaft oder Pflanzenschutz) informieren.",
+          "reason": "Die zuständige kantonale Stelle ist eine ausreichende sinngemässe Bezeichnung der zuständigen Dienststelle."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die zentrale rechtliche Entscheidung ist falsch. Die Antwort verlangt eine Bestätigung des Verdachts, obwohl bereits die vermutete Wahrnehmung eine unverzügliche Meldepflicht auslöst. Die zuständige Meldestelle wird sinngemäss bezeichnet."
+    },
+    {
+      "response_id": "civ_012_20261014T072645Z_fb1d06_a1",
+      "item_id": "civ_012",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Ja, Namen, Kantons- und Gemeindebürgerrechte sowie die Staatsangehörigkeit gehören zum Personenstand nach Art. 39 ZGB.",
+          "reason": "Alle drei verlangten Kategorien werden korrekt dem Personenstand zugeordnet."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "Der Personenstand wird in öffentlichen Registern beurkundet (Art. 39 Abs. 2 ZGB), konkret im Personenstandsregister (Zivilstandsregister).",
+          "reason": "Das Personenstandsregister wird korrekt genannt. Die ausdrücklich erfragte elektronische Registerform fehlt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Zugehörigkeit zum Personenstand ist vollständig beantwortet. Die Registerbezeichnung ist korrekt, aber die elektronische Form wird nicht erwähnt."
+    },
+    {
+      "response_id": "civ_013_20261014T072645Z_fb1d06_a1",
+      "item_id": "civ_013",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "kann die Person beim zuständigen Zivilgericht (Einzelgericht) klagen.",
+          "reason": "Die gerichtliche Klagemöglichkeit wird korrekt genannt. Eine bestimmte kantonale Gerichtsbezeichnung ist nicht erforderlich."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "Sie muss ein persönliches Interesse an der Berichtigung glaubhaft machen.",
+          "reason": "Das persönliche Interesse und dessen Glaubhaftmachung werden genannt. Die erforderliche Schutzwürdigkeit des Interesses wird nicht ausdrücklich oder eindeutig sinngemäss bezeichnet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die zuständige gerichtliche Instanz ist korrekt angegeben. Beim persönlichen Interesse fehlt die gesetzlich verlangte Qualifikation als schützenswert."
+    }
+  ]
+}

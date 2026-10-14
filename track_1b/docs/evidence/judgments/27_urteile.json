@@ -1,0 +1,148 @@
+{
+  "judgments": [
+    {
+      "response_id": "pro_004_20261014T072645Z_fb1d06_a1",
+      "item_id": "pro_004",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "**Miteigentum**",
+          "reason": "Die Eigentumsform wird korrekt als Miteigentum bezeichnet."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Die Anteile gelten als **gleich gross**, wenn nichts anderes festgestellt ist.",
+          "reason": "Die gesetzliche Vermutung gleicher Anteile wird vollständig wiedergegeben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide Fragen werden vollständig und in Übereinstimmung mit Art. 646 ZGB beantwortet."
+    },
+    {
+      "response_id": "pro_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "pro_005",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "das **gemeinschaftliche Eigentum** (Miteigentum)",
+          "reason": "Art. 652 ZGB regelt Gesamteigentum. Die Antwort bezeichnet die Eigentumsform ausdrücklich als Miteigentum und verwechselt damit zwei unterschiedliche Eigentumsformen."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Das Recht jedes Beteiligten erstreckt sich auf die Sache als Ganzes",
+          "reason": "Die verlangte Aussage zur Erstreckung des Rechts auf die ganze Sache ist ausdrücklich vorhanden. Die anschliessende fehlerhafte Darstellung selbstständiger Miteigentumsanteile betrifft die Eigentumsform und wird dort berücksichtigt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erkennt die Erstreckung des Rechts auf die ganze Sache richtig. Sie verwechselt jedoch Gesamteigentum mit Miteigentum und unterstellt den Beteiligten frei verfügbare Anteile. Dieser Kernfehler wird nicht zusätzlich als separater Fehler gezählt."
+    },
+    {
+      "response_id": "pro_006_20261014T072645Z_fb1d06_a1",
+      "item_id": "pro_006",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Art. 657 Abs. 1 ZGB verlangt für die Verbindlichkeit eines Vertrags auf Eigentumsübertragung an einem Grundstück die öffentliche Beurkundung.",
+          "reason": "Die erforderliche öffentliche Beurkundung wird korrekt genannt. Die Antwort stellt zusätzlich richtig fest, dass die einfache Schriftform nicht genügt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erfüllt den Auftrag vollständig und entspricht Art. 657 Abs. 1 ZGB."
+    },
+    {
+      "response_id": "pro_007_20261014T072645Z_fb1d06_a1",
+      "item_id": "pro_007",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Ja, eine Person darf nach Art. 699 Abs. 1 ZGB in ortsüblichem Umfang einen fremden Wald betreten und dort wildwachsende Beeren sammeln.",
+          "reason": "Das Betreten und Sammeln wildwachsender Beeren im ortsüblichen Umfang wird korrekt als gestattet bezeichnet."
+        },
+        {
+          "criterion_id": "2",
+          "status": "partial",
+          "response_quote": "Die Bestimmung enthält einen ausdrücklichen Vorbehalt zugunsten behördlicher Verbote.",
+          "reason": "Die Möglichkeit behördlicher Verbote wird richtig erkannt. Es fehlt jedoch die gesetzlich verlangte Beschränkung auf einzelne bestimmt umgrenzte Verbote im Interesse der Kulturen. Stattdessen werden allgemein besondere Gründe angeführt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Der Eigentümer oder die zuständige Behörde kann das Betreten und Sammeln untersagen",
+          "label_impact": "material",
+          "reason": "Die Aussage stellt ein eigenes Verbotsrecht des Eigentümers neben die behördliche Zuständigkeit. Art. 699 Abs. 1 ZGB nennt für den erfragten Vorbehalt ausschliesslich die zuständige Behörde. Ob und unter welchen anderen Rechtsgrundlagen der Eigentümer ein Verbot durchsetzen könnte, ist anhand der gelieferten Quelle nicht abschliessend geklärt. Die Behauptung betrifft die wesentliche Zuständigkeit und könnte die rechtliche Beurteilung verändern."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": false,
+      "reason": "Die grundsätzliche Erlaubnis ist richtig. Der behördliche Verbotsvorbehalt wird nur unvollständig wiedergegeben. Zusätzlich enthält die Antwort eine nicht hinreichend belegte Aussage zu einem selbstständigen Verbotsrecht des Eigentümers, die wegen ihrer rechtlichen Bedeutung überprüft werden muss."
+    },
+    {
+      "response_id": "pro_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "pro_008",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Art. 728 Abs. 1 ZGB sieht vor, dass die Person durch die ununterbrochene und unangefochtene Besitzesdauer von fünf Jahren in gutem Glauben Eigentümer der Sache wird (Ersitzung).",
+          "reason": "Der Eigentumserwerb durch Ersitzung nach fünf Jahren wird unter den vorgegebenen Voraussetzungen korrekt festgestellt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die erfragte Rechtsfolge ist vollständig richtig. Die ungenaue Fundstelle zu den Sonderregeln für Tiere und Kulturgüter betrifft lediglich eine nicht entscheidende Zusatzbemerkung und verändert die Fallbeurteilung nicht."
+    },
+    {
+      "response_id": "ins_014_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_014",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Der Zahlungsbefehl setzt dem Schuldner eine Frist von 20 Tagen zur Befriedigung des Gläubigers.",
+          "reason": "Die Zahlungsfrist von 20 Tagen wird ausdrücklich und korrekt genannt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Ja, die Aufforderung umfasst auch die Betreibungskosten.",
+          "reason": "Die Einbeziehung der Betreibungskosten wird ausdrücklich bestätigt. Aus dem gesamten Antwortkontext ergibt sich die Zahlung der Forderung samt Kosten."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort gibt beide Anforderungen von Art. 69 Abs. 2 Ziff. 2 SchKG korrekt wieder."
+    }
+  ]
+}

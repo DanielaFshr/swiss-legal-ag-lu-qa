@@ -1,0 +1,1800 @@
+[
+  {
+    "response_id": "lab_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "lab_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "lab_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "lab_002",
+    "human_label": "correct",
+    "reason": "Bewertungskriterien sind erfüllt."
+  },
+  {
+    "response_id": "pol_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pol_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pol_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_003",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pol_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pol_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_005",
+    "human_label": "incorrect",
+    "reason": "Der Fall der Unentgeltlichkeit ist nicht korrekt erklärt."
+  },
+  {
+    "response_id": "pol_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pol_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pol_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ren_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "ren_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ren_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "ren_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ren_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "ren_003",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ren_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "ren_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ren_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "ren_005",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tou_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tou_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tou_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_003",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tou_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_004",
+    "human_label": "correct",
+    "reason": "Antwortkriterium erfüllt, wenn auch ausführlicher. Die Zusatzinfos können im Rahmen des referenzierten Artikels nicht überprüft werden."
+  },
+  {
+    "response_id": "tou_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_005",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tou_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tou_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_007",
+    "human_label": "correct",
+    "reason": "Obligatorischerklärung fehlt zwar in der Antwort, die Frage enthält jedoch implizit den Hinweis, dass eine Plattfom bereits existiert (\"über die elektronische Plattform\")"
+  },
+  {
+    "response_id": "ban_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "ban_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ban_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "ban_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ban_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "ban_003",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ban_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "ban_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ban_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "ban_005",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ban_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "ban_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "civ_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "civ_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "civ_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_003",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "civ_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "civ_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_005",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "civ_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "civ_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "civ_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_008",
+    "human_label": "incorrect",
+    "reason": "Antwort richtig, jedoch ohne Details wie Normalfall und Regierungsrat als Bewilligungsbehörde."
+  },
+  {
+    "response_id": "civ_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_009",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "civ_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "civ_011_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_011",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_002",
+    "human_label": "correct",
+    "reason": "Antwortkriterien sinngemäss erfüllt, wenn auch teilweise etwas schwammig (\"Gläubigerinteressen\"). Ich habe den EIndruck, dass 80 % erfüllt sind."
+  },
+  {
+    "response_id": "ins_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_004",
+    "human_label": "correct",
+    "reason": "Kriterien sinngemäss korrekt beantwortet."
+  },
+  {
+    "response_id": "ins_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_005",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_006",
+    "human_label": "incorrect",
+    "reason": "Vermischung mit Anwaltspatent."
+  },
+  {
+    "response_id": "ins_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "mob_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_001",
+    "human_label": "incorrect",
+    "reason": "Antwort ist zwar korrekt, im Detail gibt es jedoch Abweichungen (\"andere untergeordnete Behörden\", Beschwerdemöglichkeit)."
+  },
+  {
+    "response_id": "mob_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "mob_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_003",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "mob_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "mob_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_005",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "mob_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "mob_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "mob_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "mob_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_009",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "agr_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_001",
+    "human_label": "correct",
+    "reason": "Kriterien sind korrekt beantwortet"
+  },
+  {
+    "response_id": "agr_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "agr_003_20261014T212852Z_7e47ec_a1",
+    "human_label": null
+  },
+  {
+    "response_id": "agr_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "agr_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_005",
+    "human_label": "incorrect",
+    "reason": "Antwort im Grundsatz richtig aber falsches Rechtsgebiet (wäre Landwirtschaft, genannt wird Gesundheit)."
+  },
+  {
+    "response_id": "agr_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "agr_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_007",
+    "human_label": "correct",
+    "reason": "Einige Kriterien sind nur sinngemäss erfüllt (\"nachgewiesen\" steht z.B. nirgends explizit), ich würde jedoch schätzen, dass mind. 80 % der Frage trotzdem richtig beantwortet ist."
+  },
+  {
+    "response_id": "agr_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "agr_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_009",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "agr_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "lab_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "lab_003",
+    "human_label": "correct",
+    "reason": "Kritierum erfüllt."
+  },
+  {
+    "response_id": "lab_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "lab_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "lab_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "lab_005",
+    "human_label": "incorrect",
+    "reason": "Bis zum 20. Altersjahr sind es mind. 5 Wochen."
+  },
+  {
+    "response_id": "lab_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "lab_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "lab_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "lab_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ren_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "ren_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ren_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "ren_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ren_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "ren_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ren_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "ren_009",
+    "human_label": "correct",
+    "reason": "Alle Kriterien sind erfüllt."
+  },
+  {
+    "response_id": "ren_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "ren_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "per_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "per_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "per_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "per_002",
+    "human_label": "correct",
+    "reason": "Antwortkriterien sind erfüllt."
+  },
+  {
+    "response_id": "per_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "per_003",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "per_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "per_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "per_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "per_005",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "fam_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "fam_001",
+    "human_label": "incorrect",
+    "reason": "Das Kriterium \"Verständigung\" fehlt."
+  },
+  {
+    "response_id": "fam_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "fam_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "fam_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "fam_003",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "fam_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "fam_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "fam_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "fam_005",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "inh_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "inh_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "inh_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "inh_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "inh_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "inh_003",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pro_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "pro_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pro_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "pro_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ban_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "ban_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ban_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "ban_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ban_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "ban_009",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ban_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "ban_010",
+    "human_label": "incorrect",
+    "reason": "Falscher Wert verwendet."
+  },
+  {
+    "response_id": "ban_011_20261014T072645Z_fb1d06_a1",
+    "item_id": "ban_011",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tou_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tou_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_009",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tou_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tou_011_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_011",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tou_012_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_012",
+    "human_label": "correct",
+    "reason": "Antwortkriterien sind erfüllt."
+  },
+  {
+    "response_id": "pol_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_009",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pol_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pol_011_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_011",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pol_012_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_012",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_009",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_011_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_011",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_012_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_012",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_013_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_013",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "per_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "per_006",
+    "human_label": "correct",
+    "reason": "Antwort enthält keine Unterscheidung vorher/nachher, ist aber auch nicht zwingend notwendig, um die Frage korrekt zu beantworten."
+  },
+  {
+    "response_id": "per_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "per_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "fam_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "fam_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "inh_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "inh_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "inh_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "inh_005",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pro_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "pro_003",
+    "human_label": "correct",
+    "reason": "Antwort und Begründung korrekt, Begründung enthält leicht zu viele Ausführungen."
+  },
+  {
+    "response_id": "lab_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "lab_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "lab_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "lab_009",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "lab_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "lab_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "lab_011_20261014T072645Z_fb1d06_a1",
+    "item_id": "lab_011",
+    "human_label": "incorrect",
+    "reason": "Der Arbeitnehmer hat keine Verpflichtung zur Nachleistung. "
+  },
+  {
+    "response_id": "lab_012_20261014T072645Z_fb1d06_a1",
+    "item_id": "lab_012",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ren_011_20261014T072645Z_fb1d06_a1",
+    "item_id": "ren_011",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ren_012_20261014T072645Z_fb1d06_a1",
+    "item_id": "ren_012",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ren_013_20261014T072645Z_fb1d06_a1",
+    "item_id": "ren_013",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ren_014_20261014T072645Z_fb1d06_a1",
+    "item_id": "ren_014",
+    "human_label": "correct",
+    "reason": "Grundsätzlich korrekt, Schriftlichkeit fehlt, 80 % sollten jedoch erreicht sein."
+  },
+  {
+    "response_id": "ren_015_20261014T072645Z_fb1d06_a1",
+    "item_id": "ren_015",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "mob_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "mob_011_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_011",
+    "human_label": "correct",
+    "reason": "Kriterium ist erfüllt, auch wenn die Referenzantwort nicht zu 100 % erreicht ist (\"Lenker muss anhalten\")."
+  },
+  {
+    "response_id": "mob_012_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_012",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "mob_013_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_013",
+    "human_label": "incorrect",
+    "reason": "Bewilligungsstelle ist der Gemeinderat."
+  },
+  {
+    "response_id": "mob_014_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_014",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "agr_011_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_011",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "agr_012_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_012",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "agr_013_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_013",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "agr_014_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_014",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "agr_015_20261014T072645Z_fb1d06_a1",
+    "item_id": "agr_015",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "civ_012_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_012",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "civ_013_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_013",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "civ_014_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_014",
+    "human_label": "correct",
+    "reason": "Antwortkriterium erfüllt, wenn auch ausführlicher."
+  },
+  {
+    "response_id": "civ_015_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_015",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "civ_016_20261014T072645Z_fb1d06_a1",
+    "item_id": "civ_016",
+    "human_label": "correct",
+    "reason": "Antwort korrekt aber zu ausführlich, müsste genauer untersucht werden."
+  },
+  {
+    "response_id": "per_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "per_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "per_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "per_009",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "per_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "per_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "per_011_20261014T072645Z_fb1d06_a1",
+    "item_id": "per_011",
+    "human_label": "correct",
+    "reason": "Kriterium ist erfüllt. Exaktes Departement müsste weiter gesprüft werden, ist nicht Gegenstand dieser Auswertung."
+  },
+  {
+    "response_id": "per_012_20261014T072645Z_fb1d06_a1",
+    "item_id": "per_012",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "fam_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "fam_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "fam_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "fam_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "fam_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "fam_009",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "fam_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "fam_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "fam_011_20261014T072645Z_fb1d06_a1",
+    "item_id": "fam_011",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "inh_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "inh_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "inh_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "inh_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "inh_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "inh_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "inh_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "inh_009",
+    "human_label": "incorrect",
+    "reason": "Antwort komplett falsch, ein Widerruf ist jederzeit möglich."
+  },
+  {
+    "response_id": "inh_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "inh_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pro_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "pro_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pro_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "pro_005",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pro_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "pro_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pro_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "pro_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pro_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "pro_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_014_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_014",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_015_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_015",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_016_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_016",
+    "human_label": "correct",
+    "reason": "Antwortkriterien sind erfüllt."
+  },
+  {
+    "response_id": "ins_017_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_017",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_018_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_018",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ban_012_20261014T072645Z_fb1d06_a1",
+    "item_id": "ban_012",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ban_013_20261014T072645Z_fb1d06_a1",
+    "item_id": "ban_013",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ban_014_20261014T072645Z_fb1d06_a1",
+    "item_id": "ban_014",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ban_015_20261014T072645Z_fb1d06_a1",
+    "item_id": "ban_015",
+    "human_label": "incorrect",
+    "reason": "Universalbank und Bankgrundsätze wird nicht erwähnt. Insgesamt Antwort zu schwach."
+  },
+  {
+    "response_id": "ban_016_20261014T072645Z_fb1d06_a1",
+    "item_id": "ban_016",
+    "human_label": "incorrect",
+    "reason": "Falsche Antwortauswahl und entsprechend falsche Begründung."
+  },
+  {
+    "response_id": "tou_013_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_013",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tou_014_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_014",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tou_015_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_015",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tou_016_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_016",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tou_017_20261014T072645Z_fb1d06_a1",
+    "item_id": "tou_017",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pol_013_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_013",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pol_014_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_014",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pol_015_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_015",
+    "human_label": "correct",
+    "reason": "Grenzfall, alle Kriterien wurden sinngemäss genannt, mit kleinen Nuancen. Würde es eher als erfüllt betrachten."
+  },
+  {
+    "response_id": "pol_016_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_016",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pol_017_20261014T072645Z_fb1d06_a1",
+    "item_id": "pol_017",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "mob_015_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_015",
+    "human_label": "incorrect",
+    "reason": "Amtsblatt korrekt, jedoch Handelsamtsblatt nicht korrekt."
+  },
+  {
+    "response_id": "mob_016_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_016",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "mob_017_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_017",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "mob_018_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_018",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "mob_019_20261014T072645Z_fb1d06_a1",
+    "item_id": "mob_019",
+    "human_label": "correct",
+    "reason": "Leichte Abweichung bei der Antwort nach der Gebührenhöhe, aber insgesamt innerhalb der 80 %."
+  },
+  {
+    "response_id": "ins_019_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_019",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_020_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_020",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_021_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_021",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_022_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_022",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_023_20261014T072645Z_fb1d06_a1",
+    "item_id": "ins_023",
+    "human_label": "correct",
+    "reason": "Bewertungskriterien sind erfüllt."
+  },
+  {
+    "response_id": "tax_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "tax_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tax_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "tax_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tax_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "tax_003",
+    "human_label": "incorrect",
+    "reason": "Antwort eigentlich korrekt, jedoch die Begrüdung nicht (Steuerpflicht in der Schweiz wird nicht genannt, Zweckbestimmung ist nicht  zutreffend)."
+  },
+  {
+    "response_id": "tax_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "tax_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "edu_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "edu_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "edu_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "edu_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "edu_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "edu_003",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "edu_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "edu_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "con_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "con_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "con_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "con_002",
+    "human_label": "incorrect",
+    "reason": "Schwellenwert falsch begründet und berechnet"
+  },
+  {
+    "response_id": "con_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "con_003",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "con_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "con_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "wel_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "wel_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "wel_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "wel_002",
+    "human_label": "incorrect",
+    "reason": "Keine Unterscheidung nach Besuch und Zutritt."
+  },
+  {
+    "response_id": "wel_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "wel_003",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "wel_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "wel_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "dat_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "dat_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "dat_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "dat_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "dat_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "dat_003",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "dat_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "dat_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "hos_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "hos_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "hos_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "hos_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "hos_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "hos_003",
+    "human_label": "incorrect",
+    "reason": "Antwort und Behörde korrekt, jedoch Frist nicht korrekt."
+  },
+  {
+    "response_id": "com_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "com_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "com_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "com_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "soc_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "soc_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "soc_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "soc_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "soc_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "soc_003",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "soc_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "soc_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "soc_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "soc_005",
+    "human_label": "incorrect",
+    "reason": "Die Antwort trifft den Kern nicht ganz (der Artikel ist ein Kann-Artikel und von Änderungsaufgaben ist nicht konkret die Rede)."
+  },
+  {
+    "response_id": "hom_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "hom_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "hom_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "hom_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "hom_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "hom_003",
+    "human_label": "correct",
+    "reason": "Kriterium erfüllt."
+  },
+  {
+    "response_id": "hom_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "hom_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "hom_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "hom_005",
+    "human_label": "correct",
+    "reason": "Antwortkriterien sind sinngemäss korrekt beantwortet."
+  },
+  {
+    "response_id": "cop_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "cop_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "cop_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "cop_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "cop_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "cop_003",
+    "human_label": "correct",
+    "reason": "Begründung etwas langatmig, nicht sicher, ob der Begriff \"numerus clausus\" hier korrekt verwendet wird. Ändert jedoch nichts an der Aussage, die korrekt ist."
+  },
+  {
+    "response_id": "cop_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "cop_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "cop_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "cop_005",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "imp_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "imp_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "imp_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "imp_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "imp_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "imp_003",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "imp_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "imp_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "imp_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "imp_005",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pos_001_20261014T072645Z_fb1d06_a1",
+    "item_id": "pos_001",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pos_002_20261014T072645Z_fb1d06_a1",
+    "item_id": "pos_002",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pos_003_20261014T072645Z_fb1d06_a1",
+    "item_id": "pos_003",
+    "human_label": "incorrect",
+    "reason": "Antwort komplett falsch, sowohl Gewichtsangabe wie auch Ausnahmen."
+  },
+  {
+    "response_id": "pos_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "pos_004",
+    "human_label": "incorrect",
+    "reason": "Kriterien erwähnt aber nicht korrekt wiedergegeben."
+  },
+  {
+    "response_id": "pos_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "pos_005",
+    "human_label": "incorrect",
+    "reason": "Das Kriterium \"Zustimmung\" fehlt."
+  },
+  {
+    "response_id": "tax_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "tax_005",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tax_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "tax_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tax_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "tax_007",
+    "human_label": "correct",
+    "reason": "Kriterium ist erfüllt, die Antwort ist etwas langatmig."
+  },
+  {
+    "response_id": "tax_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "tax_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tax_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "tax_009",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "tax_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "tax_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "edu_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "edu_005",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "edu_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "edu_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "edu_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "edu_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "edu_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "edu_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "edu_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "edu_009",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "edu_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "edu_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "con_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "con_005",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "con_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "con_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "con_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "con_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "con_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "con_008",
+    "human_label": "correct",
+    "reason": "Antwortkriterien sind erfüllt, wenn gleich die Antwort sehr umfangreich ist."
+  },
+  {
+    "response_id": "con_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "con_009",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "con_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "con_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "wel_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "wel_005",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "wel_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "wel_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "wel_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "wel_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "wel_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "wel_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "dat_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "dat_005",
+    "human_label": "correct",
+    "reason": "Kriterium korrekt erfüllt."
+  },
+  {
+    "response_id": "dat_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "dat_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "dat_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "dat_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "wel_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "wel_009",
+    "human_label": "incorrect",
+    "reason": "Einseitiger Fokus der Antwort auf die Mutter. Falsche Zeitdauer der Unterstützung."
+  },
+  {
+    "response_id": "wel_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "wel_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "dat_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "dat_008",
+    "human_label": "correct",
+    "reason": "Beide Kriterien sind im wesentlichen erfüllt."
+  },
+  {
+    "response_id": "dat_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "dat_009",
+    "human_label": "correct",
+    "reason": "Gemäss Absatz 4 des Artikels gibt es durchaus gesetzliche Ausnahmen, anders als im Bewertungstext. Die Modellantwort sollte nicht aufgrund dieses Umstands als incorrect bezeichnet werden."
+  },
+  {
+    "response_id": "dat_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "dat_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "hos_004_20261014T072645Z_fb1d06_a1",
+    "item_id": "hos_004",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "hos_005_20261014T072645Z_fb1d06_a1",
+    "item_id": "hos_005",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "hos_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "hos_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "hos_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "hos_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "hos_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "hos_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "soc_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "soc_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "soc_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "soc_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "soc_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "soc_008",
+    "human_label": "correct",
+    "reason": "Alle Kriterien sind erfüllt."
+  },
+  {
+    "response_id": "soc_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "soc_009",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "soc_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "soc_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "cop_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "cop_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "cop_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "cop_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "cop_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "cop_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "cop_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "cop_009",
+    "human_label": "incorrect",
+    "reason": "Antwort eigentlich richtig, aber geht nicht auf die Frage ein, welche ein konkretes Exemplar als Beispiel verwendet."
+  },
+  {
+    "response_id": "cop_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "cop_010",
+    "human_label": "incorrect",
+    "reason": "70 Jahre für Literatur korrekt, jedoch Computerprogramm sind nur 50 Jahre geschützt."
+  },
+  {
+    "response_id": "imp_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "imp_006",
+    "human_label": "correct",
+    "reason": "Beide Anspruchsgruppen wurden sinngemäss genannt."
+  },
+  {
+    "response_id": "imp_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "imp_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "imp_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "imp_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "imp_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "imp_009",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "imp_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "imp_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pos_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "pos_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pos_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "pos_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pos_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "pos_008",
+    "human_label": "incorrect",
+    "reason": "Es wurde politische Gemeinde anstelle von Ortschaft genannt."
+  },
+  {
+    "response_id": "hom_006_20261014T072645Z_fb1d06_a1",
+    "item_id": "hom_006",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "hom_007_20261014T072645Z_fb1d06_a1",
+    "item_id": "hom_007",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "hom_008_20261014T072645Z_fb1d06_a1",
+    "item_id": "hom_008",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pro_009_20261014T072645Z_fb1d06_a1",
+    "item_id": "pro_009",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pro_010_20261014T072645Z_fb1d06_a1",
+    "item_id": "pro_010",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "pro_011_20261014T072645Z_fb1d06_a1",
+    "item_id": "pro_011",
+    "human_label": null,
+    "reason": ""
+  },
+  {
+    "response_id": "ins_003_20261014T072645Z_fb1d06_a2",
+    "item_id": "ins_003",
+    "human_label": "incorrect",
+    "reason": "Die Antwort liefert willkürliche Zahlenreihen anstelle der erforderlichen Artikel."
+  }
+]

@@ -1,0 +1,178 @@
+{
+  "judgments": [
+    {
+      "response_id": "inh_005_20261014T072645Z_fb1d06_a1",
+      "item_id": "inh_005",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Ja, die gesetzliche Erbin darf die Erbschaft ausschlagen.",
+          "reason": "Das Ausschlagungsrecht der gesetzlichen Erbin wird ausdrücklich bestätigt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Die ordentliche Frist beträgt drei Monate (Art. 567 Abs. 1 ZGB).",
+          "reason": "Die ordentliche Ausschlagungsfrist wird korrekt angegeben."
+        },
+        {
+          "criterion_id": "3",
+          "status": "met",
+          "response_quote": "Da sie erst am Todestag vom Tod des Erblassers erfährt, beginnt die Frist an diesem Tag zu laufen.",
+          "reason": "Der Fristbeginn am Todestag aufgrund der Kenntnis vom Tod wird korrekt bestimmt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Alle drei Kriterien sind erfüllt. Die Aussage zur Kenntnis von der Eröffnung des Erbgangs ist im Zusammenhang mit dem ausdrücklich genannten Todestag ausreichend präzisiert."
+    },
+    {
+      "response_id": "pro_003_20261014T072645Z_fb1d06_a1",
+      "item_id": "pro_003",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "namentlich durch übermässige Einwirkungen auf Nachbargrundstücke.",
+          "reason": "Die Beschränkung des Eigentumsrechts durch das Verbot übermässiger Einwirkungen wird klar dargestellt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "**Lage und Beschaffenheit der Grundstücke** (z. B. Wohn- vs. Industriegebiet);",
+          "reason": "Lage und Beschaffenheit werden ausdrücklich genannt. Zusätzlich wird der Ortsgebrauch als Beurteilungskriterium aufgeführt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "**Verhältnismässigkeit** (ob die Einwirkung für den Eigentümer notwendig oder unvermeidbar ist)",
+          "label_impact": "minor",
+          "reason": "Die gelieferte Quelle nennt Notwendigkeit oder Unvermeidbarkeit für den Eigentümer nicht als eigenständige Rechtfertigung. Ob die Aussage als zusätzliches Beurteilungskriterium rechtlich zutrifft, lässt sich anhand des Quellenausschnitts nicht abschliessend prüfen. Sie ist für die korrekte Beantwortung der beiden verlangten Kriterien nicht entscheidend."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Behauptung wird korrekt verneint und die gesetzlich massgeblichen Umstände werden vollständig genannt. Eine zusätzliche Aussage zur Verhältnismässigkeit bleibt anhand der gelieferten Quelle ungeklärt."
+    },
+    {
+      "response_id": "lab_008_20261014T072645Z_fb1d06_a1",
+      "item_id": "lab_008",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Da hier weder eine Vereinbarung noch eine Umstandsvertretung vorliegt, verletzt die eigenmächtige Übertragung der Arbeit die vertragliche Pflicht zur persönlichen Leistung.",
+          "reason": "Die persönliche Leistungspflicht und das Fehlen beider gesetzlichen Ausnahmen werden korrekt berücksichtigt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Der Arbeitgeber könnte zudem wegen Vertragsverletzung Sanktionen ergreifen (z. B. Abmahnung, Lohnkürzung oder Kündigung).",
+          "label_impact": "minor",
+          "reason": "Art. 321 OR belegt die persönliche Leistungspflicht, regelt jedoch nicht die genannten Sanktionen. Insbesondere die Voraussetzungen einer Lohnkürzung lassen sich anhand der gelieferten Quelle nicht prüfen. Die zusätzliche Aussage verändert die erfragte Beurteilung der Vertretungsbefugnis nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Verneinung und ihre Begründung stimmen mit Art. 321 OR überein. Die zusätzlich genannten arbeitsrechtlichen Sanktionen sind nicht ausreichend belegt, betreffen aber nicht den entscheidenden Antwortauftrag."
+    },
+    {
+      "response_id": "lab_009_20261014T072645Z_fb1d06_a1",
+      "item_id": "lab_009",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die nach Art. 321b Abs. 1 OR erforderliche Rechenschaftsablage über den vom Kunden für den Arbeitgeber erhaltenen Betrag wird nicht genannt. Die allgemeine Pflicht zur sorgfältigen Aufbewahrung ersetzt diese nicht."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "und dem Arbeitgeber auf Verlangen herauszugeben.",
+          "reason": "Die Antwort stellt die Herausgabe zunächst unter die Voraussetzung eines Verlangens des Arbeitgebers. Art. 321b Abs. 1 OR verlangt dagegen die sofortige Herausgabe. Die spätere Aussage zur Herausgabepflicht enthält keine zeitliche Präzisierung, welche diesen Widerspruch aufhebt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "sowie alle ihm bekannt gewordenen Geschäftsgeheimnisse sorgfältig zu bewahren und dem Arbeitgeber auf Verlangen herauszugeben.",
+          "label_impact": "minor",
+          "reason": "Die zusätzliche Behandlung von Geschäftsgeheimnissen wird durch den gelieferten Art. 321b Abs. 1 OR nicht geregelt. Ob und unter welchen Voraussetzungen eine entsprechende Pflicht besteht, kann mit dieser Quelle nicht abschliessend geprüft werden. Die Aussage ist für die konkret erfragten Pflichten betreffend den Geldbetrag nicht entscheidend."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort erwähnt zwar die Herausgabe von Kundengeldern, verkennt aber die gesetzlich verlangte sofortige Herausgabe durch die Formulierung auf Verlangen. Die eigenständige Pflicht zur Rechenschaftsablage fehlt vollständig."
+    },
+    {
+      "response_id": "lab_010_20261014T072645Z_fb1d06_a1",
+      "item_id": "lab_010",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "insbesondere die Art und Weise der Arbeitserfüllung, den Arbeitsort, die Arbeitszeit und das Verhalten gegenüber Vorgesetzten, Mitarbeitenden und Dritten.",
+          "reason": "Arbeitsausführung und arbeitsbezogenes Verhalten werden sinngemäss erfasst. Der Betrieb oder Haushalt muss nicht wörtlich wiederholt werden."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Der Arbeitnehmer hat diese Anordnungen und Weisungen nach dem Grundsatz von Treu und Glauben zu befolgen",
+          "reason": "Der verlangte Grundsatz wird ausdrücklich und korrekt genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide Kriterien sind erfüllt. Die Antwort beschreibt die zulässigen Weisungsbereiche sinngemäss und nennt ausdrücklich Treu und Glauben. Die ergänzende Begrenzung durch Gesetz, Vertrag und Persönlichkeitsrechte widerspricht dem gelieferten Gesetzestext nicht."
+    },
+    {
+      "response_id": "lab_011_20261014T072645Z_fb1d06_a1",
+      "item_id": "lab_011",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Ja, der Lohn bleibt nach Art. 324 OR geschuldet",
+          "reason": "Die fortbestehende Lohnzahlungspflicht bei Annahmeverzug wird korrekt bestätigt."
+        },
+        {
+          "criterion_id": "2",
+          "status": "contradicted",
+          "response_quote": "Der Arbeitnehmer muss die ausgefallene Arbeit grundsätzlich nachholen, sobald der Arbeitgeber wieder in der Lage ist, die Arbeit anzunehmen.",
+          "reason": "Die Antwort behauptet ausdrücklich eine grundsätzliche Nachleistungspflicht. Art. 324 Abs. 1 OR schliesst diese bei Annahmeverzug aus."
+        },
+        {
+          "criterion_id": "3",
+          "status": "met",
+          "response_quote": "Ein währenddessen durch anderweitige Arbeit erzielter Verdienst ist anzurechnen und mindert den Lohnanspruch nach Art. 324 OR entsprechend.",
+          "reason": "Die Anrechnung des anderweitig erzielten Arbeitsverdienstes wird korrekt beschrieben."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Lohnzahlungspflicht und die Anrechnung des anderweitigen Verdienstes sind korrekt. Die ausdrücklich behauptete Pflicht zur Nachleistung widerspricht hingegen Art. 324 Abs. 1 OR."
+    }
+  ]
+}

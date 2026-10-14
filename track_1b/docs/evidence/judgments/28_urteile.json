@@ -1,0 +1,154 @@
+{
+  "judgments": [
+    {
+      "response_id": "ins_015_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_015",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Gemäss Art. 75 Abs. 1 SchKG ist eine Begründung des Rechtsvorschlags nicht erforderlich.",
+          "reason": "Die Antwort hält ausdrücklich fest, dass der Rechtsvorschlag keiner Begründung bedarf."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "oder er auf weitere Einreden verzichtet.",
+          "reason": "Die Antwort erklärt im Zusammenhang mit freiwillig genannten Gründen ausdrücklich, dass kein Verzicht auf weitere Einreden eintritt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Beide Rechtsfolgen nach Art. 75 Abs. 1 SchKG werden korrekt und vollständig wiedergegeben."
+    },
+    {
+      "response_id": "ins_016_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_016",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Der Rechtsvorschlag hemmt die Betreibung nur für die bestrittenen **400 Franken**.",
+          "reason": "Die Antwort beschreibt zutreffend, dass die Betreibung für den bestrittenen Teil von 400 Franken nicht fortgesetzt werden kann."
+        },
+        {
+          "criterion_id": "2",
+          "status": "met",
+          "response_quote": "Die Betreibung kann für **600 Franken** fortgesetzt werden.",
+          "reason": "Der unbestrittene Betrag wird richtig berechnet und die Möglichkeit zur Fortsetzung der Betreibung wird ausdrücklich genannt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "da der Schuldner diesen Betrag anerkannt hat",
+          "label_impact": "minor",
+          "reason": "Ob der unterbliebene Rechtsvorschlag rechtlich als Anerkennung der Forderung gilt, lässt sich aus dem gelieferten Art. 78 SchKG nicht beurteilen. Diese zusätzliche Begründung ist für die richtige Fortsetzungsmöglichkeit nicht entscheidend."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Einstellung für 400 Franken und die Fortsetzungsmöglichkeit für 600 Franken werden richtig dargestellt. Eine zusätzliche Aussage zur Anerkennung ist nicht verifiziert."
+    },
+    {
+      "response_id": "ins_017_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_017",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "Der Gemeinderat ist nicht für die Anstellung von Betreibungsbeamtinnen und -beamten zuständig.",
+          "reason": "Gemäss § 3 EGSchKG ist gerade der Gemeinderat am Sitz des Betreibungsamts für die Anstellung der Betreibungsbeamtin oder des Betreibungsbeamten und der Stellvertretung zuständig. Die Antwort weist diese Zuständigkeit ausdrücklich zurück und nennt stattdessen den Regierungsrat."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Gemäss Art. 12 Abs. 1 des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG) werden die Betreibungs- und Konkursbeamten von der nach kantonalem Recht zuständigen Behörde ernannt.",
+          "label_impact": "minor",
+          "reason": "Der angeführte Art. 12 SchKG ist nicht als Quelle geliefert. Die Richtigkeit dieser zusätzlichen bundesrechtlichen Herleitung bleibt ungeprüft. Der entscheidende Zuständigkeitsfehler ist bereits im Kriterium erfasst."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die gesetzlich bestimmte Anstellungsbehörde wird ausdrücklich falsch bezeichnet. Die Zuständigkeit liegt beim Gemeinderat der Sitzgemeinde und nicht beim Regierungsrat."
+    },
+    {
+      "response_id": "ins_018_20261014T072645Z_fb1d06_a1",
+      "item_id": "ins_018",
+      "not_attempted": false,
+      "decision_status": "contradicted",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "contradicted",
+          "response_quote": "der Regierungsrat des Kantons",
+          "reason": "Nach § 3 Abs. 1 EGSchKG Luzern bezeichnet das Bezirksgericht die ausserordentliche Stellvertretung des Betreibungsamts. Die Antwort nennt ausdrücklich eine andere Behörde."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Dies ergibt sich aus Art. 12 SchKG, wonach die Kantone die Organisation der Betreibungs- und Konkursämter regeln und insbesondere für Stellvertretungen bei Verhinderung der ordentlichen Beamten sorgen.",
+          "label_impact": "minor",
+          "reason": "Der Inhalt des angeführten Art. 12 SchKG ist nicht geliefert und wird nicht zusätzlich überprüft. Diese allgemeine Herleitung ändert nichts daran, dass die erfragte kantonale Zuständigkeit nach der vorliegenden Quelle eindeutig falsch beantwortet wird."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die Antwort benennt den Regierungsrat statt des gesetzlich zuständigen Bezirksgerichts. Die erwartete Entscheidung wird damit widersprochen."
+    },
+    {
+      "response_id": "ban_012_20261014T072645Z_fb1d06_a1",
+      "item_id": "ban_012",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Da die Person bereits das 68. Altersjahr vollendet hat, erfüllt sie diese Voraussetzung nicht.",
+          "reason": "Die Antwort erkennt richtig, dass die Vollendung des 68. Altersjahrs bei Amtsantritt die Wählbarkeit ausschliesst. Die zusätzliche Umschreibung als nicht überschrittenes Altersjahr ist ungenau, wird aber durch die eindeutige Fallbeurteilung richtig eingeordnet."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Die konkrete Altersvoraussetzung und ihre Rechtsfolge werden im Gesamtzusammenhang richtig angewendet."
+    },
+    {
+      "response_id": "ban_013_20261014T072645Z_fb1d06_a1",
+      "item_id": "ban_013",
+      "not_attempted": false,
+      "decision_status": "met",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "met",
+          "response_quote": "Die Übertragung dieser Kernaufgaben auf die Geschäftsleitung widerspricht der gesetzlichen Zuständigkeitsordnung",
+          "reason": "Die Antwort ordnet die Festlegung der Strategie und der Rechnungslegungsgrundsätze dem Bankrat zu und erklärt ihre vollständige Übertragung für unzulässig. Damit ist die unübertragbare Zuständigkeit sinngemäss erfüllt."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "Gemäss § 13 Abs. 1 AKBG",
+          "label_impact": "minor",
+          "reason": "Die angeführte Fundstelle ist durch die gelieferte Quelle nicht belegt. Die massgebende Regelung steht in § 10 Abs. 2 lit. b AKBG. Die falsche oder ungeklärte Fundstelle verändert die sachlich richtige Beurteilung der Zuständigkeit nicht."
+        }
+      ],
+      "needs_review": false,
+      "rubric_conflict": false,
+      "reason": "Das Übertragungsverbot wird sachlich korrekt erkannt und begründet. Lediglich die angeführte Gesetzesfundstelle stimmt nicht mit der gelieferten massgebenden Bestimmung überein."
+    }
+  ]
+}

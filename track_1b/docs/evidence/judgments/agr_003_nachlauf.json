@@ -1,0 +1,58 @@
+{
+  "judgments": [
+    {
+      "response_id": "agr_003_20261014T212852Z_7e47ec_a1",
+      "item_id": "agr_003",
+      "not_attempted": false,
+      "decision_status": "not_applicable",
+      "criteria": [
+        {
+          "criterion_id": "1",
+          "status": "missing",
+          "response_quote": "",
+          "reason": "Die Überwachung der phytosanitären Lage wird nicht erwähnt. Einfuhrbeschränkungen sind keine sinngemässe Entsprechung."
+        },
+        {
+          "criterion_id": "2a",
+          "status": "partial",
+          "response_quote": "Befallene Pflanzen, Pflanzenteile oder andere Objekte, die Träger des Schadorganismus sein können, dürfen isoliert werden.",
+          "reason": "Die Isolation von Pflanzenmaterial und anderen möglicherweise betroffenen Objekten wird erkannt. Befallsverdächtige Gegenstände werden nur allgemein erfasst und Parzellen fehlen."
+        },
+        {
+          "criterion_id": "2b",
+          "status": "contradicted",
+          "response_quote": "Die Isolation darf **höchstens 10 Jahre** dauern, sofern dies zur Verhinderung der Ausbreitung notwendig ist.",
+          "reason": "Art. 153 LwG sieht keine Höchstdauer von zehn Jahren vor. Die Isolation darf so lange dauern, als der Befall nicht ausgeschlossen werden kann."
+        },
+        {
+          "criterion_id": "3a",
+          "status": "partial",
+          "response_quote": "**Beseitigungs- oder Vernichtungsmassnahmen** (Pflicht zur Vernichtung oder Behandlung von befallenen Objekten).",
+          "reason": "Vernichtung und Behandlung werden ausdrücklich genannt. Die ebenfalls vorgesehene Desinfizierung fehlt."
+        },
+        {
+          "criterion_id": "3b",
+          "status": "partial",
+          "response_quote": "Pflicht zur Vernichtung oder Behandlung von befallenen Objekten",
+          "reason": "Befallene Objekte werden als Gegenstand der Massnahmen erkannt. Die gesetzlich erfassten Kulturen, Pflanzenmaterialien, Produktionsmittel und Gegenstände werden nicht hinreichend differenziert. Zudem fehlt die Möglichkeit von Massnahmen bei bloss möglichem Befall."
+        }
+      ],
+      "extra_errors": [],
+      "unverified_claims": [
+        {
+          "response_quote": "**Einfuhrbeschränkungen** (Verbot oder Einschränkung der Einfuhr von Pflanzen, Pflanzenteilen oder anderen Objekten, die Schadorganismen übertragen können)",
+          "label_impact": "material",
+          "reason": "Die genannte Massnahmengruppe ist in den ausdrücklich aufgeführten Beispielen von Art. 153 LwG nicht enthalten. Wegen der nicht abschliessenden Formulierung insbesondere lässt sich ihre rechtliche Zulässigkeit anhand des gelieferten Ausschnitts nicht abschliessend beurteilen. Als eine der drei verlangten Massnahmengruppen ist sie für das Urteil wesentlich."
+        },
+        {
+          "response_quote": "**Verbringungsbeschränkungen** (Verbot oder Einschränkung des innerstaatlichen Verbringens von betroffenen Objekten)",
+          "label_impact": "material",
+          "reason": "Auch diese Massnahmengruppe ist nicht ausdrücklich aufgeführt. Ob sie als weitere Massnahme nach Art. 153 LwG zulässig ist, bleibt anhand der gelieferten Quelle offen. Ihre Anerkennung würde die Bewertung der verlangten drei Massnahmengruppen wesentlich beeinflussen."
+        }
+      ],
+      "needs_review": true,
+      "rubric_conflict": true,
+      "reason": "Die Antwort nennt weder die Überwachung der phytosanitären Lage noch die korrekte Isolationsdauer. Die dritte gesetzlich ausdrücklich genannte Massnahmengruppe wird teilweise wiedergegeben. Die behauptete Höchstdauer von zehn Jahren widerspricht Art. 153 LwG. Da der Gesetzestext die Massnahmen mit insbesondere einleitet, können die zusätzlich genannten Einfuhr- und Verbringungsbeschränkungen nicht allein wegen ihres Fehlens in der Referenz als unzulässig verworfen werden. Ihre mögliche Anerkennung als alternative Massnahmengruppen erfordert eine manuelle Prüfung."
+    }
+  ]
+}
