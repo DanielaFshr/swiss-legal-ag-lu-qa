@@ -1,4 +1,4 @@
-# Swiss Legal QA
+# Swiss Aargau Lucerne Legal QA
 
 Evaluation of Apertus v1.5 70B on 300 German-language Swiss legal questions covering federal law and the cantons of Aargau and Lucerne. Hack Apertus, Track 1B, Core Task Intelligence.
 
@@ -14,13 +14,19 @@ make run
 
 No API key, GPU or network access inside the container is required. The image build requires access to the Python base image. The command verifies frozen input hashes, recomputes the scoring and checks the expected counts. Results are printed inside the container. For persistent local output use `make run-local`, requiring Python 3.10 or later. Outputs appear under `track_1b/results/`.
 
-The Python workflow has been executed successfully. Docker is not available in the preparation environment, so a clean Docker run remains to be verified before submission.
+The Python workflow has been executed successfully. The Docker image has also been built and run successfully on Windows using Docker Desktop.
 
 ## Documentation
 
 - [Project guide](track_1b/docs/PROJECT.md)
-- [Technical report draft](track_1b/technical_report.md)
+- [Technical report (Markdown)](track_1b/technical_report.md)
+- [Technical report (PDF, forthcoming)](track_1b/SwissLegalTurtle_Report.pdf)
 - [Challenge instructions, unchanged](track_1b/README.md)
 - [Licensing](LICENSES.md)
 
-The dataset card and Hugging Face export are supplied separately in the preparation package. Public repository and dataset URLs must be added after publication. The report PDF is not yet included in this preparation version.
+## Code and dataset
+
+- [GitHub repository](https://github.com/DanielaFshr/swiss-legal-ag-lu-qa)
+- [Hugging Face dataset and dataset card](https://huggingface.co/datasets/DanielaFshr/swiss-legal-ag-lu-qa)
+
+The PDF report will be added as `track_1b/SwissLegalTurtle_Report.pdf` after the technical report has been finalised.

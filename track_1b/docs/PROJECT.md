@@ -1,23 +1,40 @@
-# Projektübersicht
+# Project guide — Swiss Aargau Lucerne Legal QA
 
-Dieses Repo enthält nur den für die Abgabe relevanten Stand. Frühere Pakete und Pilotnotebooks bleiben ausserhalb des Repos archiviert.
+This repository contains the material needed to reproduce the submitted evaluation. Earlier drafting packages, working spreadsheets and pilot notebooks are retained in a separate working archive.
 
-## Reproduktion
+## Reproduce the results
 
-`make run` am Repo-Stamm baut das Docker-Image und berechnet die Endergebnisse aus gespeicherten Antworten und Urteilen. `make run-local` berechnet dieselben Ergebnisse mit lokalem Python. Der Ablauf prüft 300 eindeutige Antworten, die Eingabedateien, 126 correct und 174 incorrect sowie die ursprüngliche Judge–Mensch-Übereinstimmung von 42/57.
+Run `make run` from the repository root to build the Docker image and recompute the final results from stored answers and judgments. The Docker image has been built and run successfully on Windows using Docker Desktop. The Python workflow has also been tested locally.
 
-## Neue Modellantworten
+Alternatively, `make run-local` runs the same evaluation using local Python and saves output files under `track_1b/results/`.
 
-Für einen neuen Modelllauf verwendet `src/inference.py` die Variablen LLM_NAME, LLM_BASE_URL und LLM_API_KEY. Standardmodell ist swiss-ai/Apertus-v1.5-70B:featherless-ai am Hugging-Face-Router. Der Token wird nicht gespeichert. Temperatur 0 und max_tokens 1200. Der optionale neue Lauf benötigt API-Guthaben und wird nicht automatisch gestartet. Gespeicherte Antworten werden beim Fortsetzen übersprungen. Neue Antworten erfordern neue Judge-Urteile und erhalten keine alten Labels.
+The workflow verifies input hashes and 300 unique answers. It checks the final counts of 126 correct and 174 incorrect and reconstructs the original independent judge–human agreement of 42 out of 57 comparable labels. Reproducing these results requires no API key or GPU and makes no new model requests. Building the Docker image requires access to its Python base image.
 
-Die reproduzierbare Hauptauswertung benötigt diese API-Funktion nicht. Ein erneuter Inferenzlauf kann bei einem gehosteten Modell trotz gleicher Einstellungen abweichende Texte liefern. Die originalen technischen Protokolle liegen im separaten Abschlussarchiv. Bei ins_003 wurde nach einer abgeschnittenen Antwort ein zusätzlicher Versuch mit 2400 Tokens verwendet.
+## Generate fresh model answers
 
-## Evidenz
+The optional `src/inference.py` script uses the environment variables `LLM_NAME`, `LLM_BASE_URL` and `LLM_API_KEY`. Its default model is `swiss-ai/Apertus-v1.5-70B:featherless-ai` through the Hugging Face router. The token is not written to disk. The inference settings are temperature 0 and `max_tokens` 1200.
 
-docs/evidence enthält die exakten Bewertungsgrundlagen, Antworten, originalen Judge-Urteile und gesonderten Abschlussentscheidungen. Die Unterlagen unter audit erhalten die ursprüngliche menschliche Stichprobe und den alten agr_003-Fall. So ist die neue Frage klar von der ursprünglichen Stichprobe getrennt.
+Fresh inference consumes API credits and is not started by the standard reproduction command. Saved answers are skipped when resuming. New answers require new judgments and do not inherit the submitted labels.
 
-26 Fälle wurden gemeinsam besprochen. agr_003 wurde danach präzisiert, erneut beantwortet und abschliessend anhand des neuen Judge-Urteils geprüft. In der finalen Antwortsammlung bestehen 59 unveränderte menschliche Stichprobenlabels. Die ursprüngliche unabhängige Prüfung umfasste 60 Antworten. Diese Zahlen dürfen nicht vermischt werden.
+Hosted-model inference may produce different wording even with identical settings. The frozen responses are therefore the basis for deterministic score reproduction. The original inference protocols remain in the separate completion archive. In the original run, ins_003 was retried with 2400 tokens after a truncated answer.
 
-## Öffentliche Reviewbelege
+## Evaluation evidence
 
-Die öffentlichen Dateien enthalten ausformulierte Bewertungsbegründungen und unveränderte ursprüngliche Labels. Wörtliche Chatbestätigungen und Gesprächszeitpunkte sind nicht enthalten. Die Originale verbleiben im separaten Arbeitsarchiv.
+`docs/evidence/` contains the exact grading inputs, model answers, original judge assessments and separate final adjudications. The `audit/` subdirectory preserves the original human sample labels and the previous agr_003 item so that the revised question can be distinguished from the original sample.
+
+Twenty-six cases were jointly reviewed. The agr_003 question was subsequently clarified, answered again and separately judged. Its fresh answer was finalised as incorrect because it asserted an unsupported ten-year isolation maximum.
+
+The final response collection retains 59 unchanged human sample labels. The original independent random review covered 60 answers. The old human label for agr_003 was not transferred to the new response. These two review scopes must be reported separately.
+
+The public evidence includes the substantive adjudication reasons and unchanged original labels. Verbatim conversational confirmations and conversation timestamps are excluded. The original working records remain in a separate archive.
+
+## Language
+
+Project documentation is written in English for the submission audience. Evaluation prompts, legal questions, reference answers, statutory excerpts and grading content remain in German to preserve the tested language and source wording. English documentation uses Aargau and Lucerne for the two cantons. Names in original legal quotations retain their original language.
+
+## Code and dataset
+
+- [GitHub repository](https://github.com/DanielaFshr/swiss-legal-ag-lu-qa)
+- [Hugging Face dataset](https://huggingface.co/datasets/DanielaFshr/swiss-legal-ag-lu-qa)
+- [Technical report](../technical_report.md)
+- [Dataset licence](../../LICENSES.md)

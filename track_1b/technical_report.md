@@ -1,8 +1,8 @@
-# Technical report — Swiss Legal QA
+# Technical report — Swiss Aargau Lucerne Legal QA
 
-Swiss Legal QA evaluates factual statutory knowledge and short legal reasoning in a Swiss setting. Its 300 German-language questions cover federal law and the cantons of Aargau and Lucerne. The final adjudicated collection contains 126 correct and 174 incorrect answers from Apertus v1.5 70B, giving 42.0% accuracy without retrieval.
+Swiss Aargau Lucerne Legal QA evaluates factual statutory knowledge and short legal reasoning in a Swiss setting. Its 300 German-language questions cover federal law and the cantons of Aargau and Lucerne. The final adjudicated collection contains 126 correct and 174 incorrect answers from Apertus v1.5 70B, giving 42.0% accuracy without retrieval.
 
-**Track:** 1B, Core Task Intelligence. **Event:** Online Hack Apertus 2026. **Project title:** Swiss Legal QA, working title pending final team naming. No demo video is claimed.
+**Track:** 1B, Core Task Intelligence. **Event:** Online Hack Apertus 2026. **Project title:** Swiss Aargau Lucerne Legal QA. **Team name:** SwissLegalTurtle. No demo video is claimed.
 
 ## Use of Apertus
 
@@ -18,7 +18,7 @@ The catalogue contains 300 single-turn Q&A items across 25 topics. There are 169
 
 ## Data Collection Method
 
-The curator selected useful provisions from Fedlex and the two cantonal law collections. LLM-assisted drafting produced cases, references and criteria. Stable IDs and metadata link every answer to its legal provision. Package samples were approved by the curator. The original 60-answer random review was selected with seed 20261014 and completed before the disputed-case adjudication. No real client files or recruited research participants were used.
+The curator selected useful provisions from the Swiss Fedlex portal and the cantonal law collections of Aargau and Lucerne. In terms of content, the selection spans multiple areas of law, providing an overview of both general and specialized topics. LLM-assisted drafting produced cases, references and criteria. Stable IDs and metadata link every answer to its legal provision. Package samples were approved by the curator. The original 60-answer random review was selected with seed 20261014 and completed before the disputed-case adjudication. No real client files or recruited research participants were used.
 
 ## Dataset Details
 
@@ -28,7 +28,7 @@ Items store their question, reference, variants, jurisdiction, task type, diffic
 
 ### Method
 
-GPT 6 Mittel was used as judge in separate ChatGPT conversations. It assessed criteria and supplied answer quotes. Python rules 0.5 calculate coverage and three-way labels. An 80% threshold is combined with item-specific critical criteria, explicit contradictions and material extra errors. Semantic equivalence is accepted. Scores are coverage, not accuracy probabilities. Cases requiring review retain their original judge record and receive a separate final decision.
+GPT 6 Medium was used as judge in separate ChatGPT conversations. It assessed criteria and supplied answer quotes. Python rules 0.5 calculate coverage and three-way labels. An 80% threshold is combined with item-specific critical criteria, explicit contradictions and material extra errors. Semantic equivalence is accepted. Scores are coverage, not accuracy probabilities. Cases requiring review retain their original judge record and receive a separate final decision.
 
 ### Evaluation setup and inference parameters
 
@@ -56,7 +56,7 @@ The prototype exposed three recurring issues: a correct outcome with an incorrec
 
 ## Reproducibility
 
-`make run` at the repository root builds a Python Docker image, verifies input hashes and recomputes all labels plus the initial independent agreement. No API keys or GPU are required for this path. The workflow is validated with local Python; Docker verification remains outstanding because Docker is unavailable in the preparation environment. `make run-local` persists outputs under track_1b/results. Fresh inference uses LLM_NAME, LLM_BASE_URL and LLM_API_KEY through src/inference.py and requires new judgments. The code is included rather than relying on private ChatGPT history. The final git commit and public URLs must be recorded after publication.
+`make run` at the repository root builds a Python Docker image, verifies input hashes and recomputes all labels plus the initial independent agreement. No API keys or GPU are required for this path. The Python workflow has been validated locally. The Docker image has also been built and run successfully on Windows using Docker Desktop. `make run-local` persists outputs under track_1b/results. Fresh inference uses LLM_NAME, LLM_BASE_URL and LLM_API_KEY through src/inference.py and requires new judgments. The code is included rather than relying on private ChatGPT history. The public code and dataset URLs are listed below. The exact final Git commit should be recorded with the submission once the report PDF has been added.
 
 ## License
 
@@ -67,6 +67,8 @@ Code: Apache-2.0. Authored documentation: CC-BY-4.0. Curated dataset: CDLA-Permi
 - Hack Apertus project template: https://github.com/HackApertus/project-template
 - Apertus model: https://huggingface.co/swiss-ai/Apertus-v1.5-70B
 - Official legislation: https://www.fedlex.admin.ch/, https://gesetzessammlungen.ag.ch/, https://srl.lu.ch/
+- Code: https://github.com/DanielaFshr/swiss-legal-ag-lu-qa
+- Dataset and dataset card: https://huggingface.co/datasets/DanielaFshr/swiss-legal-ag-lu-qa
 - Dataset citations and legal versions: per-item metadata in the companion dataset.
 
-Preparation status: report text complete as a draft. Team naming, public URLs, git commit, Docker validation and the PDF export remain before submission.
+Preparation status: project and team names are specified and the public repository and dataset URLs have been added. The Python workflow and Docker build/run have been tested. Final report review, PDF export as `SwissLegalTurtle_Report.pdf` and recording the final Git commit remain before submission.
