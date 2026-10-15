@@ -2,7 +2,7 @@
 
 Swiss Aargau Lucerne Legal QA evaluates factual statutory knowledge and short legal reasoning in a Swiss setting. Its 300 German-language questions cover federal law as well as the cantons of Aargau and Lucerne. The final adjudicated collection contains 126 correct and 174 incorrect answers from Apertus v1.5 70B, giving an accuracy of 42.0% without retrieval.
 
-**Track:** 1B, Core Task Intelligence. **Event:** Online Hack Apertus 2026. **Project title:** Swiss Aargau Lucerne Legal QA. **Team name:** SwissLegalTurtle. **Author and sole participant:** Daniela Fischer
+**Track:** 1B, Core Task Intelligence. **Event:** Online Hack Apertus 2026. **Project title:** Swiss Aargau Lucerne Legal QA. **Team name:** SwissJudgeTurtle. **Author and sole participant:** Daniela Fischer
 
 ## Use of Apertus
 

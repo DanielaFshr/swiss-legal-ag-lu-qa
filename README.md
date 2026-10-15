@@ -1,5 +1,8 @@
 # Swiss Aargau Lucerne Legal QA
 
+**Team:** SwissJudgeTurtle  
+**Author and sole participant:** Daniela Fischer
+
 Evaluation of Apertus v1.5 70B on 300 German-language Swiss legal questions covering federal law and the cantons of Aargau and Lucerne. Hack Apertus, Track 1B, Core Task Intelligence.
 
 Final labels: **126 correct, 174 incorrect, 0 not attempted**, accuracy **42.0%**. The final collection contains 299 original answers and one fresh answer after clarification of agr_003. This is a descriptive result for this catalogue and prompt without retrieval.
@@ -20,7 +23,7 @@ The Python workflow has been executed successfully. The Docker image has also be
 
 - [Project guide](track_1b/docs/PROJECT.md)
 - [Technical report (Markdown)](track_1b/technical_report.md)
-- [Technical report (PDF)](track_1b/SwissLegalTurtle_Report.pdf)
+- [Technical report (PDF)](track_1b/SwissJudgeTurtle_Report.pdf)
 - [Challenge instructions, unchanged](track_1b/README.md)
 - [Licensing](LICENSES.md)
 
