@@ -20,7 +20,7 @@ The Python workflow has been executed successfully. The Docker image has also be
 
 - [Project guide](track_1b/docs/PROJECT.md)
 - [Technical report (Markdown)](track_1b/technical_report.md)
-- [Technical report (PDF, forthcoming)](track_1b/SwissLegalTurtle_Report.pdf)
+- [Technical report (PDF)](track_1b/SwissLegalTurtle_Report.pdf)
 - [Challenge instructions, unchanged](track_1b/README.md)
 - [Licensing](LICENSES.md)
 
@@ -29,4 +29,3 @@ The Python workflow has been executed successfully. The Docker image has also be
 - [GitHub repository](https://github.com/DanielaFshr/swiss-legal-ag-lu-qa)
 - [Hugging Face dataset and dataset card](https://huggingface.co/datasets/DanielaFshr/swiss-legal-ag-lu-qa)
 
-The PDF report will be added as `track_1b/SwissLegalTurtle_Report.pdf` after the technical report has been finalised.

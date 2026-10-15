@@ -1,8 +1,8 @@
-# Technical report — Swiss Aargau Lucerne Legal QA
+# Technical report - Swiss Aargau Lucerne Legal QA
 
-Swiss Aargau Lucerne Legal QA evaluates factual statutory knowledge and short legal reasoning in a Swiss setting. Its 300 German-language questions cover federal law and the cantons of Aargau and Lucerne. The final adjudicated collection contains 126 correct and 174 incorrect answers from Apertus v1.5 70B, giving 42.0% accuracy without retrieval.
+Swiss Aargau Lucerne Legal QA evaluates factual statutory knowledge and short legal reasoning in a Swiss setting. Its 300 German-language questions cover federal law as well as the cantons of Aargau and Lucerne. The final adjudicated collection contains 126 correct and 174 incorrect answers from Apertus v1.5 70B, giving an accuracy of 42.0% without retrieval.
 
-**Track:** 1B, Core Task Intelligence. **Event:** Online Hack Apertus 2026. **Project title:** Swiss Aargau Lucerne Legal QA. **Team name:** SwissLegalTurtle. No demo video is claimed.
+**Track:** 1B, Core Task Intelligence. **Event:** Online Hack Apertus 2026. **Project title:** Swiss Aargau Lucerne Legal QA. **Team name:** SwissLegalTurtle. **Author and sole participant:** Daniela Fischer
 
 ## Use of Apertus
 
@@ -71,4 +71,3 @@ Code: Apache-2.0. Authored documentation: CC-BY-4.0. Curated dataset: CDLA-Permi
 - Dataset and dataset card: https://huggingface.co/datasets/DanielaFshr/swiss-legal-ag-lu-qa
 - Dataset citations and legal versions: per-item metadata in the companion dataset.
 
-Preparation status: project and team names are specified and the public repository and dataset URLs have been added. The Python workflow and Docker build/run have been tested. Final report review, PDF export as `SwissLegalTurtle_Report.pdf` and recording the final Git commit remain before submission.
